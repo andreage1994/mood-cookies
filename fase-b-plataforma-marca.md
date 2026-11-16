@@ -125,6 +125,25 @@ oficial todavía:
 > de Mood Baker reconozca la firma — un ingrediente familiar, presentado de
 > una forma que no había visto — y vuelva buscando esa sorpresa.
 
+**Actualización con datos reales de mercado (2026-11-16, ver
+`fase-a-investigacion-mercado.md`):** A y B tienen más competencia directa
+de la que parecía — Vereda, Origo y Delicati ya ocupan bien el territorio de
+"proximidad/temporada en Barcelona" (B), y Benévola ya ocupa buena parte de
+"el acto de comer con atención" en dulce de autor (A). La dirección **C** es
+la única que coincide con un hueco de mercado verificado sin competencia
+directa: nadie investigado aplica "ingrediente conocido + sorpresa" a la vez
+en dulce y en salado, con un discurso explícito de Ritualizar/cuidado
+detrás. Esto es una recomendación respaldada por evidencia, no una decisión
+tomada — sigue siendo de Andrea elegir.
+
+**Riesgo real detectado, no solo un dato de contexto:** La Cantonada (Sant
+Martí) ya vende un croissant de calçots y romesco — el mismo ingrediente y
+el mismo gesto de "temporada catalana reinventada" que la tartaleta de
+calçots y romesco propuesta en la sección 7b. No es un conflicto de marca
+(formato distinto, sin el discurso de Mood Baker detrás), pero si se
+mantiene esa pieza, no se puede presentar como "nunca visto" — hay
+precedente de prensa reciente.
+
 ## 4. Lo que significa comer, para Mood Baker
 
 Esta es la idea más distintiva del brief, y merece quedar como sección propia
