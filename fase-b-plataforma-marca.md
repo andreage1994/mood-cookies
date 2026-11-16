@@ -98,13 +98,32 @@ oficial.)*
 ## 3. Visión — qué quiere llegar a representar
 
 **Esto es lo único que el brief de Andrea no dice explícitamente — no lo
-invento como cerrado.** Propongo un borrador en la misma lógica que la cadena
-de The Lokal (Propósito → Misión → Visión), para que Andrea lo valide,
-reescriba o descarte:
+invento como cerrado.** Andrea pidió (2026-11-16) que le diga qué necesito
+para decidir, y que le proponga opciones.
 
-> *Propuesta, sin confirmar:* **Convertirse en la referencia de cómo
-> ritualizar lo dulce de cada temporada** — que pedir algo de Mood Baker sea,
-> en sí mismo, una forma de pararse a disfrutar.
+**Qué necesito para que esto deje de ser un borrador mío:** una visión
+responde "¿a qué aspira llegar a ser la marca, si todo sale bien, dentro de
+años?" — no qué hace hoy (eso es la Misión), sino qué quiere representar.
+Lo más útil que Andrea puede darme: si Mood Baker aspira a ser sobre todo
+**un lugar/marca local muy querida en Barcelona** (como Vereda, que ella
+misma citó como referencia de valores), o si aspira a algo más amplio — una
+forma de entender la repostería de proximidad que podría viajar fuera de
+Barcelona. Eso cambia qué tipo de visión escribo.
+
+Tres direcciones posibles, para elegir, mezclar o descartar — ninguna es la
+oficial todavía:
+
+> **A. Centrada en el acto de comer.** Convertirse en la referencia de que
+> comer algo de temporada, con atención, es ya un acto de cuidado — sin que
+> haga falta nada más alrededor.
+>
+> **B. Centrada en el territorio (más cercana a Vereda).** Ser la expresión
+> más honesta de la repostería de proximidad y temporada en Barcelona — que
+> el producto cuente qué productor, qué estación, qué mercado hay detrás.
+>
+> **C. Centrada en la sorpresa reconocible.** Que cualquiera que pruebe algo
+> de Mood Baker reconozca la firma — un ingrediente familiar, presentado de
+> una forma que no había visto — y vuelva buscando esa sorpresa.
 
 ## 4. Lo que significa comer, para Mood Baker
 
@@ -164,8 +183,11 @@ es saludable?" que The Lokal usa para briefar packaging y carta.
 ## 7. Bloques de producto — línea "Siempre" (nuevo, 2026-11-16)
 
 Primeros 3 productos confirmados por Andrea, categoría **"Siempre"**
-(disponibles de forma permanente, a diferencia de lo estacional/rotativo —
-esa segunda categoría todavía no está definida, ver preguntas abiertas):
+(disponibles de forma permanente). **Resuelto (2026-11-16): por qué existen
+dos categorías.** Andrea lo explicó directamente: "Siempre" son productos
+que existen todo el tiempo y son reconocibles — el ancla estable de la
+marca. La categoría rotativa (ver 7b) existe para aportar frescura y
+rotación — no es solo "lo que no es Siempre", tiene su propia función.
 
 | Producto | Ingredientes | Lectura contra los 5 criterios |
 |---|---|---|
@@ -173,13 +195,18 @@ esa segunda categoría todavía no está definida, ver preguntas abiertas):
 | **Bizcocho de calabacín, queso de oveja, aceitunas y AOVE** | Calabacín, queso de oveja, aceitunas, AOVE | Seasonality (calabacín) · Identity fuerte — un bizcocho salado-dulce es lo más "reconocible como Mood" de los tres, rompe la expectativa de bizcocho clásico · Proximity (queso de oveja, aceitunas como producto de proximidad típico) |
 | **Bizcocho de pera, romero, avellanas y chocolate** | Pera, romero, avellanas, chocolate | Seasonality (pera, fruta de otoño/invierno) · Taste (combinación romero+chocolate, poco obvia) · Identity (el romero en un bizcocho dulce es la misma lógica de firma que el calabacín) |
 
-**Patrón que ya se puede nombrar, sin que Andrea lo haya dicho explícitamente
-así:** los tres productos cruzan dulce con algo que no se espera ahí (AOVE en
-vez de mantequilla, queso de oveja y aceitunas en un bizcocho, romero en un
-bizcocho de chocolate). Si esto es intencional como firma de marca (criterio
-4, Identity, aplicado de forma sistemática) merece decirse explícitamente en
-esta Fase B, no quedar como coincidencia entre tres recetas — se lo señalo a
-Andrea como pregunta abierta.
+**Resuelto (2026-11-16) — qué es realmente el patrón, aclarado por Andrea:**
+no es un cruce deliberado de dulce-con-salado como firma de identidad. Son
+dos cosas distintas que se confundían en la lectura anterior:
+
+1. **Por qué hay piezas saladas:** no es una declaración de identidad, es
+   servir también a quien prefiere salado — no todo el mundo disfruta igual
+   con dulce.
+2. **Qué es "lo inesperado" de verdad:** usar ingredientes que todo el mundo
+   conoce, en una combinación o presentación que no se ha visto. El ejemplo
+   de Andrea: la pera es un ingrediente muy visto, el bizcocho es un formato
+   muy visto — pero un bizcocho de pera con romero no se ve. Eso es la firma
+   real de Identity, independiente de si la pieza es dulce o salada.
 
 ## 7b. Bloques de producto — línea "Rotacional" (nuevo, 2026-11-16)
 
@@ -191,7 +218,7 @@ y es rotativa por temporada, no por edición limitada puntual).
 | Momento | Tartaleta | Lectura contra los 5 criterios |
 |---|---|---|
 | *(de referencia, sin fecha dada)* | Aceitunas | Ejemplo citado por Andrea como punto de partida del formato — sin confirmar en qué estación vive. |
-| Otoño | Calabaza, queso y avellanas | Seasonality (calabaza, avellanas de otoño) · Identity (misma lógica de cruce dulce/salado-inesperado que el bloque "Siempre", aquí en formato salado) |
+| Otoño | Calabaza, queso y avellanas | Seasonality (calabaza, avellanas de otoño) · Identity (ingrediente de temporada muy conocido, en una tartaleta salada que no es la presentación esperada) |
 | *(estación sin confirmar — probablemente invierno/principios de primavera, temporada real de calçots en Cataluña)* | Calçots y romesco | Proximity + Identity muy fuertes — el calçot con romesco es prácticamente un símbolo cultural catalán, no solo un ingrediente de temporada; encaja directo con "Km 0, but never provincial" del mantra borrador |
 
 **Nota sobre la foto de inspiración:** Andrea mencionó adjuntar una foto de
@@ -199,12 +226,11 @@ referencia para la tartaleta de calabaza — no llegó ningún archivo de imagen
 en el mensaje, solo texto. Pendiente de reenvío si hace falta para
 `mood-baker-direccion-arte`.
 
-**Corrección a la nota del punto 7:** con esta segunda línea confirmada, el
-patrón de "dulce + algo inesperado" se amplía — Mood Baker no es solo dulce:
-es repostería creativa que incluye formatos salados de temporada (tartaletas).
-El hilo de identidad real parece ser **"producto de temporada con un cruce
-inesperado de sabor/textura"**, no "siempre dulce". Ajusto la sección 0 y el
-resto del documento con esta lectura más amplia.
+**Corrección a la nota del punto 7 (y a su propia corrección anterior):** el
+hilo de identidad real no es "cruce dulce-salado", según aclaró Andrea — es
+**ingrediente conocido + combinación o presentación que no se ha visto**,
+igual en dulce que en salado. Lo salado existe porque no todo el mundo
+prefiere dulce, no como gesto de identidad en sí mismo.
 
 ## 7c. Cookies — en estudio, sin categoría cerrada (nuevo, 2026-11-16)
 
@@ -245,43 +271,62 @@ textual de Andrea):
 5. **Identidad reconocible en cada receta** — no repostería genérica con
    ingredientes bonitos, sino algo que solo Mood haría así.
 
-## 9. Mantra de marca — borrador, sin confirmar
+## 9. Mantra de marca — borrador v2, sin confirmar
 
-**Importante: a diferencia de los puntos 1-8, esto NO sale de ninguna frase
-textual de Andrea — es una propuesta mía, en el mismo formato que usa The
-Lokal (THE LOKAL WAY, 5 tensiones "X, but never Y"), para que Andrea la
-reescriba, la tire o la apruebe. No tratarlo como cerrado bajo ningún
-concepto.**
+**Qué es y para qué sirve (Andrea pidió más contexto, 2026-11-16):** no es
+un eslogan — es una herramienta de trabajo interna. Cada tensión tiene un
+lado "fácil" (el cliché obvio) y dice explícitamente qué evitar. Sirve para
+revisar cualquier pieza (packaging, web, una receta nueva) y comprobar que
+no cayó en el lado fácil de ninguna. The Lokal lo usa así para su "THE LOKAL
+WAY" — se cita en cada revisión de diseño, no se repite como tagline.
 
+**v1 (descartada por desalineada con las correcciones de hoy) decía "Indulgent,
+but never careless" y "Ritual, but never a chore" — ya no encajan: la
+primera no refleja el eje real (temporada/proximidad/whole foods, no
+indulgencia), la segunda sigue hablando de "ritual" como si fuera una
+mecánica.**
+
+**v2, reescrita con lo confirmado hoy — sigue siendo propuesta mía, no
+texto de Andrea:**
+
+- *Familiar, but never obvious.* — el patrón real de Identity: ingrediente
+  conocido, combinación que no se ha visto (el bizcocho de pera y romero).
 - *Seasonal, but never limited.*
 - *Km 0, but never provincial.*
-- *Indulgent, but never careless.*
-- *Ritual, but never a chore.*
-- *Simple, but never predictable.*
+- *Nourishing, but never clinical.* — whole foods y sin procesados, sin
+  sonar a etiqueta de dieta.
+- *Shared, but never performative.* — compartir con los tuyos, no para la
+  foto.
+
+(Se cae "Ritual, but never a chore" — Ritualizar ya no es una tensión de
+producto, es speech de marca, no encaja en este formato de "X pero nunca Y"
+de la misma manera.)
 
 ---
 
 ## Preguntas abiertas (no dar por resueltas)
 
-1. **¿Falta Fase A (investigación de mercado/competencia)?** Este documento
-   se construyó directamente desde el brief de Andrea, sin el paso de
-   investigación de mercado que sí tuvo The Lokal. Puede ser intencional
-   (Andrea ya conoce el mercado de repostería de proximidad en Barcelona de
-   primera mano) o puede valer la pena un Fase A corto antes de cerrar
-   identidad visual/web. Decisión de Andrea.
-2. **Visión (punto 3)** — es la pieza con menos respaldo textual del brief.
-   Necesita confirmación explícita, no asumirla por analogía con Mood
-   Cookies.
-3. **El mantra (punto 9)** es enteramente un borrador mío — necesita
-   reescritura real de Andrea antes de usarse en ninguna pieza de identidad
-   visual o web.
-4. **El patrón "dulce + algo inesperado" (punto 7)** — ¿es una firma de marca
-   intencional y sistemática, o coincidencia de estas 3 recetas? Afecta
-   directamente a cómo `mood-baker-direccion-arte` lea "Identity" en recetas
-   futuras.
+1. **¿Falta Fase A (investigación de mercado/competencia)?** **En marcha
+   (2026-11-16):** Andrea confirmó que no tiene esta información y pidió
+   que se investigue. Encargado a un investigador de mercado — referencias
+   de partida de Andrea: Vereda (restaurante en Barcelona, valores muy
+   parecidos a los de Mood Baker), Oz Bakery (artesanal, con toques árabes)
+   y Origo (harinas locales). Ver `fase-a-investigacion-mercado.md` cuando
+   exista.
+2. ~~Visión (punto 3)~~ — **en progreso**: Andrea pidió opciones en vez de
+   confirmar un borrador cerrado — ver las 3 direcciones propuestas en el
+   punto 3. Sigue sin elegirse ninguna.
+3. ~~El mantra (punto 9)~~ — **en progreso**: reescrito a v2 con lo
+   confirmado hoy (ver punto 9), pero sigue siendo propuesta mía, no texto
+   de Andrea. Necesita su confirmación o reescritura.
+4. ~~El patrón "dulce + algo inesperado" (punto 7)~~ — **resuelto
+   (2026-11-16)**: no es cruce dulce-salado, es ingrediente conocido +
+   combinación/presentación no vista, igual en dulce que en salado. Lo
+   salado existe por preferencia de paladar, no por gesto de identidad.
 5. ~~La categoría "Siempre" implica que hay otra(s) categoría(s)~~ —
    **resuelto**: sí, "Rotacional" (tartaletas de temporada) y "Cookies" en
-   estudio, ver secciones 7b-7c.
+   estudio, ver secciones 7b-7c. También resuelto el porqué: Siempre = ancla
+   reconocible, Rotacional = frescura.
 6. ~~¿Se mantiene el ritual estructurado por QR de Mood Cookies?~~ —
    **resuelto (2026-11-16): no.** Ritualizar pasa a ser speech de marca, no
    mecánica de producto — ver sección 5. Esto cierra también el paso 3 de
@@ -291,3 +336,10 @@ concepto.**
    solo confirmó que cae el ritual estructurado por QR — no dijo nada sobre
    si los eventos/talleres en persona o la propuesta B2B se mantienen para
    Mood Baker. No asumir ninguna de las dos cosas; sigue abierto.
+8. **La voz editorial (nuevo, 2026-11-16)** — Andrea corrigió dos veces
+   seguidas la dirección de voz (primero "no es wellness", después "tampoco
+   es oficio/técnica puro") — ver `direccion-editorial-voz.md` v2: la voz
+   real es la reflexión de recibir/agradecer/compartir/cuidar/conectar del
+   brief original, no una ficha técnica de panadería. Pendiente aplicar esta
+   v2 a fondo en todo `web-copy-v2.md` (hecho solo parcialmente hasta
+   ahora).

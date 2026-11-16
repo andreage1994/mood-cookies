@@ -1,85 +1,86 @@
 # Dirección editorial — la voz de Mood Baker
 
-**Qué es esto:** el escalón entre `fase-b-plataforma-marca.md` (qué cree la
-marca) y el copy final de la web. Lo escribo yo directamente, con todo el
-contexto de la conversación con Andrea, en vez de delegarlo a un agente sin
-ese contexto — es trabajo de estrategia+dirección, no de ejecución.
-**Por qué existe:** Andrea leyó `web-copy-v1.md` y señaló correctamente que
-seguía sonando a Mood Cookies — no por las palabras cambiadas (cookie→bizcocho),
-sino por el **registro**: una marca de wellness explicando autocuidado, en
-vez de alguien horneando de verdad.
+**v2 (2026-11-16, misma tarde):** la v1 de este documento proponía un giro a
+"voz de oficio" (panadera hablando de técnica e ingrediente). Andrea lo
+corrigió: tampoco es eso. Dejo la v1 tachada más abajo para que quede el
+razonamiento, y escribo la versión correcta encima.
 
 ---
 
-## El diagnóstico
+## La voz real, confirmada por Andrea
 
-`web-copy-v1.md` hizo bien la sustancia (catálogo real, valores reales,
-preguntas abiertas marcadas) pero mal el registro. Frases como:
+**Lo que se deja atrás:** el registro de wellness-funcional de Mood
+Cookies — mecánica de ritual desbloqueable, QR, adaptógenos, frases de
+self-help de calendario de escritorio ("una invitación, nunca una
+obligación"), comer como táctica de optimización.
 
-- "Nunca entendí por qué ese placer tenía que estar reñido con cuidarte."
-- "Una invitación, nunca una obligación."
-- "Un pequeño momento para parar."
+**Lo que NO es la alternativa:** una voz de técnica/oficio pura (textura,
+horno, productor, como ficha de producto con alma de catálogo). Le falta la
+reflexión — se queda en el producto y pierde el porqué.
 
-...son 100% recuperables de Mood Cookies tal cual — podrían estar en
-cualquiera de las dos marcas sin cambiar una palabra. Eso es la señal de que
-el registro no cambió, solo el producto nombrado.
+**Lo que sí es:** una reflexión genuina sobre comer como acto de **recibir,
+agradecer, compartir, cuidar, conectar** — las palabras literales del primer
+brief de Andrea. Comer SÍ es autocuidado, pero en el sentido real de la
+palabra (prestar atención, estar presente, cuidar de uno mismo y de quien
+tienes delante), no en el sentido de mecánica de wellness-app. Es más cerca
+de una reflexión de sobremesa que de un post de Instagram de panadería o de
+una app de bienestar.
 
-## El giro: de voz-wellness a voz-de-oficio
+### Vocabulario a evitar
+- Mecánica de ritual desbloqueable, QR, "optimiza tu mood", lenguaje de
+  productividad aplicado a comer ("aprovecha tu momento", "maximiza tu día").
+- Frases de self-help genérico que podrían estar en un calendario de
+  escritorio ("una invitación, nunca una obligación").
+- Ficha técnica fría sin ninguna capa de sentido (ingrediente + origen +
+  nada más, sin decir por qué importa).
 
-**Mood Cookies hablaba de sí misma** (autocuidado, momentos, invitaciones).
-**Mood Baker tiene que hablar del producto** — textura, ingrediente,
-productor, temporada — con Ritualizar como acento ocasional, no como tema
-permanente.
+### Vocabulario a favorecer
+- Recibir · agradecer · compartir · cuidar · conectar · nutrir — con
+  naturalidad, no como lista de valores recitada.
+- Mesa, compartir, repartir, despacio — el acto social/físico de comer.
+- El producto real (temporada, proximidad, el ingrediente concreto) **integrado
+  en la reflexión**, no como ficha aparte.
+- Primera persona de fundadora cuando aplica (ya funcionó en "Por qué Mood
+  Baker" y en "Por qué existimos").
 
-### Vocabulario a evitar (huele a wellness-app)
-cuidarte · bienestar · autocuidado · una invitación, nunca una obligación ·
-pequeño momento (como muletilla repetida) · "estar mejor" como meta
-abstracta · cualquier frase que funcionaría igual en una app de meditación.
+### Proporción sustancia/reflexión, por tipo de página
+A diferencia de la v1 (que pedía 90% producto en fichas), aquí la reflexión
+puede convivir con el producto en casi cualquier página — el error a evitar
+no es "demasiada filosofía", es "filosofía de wellness-mecánico" o
+"producto sin ningún sentido detrás". Cada pieza necesita las dos capas,
+en proporción distinta:
+- **Ficha de producto/catálogo:** mayoría producto, con una frase de cierre
+  que lo conecte a recibir/compartir/cuidar — nunca ficha técnica sola.
+- **Hero, "El problema", "Por qué Mood Baker", "Nuestra forma de ver el
+  mundo":** aquí la reflexión lleva el peso, el producto aparece como
+  ejemplo concreto de la idea, no al revés.
+- **Journal, FAQ, Contacto:** mayoría información práctica, con la voz
+  (tono cercano, nunca clínico) incluso en lo operativo.
 
-### Vocabulario a favorecer (oficio y producto real)
-horno · masa · corteza/miga · temporada · mercado · productor (nombrado,
-cuando se sepa) · el ingrediente real, no su categoría ("avellanas", no
-"frutos secos de proximidad") · verbos de cocina (hornear, tostar, macerar)
-en vez de verbos de terapia (cuidar, nutrir, conectar).
+## Ejemplo aplicado — misma idea, los tres registros
 
-### Proporción sustancia/filosofía, por tipo de página
-- **Ficha de producto, catálogo:** ~90% producto (qué es, de dónde viene,
-  cómo sabe), ~10% Ritualizar, si acaso una frase de cierre.
-- **Hero, "El problema", "Por qué Mood Baker":** aquí sí cabe más filosofía
-  — es la página que explica el porqué, no la que vende la pieza.
-- **"Nuestra forma de ver el mundo":** la única página donde Ritualizar
-  puede ser el tema principal, no un acento — es literalmente su sitio.
-- **Journal, FAQ, Contacto:** casi todo producto/información práctica, cero
-  filosofía salvo una línea de cierre si acaso.
-
-### Ritualizar como acento, no como tema
-Antes (Mood Cookies): cada sección terminaba reforzando el mismo mensaje de
-autocuidado. Ahora: Ritualizar aparece **una vez** por página como mucho,
-normalmente al cierre, nunca abriendo una ficha de producto.
-
----
-
-## Ejemplo aplicado — misma idea, dos registros
-
-**Antes (voz-wellness, lo que había en v1):**
+**Wellness-funcional (lo que dejamos atrás, Mood Cookies):**
 > Por eso elegimos ingredientes de proximidad y de temporada — no porque
 > esté de moda, sino porque es la forma más sencilla de que algo sepa de
 > verdad bien y, además, te siente bien.
 
-**Después (voz-de-oficio):**
+**Oficio puro (la v1 de este documento, también corregida):**
 > El calabacín de esta semana viene de temporada. Lo cruzamos con queso de
 > oveja, aceitunas y AOVE en un bizcocho que no se parece a ningún bizcocho
-> que hayas probado. Eso es Mood: coger algo de temporada y hacerle una
-> pregunta que nadie le había hecho.
+> que hayas probado.
 
-La segunda versión no menciona "cuidarte" ni "bienestar" en ningún momento —
-y sostiene exactamente la misma idea de marca (Identity, el cruce
-inesperado) con mucho más producto real.
+**La voz real (recibir/compartir/cuidar, con producto integrado):**
+> El calabacín de esta semana viene de temporada. Lo cruzamos con queso de
+> oveja, aceitunas y AOVE en un bizcocho que no se parece a ningún otro que
+> hayas probado — para comerlo despacio, solo o repartido en la mesa, como
+> se comparte algo que de verdad apetece.
 
 ---
 
-## Encargo a `mood-baker-redaccion`
+## Encargo a quien redacte
 
-Reescribir `web-copy-v1.md` completo bajo estas reglas, produciendo
-`web-copy-v2.md`. Mismas secciones, mismas preguntas abiertas marcadas (no
-resolverlas), pero con el registro corregido en cada bloque.
+Reescribir todo el copy de la web bajo esta voz (v2, no la v1 tachada). El
+agente de redacción que ya se lanzó trabajó con la v1 de este documento —
+hace falta una pasada de corrección sobre su resultado, no partir de cero
+otra vez (la estructura y las preguntas abiertas que marcó siguen siendo
+válidas, solo el registro de cada bloque necesita este ajuste).
