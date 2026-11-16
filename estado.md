@@ -9,24 +9,26 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
 - Pivote de Mood Cookies (cookies funcionales, 4 "moods", rituales por QR) a
   **Mood Table** (obrador de creatividad gastronómica, dulce y salado,
   proximidad y temporada). Dos pasos de nombre el mismo día: Mood Cookies →
-  Mood Baker → Mood Table. La idea de fondo (comer como conexión/momento, no
-  como trámite) sobrevive a los dos pivotes.
-- **Fase B tiene documento oficial, prácticamente cerrado** (
-  `fase-b-plataforma-marca.md` v3, a partir de
-  `documentos-fuente/MOOD_TABLE_Identidad_de_Marca_v03.docx`). De las 6
-  reconciliaciones que señalé al recibirlo, Andrea resolvió 5 en el acto:
-  eslogan (español sustituye al inglés), tarta de queso de cabra confirmada
-  en invierno, 6 criterios de desarrollo (Creatividad nueva + Proximidad
-  recuperada), cuarto verbo (propuse "Compartir", pendiente que lo
-  confirme), calçots/romesco se mantiene sin narrativa especial. **Sigue
-  abierto solo el B2B** ("Organiza una experiencia Mood").
-- **Novedad importante, no pedida por mí — Mood Moments vuelve.** Andrea
-  revirtió la resolución de esta misma tarde: el ritual desbloqueable por
-  QR de Mood Cookies **sí** se mantiene, "de la misma forma que antes". Qué
-  significa eso para un catálogo que ya no tiene 4 "moods" como taxonomía
-  es una pregunta de diseño abierta — ver `fase-b-plataforma-marca.md`
-  sección 12.
-- Eslogan oficial, único: **"Conectar con lo que nos alimenta."**
+  Mood Baker → Mood Table.
+- **Fase B tiene documento oficial, prácticamente cerrado**
+  (`fase-b-plataforma-marca.md` v3, a partir de
+  `documentos-fuente/MOOD_TABLE_Identidad_de_Marca_v03.docx`). Las 6
+  reconciliaciones iniciales están resueltas salvo una. Eslogan único:
+  **"Conectar con lo que nos alimenta."**
+- **Mood Moments, resuelto del todo:** vuelve, pero solo como eventos de
+  comunidad (cenas en reflexión, yoga/pilates, talleres de belleza) — el
+  QR/ritual por producto de Mood Cookies se elimina sin excepción. Se
+  solapa con "Mood Table Experiences" (su cara gastronómica).
+- **Único punto real sin cerrar de Fase B: el B2B** ("Organiza una
+  experiencia Mood") — encaja de forma natural en Mood Moments pero no está
+  confirmado.
+- **`web-copy-v5.md` escrito**, alineado al documento oficial: eslogan
+  único, manifiesto real en "Nuestra forma de ver el mundo", catálogo con
+  la tarta de remolacha y las cookies como línea propia (3 sabores
+  nuevos), "Cómo funciona" sin ningún paso pendiente, sección nueva de
+  Mood Moments, y el test "¿qué momento necesitas hoy?" retirado (su
+  premisa ya no existe). Propone fusionar Experiences+Moments en una sola
+  sección de nav — a confirmar.
 - La identidad visual ya tiene dirección (sección 09 del documento: paleta
   avena/verde oliva/terracota/avellana/salvia/vino, DM Serif Display + DM
   Sans, dirección fotográfica, packaging) — Fase C ya no arranca de cero.
@@ -35,37 +37,25 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
 
 ## Fases
 
-- [x] **Fase A · Investigación de mercado** — **hecha (2026-11-16)**, ver
-      `fase-a-investigacion-mercado.md`. Investigó Vereda, Oz Bakery, Origo
-      (referencias de Andrea) + 6 competidores más, con fuentes citadas.
-      Riesgo señalado (La Cantonada con un croissant de calçots y romesco)
-      resuelto por Andrea: la tartaleta se mantiene, no es pieza
-      identitaria de marca, es rotacional — no hace falta narrativa de
-      diferenciación. Limitaciones declaradas: sin visita física, sin
-      precios de carta oficiales de ningún competidor.
+- [x] **Fase A · Investigación de mercado** — **hecha**, ver
+      `fase-a-investigacion-mercado.md`. Riesgo señalado (La Cantonada con
+      un croissant de calçots y romesco) resuelto: la tartaleta se
+      mantiene, no es pieza identitaria, es rotacional. Limitaciones
+      declaradas: sin visita física, sin precios de carta oficiales.
 - [x] **Fase B · Plataforma de marca** — **v3, documento oficial,
       prácticamente cerrado**, ver `fase-b-plataforma-marca.md`. Único
-      punto real sin responder: estado del B2B ("Organiza una experiencia
-      Mood"). Punto nuevo a diseñar (no a decidir, Andrea ya confirmó que
-      Mood Moments vuelve): cómo encaja el mecanismo de QR/ritual en un
-      catálogo organizado por Siempre/Rotacional/Cookies en vez de por
-      "mood".
+      punto real sin responder: estado del B2B.
 - [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente de que
-      Andrea confirme la Fase A (sobre todo: visita física pendiente).
+      Andrea confirme la Fase A (visita física pendiente).
 - [~] **GATE 2 · ¿Es esta la plataforma de marca que Andrea quiere?** —
-      prácticamente sí; falta solo B2B y la forma concreta de Mood Moments.
-- [~] **Fase C · Diseño del ecosistema** — pilar web en `web-copy-v1.md` →
-      `v4` (voz corregida, separación marca/producto), **pendiente una v5**
-      que alinee con el documento oficial de Fase B (eslogan único,
-      catálogo de invierno actualizado, 6 criterios, cuarto verbo, nueva
-      arquitectura de ecosistema Mood Kitchen/Journal/Experiences/Goods/
-      Moments, voz con reglas explícitas, y el paso 3 de "Cómo funciona"
-      que vuelve a tener contenido real aunque falte fijar su forma).
-      Identidad visual: dirección de arte ya no arranca de cero — la
-      sección 09 del documento oficial de Fase B la da casi entera
-      (paleta, tipografía, fotografía, packaging); falta solo que
-      `mood-table-direccion-arte` la desarrolle en sistema de identidad
-      concreto (logo, aplicaciones).
+      prácticamente sí; falta solo el B2B.
+- [~] **Fase C · Diseño del ecosistema** — pilar web:
+      `web-copy-v1.md` → `v4` (voz corregida, separación marca/producto) →
+      **`v5` (hoy): alineado al documento oficial completo**, ver resumen
+      arriba. Pendiente de que Andrea lo revise. Identidad visual: la
+      sección 09 del documento oficial ya da dirección de arte, paleta,
+      tipografía y fotografía — falta que `mood-table-direccion-arte` la
+      desarrolle en sistema de identidad concreto (logo, aplicaciones).
 
 ## Equipo de agentes
 
@@ -80,11 +70,8 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
 
 ## Próximo paso
 
-1. Que Andrea responda B2B y la forma concreta de Mood Moments (único
-   diseño real pendiente de Fase B).
-2. Reescribir el copy de la web (v5) alineado al documento oficial —
-   puedo arrancarlo ya con lo que hay, dejando Mood Moments como la única
-   pieza a falta de forma final.
+1. Que Andrea revise `web-copy-v5.md` y responda el B2B.
+2. Que confirme o cambie el cuarto verbo propuesto ("Compartir").
 3. Arrancar `mood-table-direccion-arte` sobre la sección 09 ya dada
    (paleta, tipografía, fotografía) para llegar a sistema de identidad
    (logo concreto, aplicaciones).

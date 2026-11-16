@@ -568,27 +568,21 @@ experiencia en el centro.
   colaboraciones y experiencias alrededor de la comida.
 - **Mood Goods** — productos propios, colecciones estacionales,
   colaboraciones y ediciones limitadas.
-- **Mood Moments** — **actualizado 2026-11-16: sigue existiendo, de la
-  misma forma que antes.** Esto corrige la resolución de esta misma tarde
-  (en el v1/v2 de este documento, ahora historial): se había confirmado que
-  el ritual estructurado por QR de Mood Cookies **no** se mantenía con el
-  pivote a Mood Table. Andrea lo revierte: Mood Moments continúa igual que
-  funcionaba en Mood Cookies.
+- **Mood Moments** — **resuelto del todo (2026-11-16): eventos de
+  comunidad, sin QR ni mecánica por producto.** Primera versión de hoy:
+  Andrea dijo que volvía "de la misma forma que antes" (el QR de Mood
+  Cookies). Matizado en el mismo día: se mantiene, **pero sobre todo por
+  los eventos de comunidad, no tanto como mood moments relacionado con
+  cada producto**. El QR se elimina del todo. Lo que queda: cenas en
+  reflexión, eventos de deporte (yoga, pilates), talleres de belleza y
+  similares — encuentros de comunidad, no una capa digital sobre el
+  catálogo. Se solapa con "Mood Table Experiences" (ambas son eventos en
+  persona); las trato como dos caras de la misma sección — Experiences la
+  cara gastronómica, Moments el resto — ver `web-copy-v5.md`.
 
 *(Resuelve la pregunta abierta sobre si "Experiencias Mood" sobrevivía al
-pivote: sí, como "Mood Table Experiences". El B2B "Organiza una experiencia
-Mood" no se nombra explícito — ver "Reconciliación".)*
-
-**Pendiente de diseño, no de decisión — cómo encaja Mood Moments en el
-catálogo de Mood Table:** en Mood Cookies, el QR iba por "mood" (Bite Me,
-High on Life, Running on Vibes, Pillow Talk) — una taxonomía que ya no
-existe en Mood Table (el catálogo se organiza por Siempre/Rotacional/
-Cookies, no por mood). "De la misma forma que antes" puede leerse como (a)
-el mismo mecanismo de QR-por-producto, con un ritual propio para cada pieza
-del catálogo actual, o (b) el mismo mecanismo pero recuperando también la
-taxonomía de 4 moods como capa adicional sobre el catálogo. Antes de tocar
-`web-copy` (paso 3 de "Cómo funciona") necesito que Andrea confirme cuál de
-las dos — no lo decido yo.
+pivote: sí. El B2B "Organiza una experiencia Mood" sigue sin confirmarse —
+ver "Reconciliación".)*
 
 ---
 
@@ -668,30 +662,20 @@ Sigue pendiente que lo confirme o lo cambie.
 frente a La Cantonada** — Andrea: "es un producto de temporada y no va a
 ser identitario de la marca, sino rotacional" — ver sección 10.
 
-**Sigue abierto, nº5 — B2B / "Organiza una experiencia Mood":** no
-respondido todavía. El ecosistema de marca (sección 12) confirma que los
-eventos en persona sobreviven como "Mood Table Experiences", con
-"colaboraciones" como posible hueco para B2B, pero no lo nombra
-explícitamente.
+~~Mood Moments~~ — **resuelto del todo (2026-11-16): eventos de
+comunidad, sin QR ni mecánica por producto** — ver sección 12.
 
-**Nuevo, no estaba en la lista anterior — Mood Moments:** Andrea confirmó
-(2026-11-16) que Mood Moments (el ritual desbloqueable por QR de Mood
-Cookies) **sigue existiendo, de la misma forma que antes** — revierte la
-resolución de esta tarde que decía que no se mantenía. Ver sección 12 para
-el detalle y la pregunta de diseño pendiente (cómo encaja sin la
-taxonomía de 4 moods que ya no existe en el catálogo de Mood Table).
+**Sigue abierto, único punto real — B2B / "Organiza una experiencia
+Mood":** no respondido todavía. Encaja de forma natural dentro de Mood
+Moments (empresas que reservan una sesión de yoga, cena o taller), pero no
+lo doy por confirmado sin que Andrea lo diga.
 
 ## Próximo paso
 
-1. Que Andrea responda B2B (nº5) y la pregunta de diseño de Mood Moments
-   (sección 12) — lo único que queda realmente abierto de Fase B.
-2. Reescribir `web-copy` (v5) para alinear el copy de la web con esta
-   plataforma — cambia bastante respecto a v4: nuevo eslogan único,
-   catálogo de invierno con la tarta de remolacha, 6 criterios, cuarto
-   verbo, nueva arquitectura de ecosistema (Mood Kitchen/Journal/
-   Experiences/Goods/Moments), nueva voz ya con reglas explícitas de "sí
-   diríamos/evitaríamos", y el paso 3 de "Cómo funciona" ya no está vacío
-   (Mood Moments vuelve) aunque falte decidir su forma exacta.
+1. Que Andrea responda el B2B — lo único que queda realmente abierto de
+   Fase B.
+2. `web-copy-v5.md` ya está escrito, alineado a este documento — pendiente
+   de que Andrea lo revise.
 3. Arrancar identidad visual de verdad — la sección 09 de este documento ya
    da dirección de arte, paleta, tipografía y fotografía: `mood-table-
    direccion-arte` parte de ahí, no de cero.
