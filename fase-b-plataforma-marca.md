@@ -127,12 +127,22 @@ origen.
 > el tiempo que ya tenemos. A partir de ahí, poner intencionalidad en el
 > disfrute de las recetas de Mood Baker.
 
+**Resuelto (2026-11-16): esto es speech de marca, no un mecanismo de
+producto.** Andrea confirmó que, con el pivote, Ritualizar ya no se entrega
+como el ritual estructurado por QR que llevaba cada cookie de Mood Cookies
+(práctica + pasos + desbloqueo). Se queda en el discurso de marca: disfrutar
+mientras comes, dándole intención al momento en el que te nutres — ya sea
+compartiéndolo o estando a solas. Es una idea que se dice (hero, pilares,
+founder story), no una mecánica que se construye (no hay QR, no hay pasos
+numerados, no hay práctica desbloqueable por producto).
+
 Esto es el equivalente, para Mood Baker, de lo que "a moment, not another
 task" era para Mood Cookies — el mismo mecanismo de marca, sobrevive al
-pivote de producto. Útil para quien trabaje identidad visual y web: cualquier
-pieza que pida "más tiempo, más pasos, más esfuerzo" está rompiendo este
-principio; cualquier pieza que ayude a notar el momento que ya existe, lo
-sostiene.
+pivote de producto, pero cambia de forma: de mecánica de producto a mensaje
+de marca. Útil para quien trabaje identidad visual y web: cualquier pieza que
+pida "más tiempo, más pasos, más esfuerzo" está rompiendo este principio;
+cualquier pieza que ayude a notar el momento que ya existe, lo sostiene — sin
+necesidad de construir ningún sistema para ello.
 
 ## 6. Principios de producto (criterios de receta)
 
@@ -269,6 +279,15 @@ concepto.**
    intencional y sistemática, o coincidencia de estas 3 recetas? Afecta
    directamente a cómo `mood-baker-direccion-arte` lea "Identity" en recetas
    futuras.
-5. **La categoría "Siempre" implica que hay otra(s) categoría(s)** (¿rotativa
-   por temporada? ¿ediciones limitadas?) — todavía sin definir, no inventar
-   una estructura de catálogo completa a partir de un solo dato.
+5. ~~La categoría "Siempre" implica que hay otra(s) categoría(s)~~ —
+   **resuelto**: sí, "Rotacional" (tartaletas de temporada) y "Cookies" en
+   estudio, ver secciones 7b-7c.
+6. ~~¿Se mantiene el ritual estructurado por QR de Mood Cookies?~~ —
+   **resuelto (2026-11-16): no.** Ritualizar pasa a ser speech de marca, no
+   mecánica de producto — ver sección 5. Esto cierra también el paso 3 de
+   "Cómo funciona" en `web-copy-v1.md`.
+7. **Lo que NO quedó resuelto con el punto anterior: Experiencias Mood
+   (eventos en persona) y el B2B "Organiza una experiencia Mood".** Andrea
+   solo confirmó que cae el ritual estructurado por QR — no dijo nada sobre
+   si los eventos/talleres en persona o la propuesta B2B se mantienen para
+   Mood Baker. No asumir ninguna de las dos cosas; sigue abierto.

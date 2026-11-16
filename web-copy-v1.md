@@ -31,9 +31,11 @@ ya no es una pregunta abierta.
 4. Mood Journal
 5. Contacto
 
-**Fuera del menú por ahora:** "Mood Moments" (el ecosistema de experiencias +
-QR). Ver la gran pregunta abierta al final — no lo incluyo como si estuviera
-decidido que se mantiene.
+**Resuelto (2026-11-16):** el ecosistema de Mood Moments con QR y rituales
+desbloqueables por producto **no se mantiene** en Mood Baker — ver
+`fase-b-plataforma-marca.md` sección 5. Lo que queda abierto es más
+pequeño: si los eventos en persona (Experiencias Mood) y la propuesta B2B
+se mantienen o no — ver nota al final del documento.
 
 ---
 
