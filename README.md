@@ -1,15 +1,15 @@
-# Mood Baker
+# Mood Table
 
-Repositorio propio de Andrea para el proyecto Mood Baker — **separado de
+Repositorio propio de Andrea para el proyecto Mood Table — **separado de
 TBNB a propósito**: es un proyecto suyo, no un cliente de la consultoría, así
 que no comparte repo ni ramas con `Agentes` (el repo de TBNB).
 
-**Nombre de marca:** Mood Baker (pivote desde Mood Cookies, confirmado el
+**Nombre de marca:** Mood Table (pivote desde Mood Cookies, confirmado el
 2026-11-16 — sin conflictos de marca encontrados, ver `fase-b-plataforma-marca.md`).
 **Nombre de este repositorio:** `mood-cookies` (heredado, puede renombrarse
 cuando Andrea quiera sin que afecte al contenido).
 
-## Qué es Mood Baker
+## Qué es Mood Table
 
 Marca de repostería creativa que explora una forma distinta de disfrutar de
 lo dulce (y, cada vez más, de lo salado de temporada): ingredientes de

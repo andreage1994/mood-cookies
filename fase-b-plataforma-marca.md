@@ -1,6 +1,6 @@
-# Fase B · Plataforma de Marca — Mood Baker
+# Fase B · Plataforma de Marca — Mood Table
 
-**Proyecto:** Mood Baker (pivote desde Mood Cookies, 2026-11-16)
+**Proyecto:** Mood Table (pivote desde Mood Cookies, 2026-11-16)
 **Servicio/flujo:** Concepto y Narrativa de Marca (mismo flujo que TBNB usa con
 clientes como The Lokal — `fase-a-investigacion-mercado.md` →
 **Fase B (este documento)** → `fase-c-diseno-ecosistema.md`), aplicado aquí a
@@ -14,13 +14,20 @@ abiertas al final.
 
 ---
 
-## 0. El pivote: de Mood Cookies a Mood Baker
+## 0. El pivote: de Mood Cookies a Mood Table (dos pasos)
 
-Mood Cookies era una marca de cookies funcionales organizada por "moods"
-(Bite Me, High on Life, Running on Vibes, Pillow Talk) con un ritual
-desbloqueable por QR en cada envoltorio ("Mood Moments"). Mood Baker **no es
-una extensión de ese catálogo** — es un pivote de categoría de producto, de
-cookie funcional a repostería creativa de temporada.
+**Pivote 1 (2026-11-16, por la mañana): Mood Cookies → Mood Baker.** Mood
+Cookies era una marca de cookies funcionales organizada por "moods" (Bite
+Me, High on Life, Running on Vibes, Pillow Talk) con un ritual desbloqueable
+por QR en cada envoltorio ("Mood Moments"). El pivote fue de categoría de
+producto, de cookie funcional a repostería creativa de temporada.
+
+**Pivote 2 (2026-11-16, misma tarde): Mood Baker → Mood Table.** Andrea
+cambió el nombre una segunda vez el mismo día, con un tagline nuevo que hace
+explícita la conexión que ya estaba en el discurso de marca pero sin esa
+palabra — ver "Validación del nombre" más abajo. **Ninguno de los dos
+pivotes toca lo que sobrevive del origen** (más abajo): es nombre y encaje
+de categoría lo que cambia, no el alma de la marca.
 
 Lo que **sí sobrevive** al pivote, porque está en el alma de la marca y no en
 el producto concreto:
@@ -41,15 +48,15 @@ habría dejado obsoleto de todas formas).
 ### Categoría: obrador, no pastelería de autor (resuelto 2026-11-16)
 
 Andrea corrigió una lectura equivocada que se había colado en
-`fase-a-investigacion-mercado.md` (categorizaba a Mood Baker como
+`fase-a-investigacion-mercado.md` (categorizaba a Mood Table como
 "pastelería de autor de temporada", en el mismo territorio que Benévola o
-La Cantonada). **No es así:** Mood Baker es un **obrador**, no una
+La Cantonada). **No es así:** Mood Table es un **obrador**, no una
 pastelería. La diferencia es de categoría real, no de matiz de palabra:
 
 - Benévola, La Cantonada y Maru Botana trabajan con técnica de pastelería de
   autor — montajes, cremas, piezas que "se exhiben como museo" y que no
   siempre se reconocen a simple vista.
-- Mood Baker es **rústico y reconocible de un vistazo**: bizcocho, brownie,
+- Mood Table es **rústico y reconocible de un vistazo**: bizcocho, brownie,
   cookie, tartaleta. Nunca una pieza que necesite explicación para entender
   qué es, ni técnica escondida bajo el producto.
 
@@ -59,55 +66,69 @@ ingredientes más allá de "de proximidad" en genérico: **avellanas de Reus**,
 **nueces de Tarragona** — ver corrección de producto en la sección 7.
 
 **Por qué esto refuerza la Visión C y no la contradice** (ver sección 3):
-la "sorpresa reconocible" de Mood Baker vive en la combinación de sabor, no
+la "sorpresa reconocible" de Mood Table vive en la combinación de sabor, no
 en la sofisticación visual — es coherente con ser obrador, no pastelería. Es
 una pieza más de por qué C es la dirección mejor respaldada: nadie
 investigado combina rusticidad + sorpresa de sabor de esta forma.
 
-### Validación del nombre "Mood Baker" (2026-11-16)
+### Validación del nombre "Mood Table" (2026-11-16, segundo pivote de nombre)
 
-Búsqueda de conflicto: sin coincidencias de una marca "Mood Baker" en
-Barcelona ni a nivel general — solo aparecen "Mood" (joyería suiza) y "Mood
-Media" (cartelería/música de ambiente), categorías sin relación, riesgo de
-confusión bajo.
+**Búsqueda de conflicto:** no se ha encontrado ninguna marca "Mood Table" en
+Barcelona ni a nivel general — existe "Mood Rooftop Bar" en Barcelona (bar
+de hotel en Eixample), sin relación de nombre completo ni de categoría. Sí
+hay un grupo de marcas "Mood + alimentación" registradas en EEUU (Mood
+Bars, Mood Foods, Mood Wellness, Mood Product Group) — ninguna se llama
+"Mood Table" ni opera en España, así que no es un conflicto directo, pero
+deja constancia honesta de que "Mood" + comida ya lo han explorado otras
+marcas fuera de Europa. No cambia la recomendación.
 
-Coherencia con lo construido hasta ahora:
-- **"Mood" sostiene el hilo** — es el mismo mecanismo de marca que en Mood
-  Cookies (estado de ánimo/momento, no solo producto), y conecta directo con
-  Ritualizar (sección 5).
-- **"Baker" (no "Bakery") es una decisión real, no un detalle** — nombra a la
-  persona que hornea, no al lugar ni al producto. Eso encaja bien con la voz
-  de fundadora que ya funcionó en el origen de Mood Cookies ("Porqué una
-  Cookie", firmado por Andrea) y con Ritualizar (un/a baker encarna
-  presencia y atención, no solo repostería). Pero es una lectura distinta a
-  "Mood Bakery" (el sitio/la categoría) — vale la pena que Andrea confirme si
-  quiere esa lectura de marca-persona de forma consciente, no solo como
-  resultado de cómo suena.
+**Por qué "Table" resuelve algo que "Baker" dejaba abierto, en vez de
+abrir una pregunta nueva:**
+- "Baker" nombraba a la persona que hornea — encajaba con la voz de
+  fundadora, pero dejaba una pregunta sin cerrar: ¿se lee como marca-persona
+  (Andrea como "la Mood Baker") o como categoría? Esa ambigüedad llevaba
+  abierta desde que se propuso el nombre (ver pregunta abierta nº ahora
+  retirada, más abajo).
+- "Table" la cierra sola: la mesa es un lugar, no una persona — no admite
+  esa lectura ambigua. Encaja además mejor con que el catálogo ya mezcla
+  dulce y salado (bizcocho de calabacín, tartaletas saladas) — "Baker" sonaba
+  más a repostería dulce; "Table" cubre con naturalidad cualquier cosa que
+  se ponga sobre una mesa.
+- "Table" hace explícito en el propio nombre lo que ya estaba en el
+  discurso pero había que explicar con otras palabras: **conexión** — con lo
+  que se come, con su origen (Proximity/Seasonality, sección 6), y con quien
+  comparte la mesa (Ritualizar, sección 5). El tagline nuevo lo dice
+  directamente: *"A little more connected to what we eat, where it comes
+  from and the moments we share around it."*
 - Encaja con el registro lingüístico que ya usan otros clientes de TBNB (The
   Lokal, Geisha Coffee) — nombre en inglés para repostería/hostelería de
   Barcelona no es una anomalía en este mercado.
 
-**Veredicto: el nombre funciona y es coherente.** La única pieza a confirmar
-conscientemente, no asumir, es si "Baker" se usa como marca-persona (Andrea
-como "la Mood Baker") o como nombre de categoría — cambia cómo se escribe la
-voz en web e identidad visual más adelante.
+**Veredicto: el nombre funciona, y además cierra una pregunta en vez de
+dejarla abierta.** A diferencia de "Baker", "Table" no admite lectura de
+marca-persona — no hace falta que Andrea confirme nada más sobre esto.
 
 ---
 
 ## 1. Propósito — por qué existe la marca
 
-> **Hacer de lo ordinario, algo significativo.**
+> **A little more connected to what we eat, where it comes from, and the
+> moments we share around it.**
+> Un poco más conectados a lo que comemos, de dónde viene, y los momentos
+> que vivimos en la mesa.
 >
-> Mood Baker nace de la idea de que comer no es solo ingerir alimentos: es
-> recibir, agradecer, compartir, cuidar, conectar. Un poco más de placer en
-> lo cotidiano — eso es lo que la marca quiere devolver a un gesto que se ha
-> vuelto automático.
+> Mood Table nace de la idea de que comer no es solo ingerir alimentos: es
+> recibir, agradecer, compartir, cuidar, conectar. Hacer de lo ordinario,
+> algo significativo.
 
-*(Redactado por mí a partir de "A little more pleasure in the everyday" y
-"hacer de lo ordinario, algo significativo" — frases textuales del brief de
-Andrea. Pendiente de que ella lo confirme o lo reescriba con su propia voz,
-igual que pasó con el Propósito de The Lokal: esto es v1, no la versión
-oficial.)*
+*(Actualizado 2026-11-16, con el pivote de nombre: la frase de marca pasa de
+"A little more pleasure in the everyday" a "A little more connected to what
+we eat, where it comes from and the moments we share around it" — textual
+del mensaje de Andrea al dar el nombre "Mood Table". "Hacer de lo ordinario,
+algo significativo" se mantiene del brief original, ahora como declaración
+que acompaña a la frase nueva, no que la sustituye. Pendiente de que Andrea
+lo confirme o lo reescriba con su propia voz, igual que pasó con el
+Propósito de The Lokal: esto sigue siendo borrador, no la versión oficial.)*
 
 ## 2. Misión — cómo lo consigue
 
@@ -130,7 +151,7 @@ para decidir, y que le proponga opciones.
 **Qué necesito para que esto deje de ser un borrador mío:** una visión
 responde "¿a qué aspira llegar a ser la marca, si todo sale bien, dentro de
 años?" — no qué hace hoy (eso es la Misión), sino qué quiere representar.
-Lo más útil que Andrea puede darme: si Mood Baker aspira a ser sobre todo
+Lo más útil que Andrea puede darme: si Mood Table aspira a ser sobre todo
 **un lugar/marca local muy querida en Barcelona** (como Vereda, que ella
 misma citó como referencia de valores), o si aspira a algo más amplio — una
 forma de entender la repostería de proximidad que podría viajar fuera de
@@ -148,7 +169,7 @@ oficial todavía:
 > el producto cuente qué productor, qué estación, qué mercado hay detrás.
 >
 > **C. Centrada en la sorpresa reconocible.** Que cualquiera que pruebe algo
-> de Mood Baker reconozca la firma — un ingrediente familiar, presentado de
+> de Mood Table reconozca la firma — un ingrediente familiar, presentado de
 > una forma que no había visto — y vuelva buscando esa sorpresa.
 
 **Actualización con datos reales de mercado (2026-11-16, ver
@@ -166,11 +187,11 @@ tomada — sigue siendo de Andrea elegir.
 Martí) ya vende un croissant de calçots y romesco — el mismo ingrediente y
 el mismo gesto de "temporada catalana reinventada" que la tartaleta de
 calçots y romesco propuesta en la sección 7b. No es un conflicto de marca
-(formato distinto, sin el discurso de Mood Baker detrás), pero si se
+(formato distinto, sin el discurso de Mood Table detrás), pero si se
 mantiene esa pieza, no se puede presentar como "nunca visto" — hay
 precedente de prensa reciente.
 
-## 4. Lo que significa comer, para Mood Baker
+## 4. Lo que significa comer, para Mood Table
 
 Esta es la idea más distintiva del brief, y merece quedar como sección propia
 en vez de diluirse dentro del propósito:
@@ -189,7 +210,7 @@ origen.
 
 > No siempre necesitamos más tiempo. Solo necesitamos estar más presentes en
 > el tiempo que ya tenemos. A partir de ahí, poner intencionalidad en el
-> disfrute de las recetas de Mood Baker.
+> disfrute de las recetas de Mood Table.
 
 **Resuelto (2026-11-16): esto es speech de marca, no un mecanismo de
 producto.** Andrea confirmó que, con el pivote, Ritualizar ya no se entrega
@@ -200,7 +221,7 @@ compartiéndolo o estando a solas. Es una idea que se dice (hero, pilares,
 founder story), no una mecánica que se construye (no hay QR, no hay pasos
 numerados, no hay práctica desbloqueable por producto).
 
-Esto es el equivalente, para Mood Baker, de lo que "a moment, not another
+Esto es el equivalente, para Mood Table, de lo que "a moment, not another
 task" era para Mood Cookies — el mismo mecanismo de marca, sobrevive al
 pivote de producto, pero cambia de forma: de mecánica de producto a mensaje
 de marca. Útil para quien trabaje identidad visual y web: cualquier pieza que
@@ -222,7 +243,7 @@ Andrea, aquí solo traducidos y numerados:
    más adelante, delegarla?
 
 Estos 5 criterios son la herramienta de validación para cualquier receta
-nueva — el equivalente, para Mood Baker, de la definición concreta de "¿qué
+nueva — el equivalente, para Mood Table, de la definición concreta de "¿qué
 es saludable?" que The Lokal usa para briefar packaging y carta.
 
 **Confirmado (2026-11-16): también son contenido público de marca, no solo
@@ -309,7 +330,7 @@ puntual. Dos sabores propuestos, de momento solo ideas:
 | AOVE y almendras | AOVE, almendras | Identity — refuerza un patrón que ya aparece en el Brownie de AOVE y el bizcocho de calabacín: **el AOVE como grasa en vez de mantequilla empieza a leerse como firma de marca transversal**, no solo de una receta. Proximity (almendra mediterránea) |
 
 **Por qué esto no es casualidad de marca:** Mood nació como Mood Cookies —
-que haya cookies en el catálogo de Mood Baker es un hilo de continuidad real
+que haya cookies en el catálogo de Mood Table es un hilo de continuidad real
 con el origen de la marca, no solo una categoría de producto más. Vale la
 pena nombrarlo así si Andrea quiere usarlo en la narrativa de marca (ver
 sección 0).
@@ -328,7 +349,7 @@ textual de Andrea):
    atención.
 3. **Temporada, proximidad y whole foods como eje nutricional** — no
    plant-based ni sin gluten (eso era Mood Cookies como snack funcional).
-   Confirmado por Andrea (2026-11-16): el valor de alimento de Mood Baker es
+   Confirmado por Andrea (2026-11-16): el valor de alimento de Mood Table es
    producto de temporada, de proximidad, whole foods y sin procesados —
    nutritivo de verdad, no una etiqueta de dieta.
 4. **Sabor sin concesiones** — nunca sacrificar sabor por la narrativa de
@@ -375,7 +396,7 @@ de la misma manera.)
    (2026-11-16):** Andrea confirmó que no tiene esta información y pidió
    que se investigue. Encargado a un investigador de mercado — referencias
    de partida de Andrea: Vereda (restaurante en Barcelona, valores muy
-   parecidos a los de Mood Baker), Oz Bakery (artesanal, con toques árabes)
+   parecidos a los de Mood Table), Oz Bakery (artesanal, con toques árabes)
    y Origo (harinas locales). Ver `fase-a-investigacion-mercado.md` cuando
    exista.
 2. ~~Visión (punto 3)~~ — **en progreso**: Andrea pidió opciones en vez de
@@ -400,7 +421,7 @@ de la misma manera.)
    (eventos en persona) y el B2B "Organiza una experiencia Mood".** Andrea
    solo confirmó que cae el ritual estructurado por QR — no dijo nada sobre
    si los eventos/talleres en persona o la propuesta B2B se mantienen para
-   Mood Baker. No asumir ninguna de las dos cosas; sigue abierto.
+   Mood Table. No asumir ninguna de las dos cosas; sigue abierto.
 8. **La voz editorial (nuevo, 2026-11-16)** — Andrea corrigió dos veces
    seguidas la dirección de voz (primero "no es wellness", después "tampoco
    es oficio/técnica puro") — ver `direccion-editorial-voz.md` v2: la voz
@@ -410,11 +431,20 @@ de la misma manera.)
    ahora).
 9. ~~La categoría: ¿pastelería de autor u obrador?~~ — **resuelto
    (2026-11-16): obrador.** Andrea corrigió la lectura de
-   `fase-a-investigacion-mercado.md` que categorizaba a Mood Baker junto a
+   `fase-a-investigacion-mercado.md` que categorizaba a Mood Table junto a
    Benévola/La Cantonada (pastelería de autor, técnica, montajes). Mood
-   Baker es obrador: rústico, reconocible a simple vista, nunca técnica
+   Table es obrador: rústico, reconocible a simple vista, nunca técnica
    escondida — ver sección 0. Dentro de esta misma corrección, **sigue
    abierto**: si la tarta de queso de cabra con remolachas de invierno (una
    de las 5 referencias visuales dadas) se suma al catálogo Rotacional como
    producto real, o si era solo referencia de estética — ver nota en la
    sección 7b.
+10. ~~El nombre: ¿Mood Baker o Mood Table? ¿Se lee "Baker" como
+    marca-persona o como categoría?~~ — **resuelto (2026-11-16): Mood
+    Table, segundo pivote de nombre el mismo día.** Retira de raíz la
+    pregunta de lectura persona/categoría que tenía "Baker" — "Table" es un
+    lugar, no admite esa ambigüedad. Nuevo tagline: "A little more
+    connected to what we eat, where it comes from and the moments we share
+    around it" — ver sección 0 y Propósito (punto 1). Sin conflicto de
+    marca encontrado (Barcelona ni general); hay un grupo de marcas "Mood +
+    alimentación" registradas en EEUU, ninguna "Mood Table", riesgo bajo.

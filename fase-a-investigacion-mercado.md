@@ -1,4 +1,4 @@
-# Fase A · Investigación de Mercado — Mood Baker
+# Fase A · Investigación de Mercado — Mood Table
 
 **Servicio:** Concepto y Narrativa de Marca (mismo flujo que TBNB usa con
 clientes como The Lokal — `fase-a-investigacion-mercado.md` → **Fase A (este
@@ -15,12 +15,12 @@ negocios citados — las limitaciones se señalan explícitamente donde aplican.
 
 ## Corrección de categoría (2026-11-16, por Andrea — lectura leída y respondida el mismo día)
 
-**Esta Fase A categorizaba a Mood Baker como "pastelería de autor de
+**Esta Fase A categorizaba a Mood Table como "pastelería de autor de
 temporada" (cruzándola con Benévola y Maru Botana). Andrea corrigió: no se
 visualiza como pastelería, sino como obrador.** La diferencia no es de
 palabra, es de categoría real: Benévola ("sus dulces se exhiben como museo"),
 La Cantonada y Maru Botana trabajan con técnica de pastelería de autor —
-montajes, cremas, producto que no se reconoce a simple vista. Mood Baker es
+montajes, cremas, producto que no se reconoce a simple vista. Mood Table es
 **rústico y reconocible de un vistazo**: bizcocho, brownie, cookie,
 tartaleta — nunca una pieza que necesite explicación para entender qué es.
 Andrea dio 5 referencias visuales para fijar esto (ver
@@ -30,15 +30,15 @@ dada hasta ahora: avellanas **de Reus**, nueces **de Tarragona** — no solo
 
 **Esto no invalida la investigación, la precisa.** Todo lo investigado sobre
 Benévola/La Cantonada/Maru Botana sigue siendo cierto — lo que cambia es la
-conclusión: en vez de situar a Mood Baker *en el cruce con* ellas (como
-decía la versión original de este resumen y del punto 9), Mood Baker se
+conclusión: en vez de situar a Mood Table *en el cruce con* ellas (como
+decía la versión original de este resumen y del punto 9), Mood Table se
 diferencia *de* ellas por categoría, no solo por discurso. Esto hace el
 posicionamiento más fuerte, no más débil — hay menos solape real del que
 parecía. Ver corrección en el punto 9 y en la tabla del punto 6.
 
 **Consecuencia sobre el riesgo de La Cantonada (calçots/romesco):** el
 riesgo de ingrediente/gesto sigue existiendo (ver más abajo), pero el riesgo
-de que Mood Baker "se lea igual" a La Cantonada baja — una tartaleta rústica
+de que Mood Table "se lea igual" a La Cantonada baja — una tartaleta rústica
 de obrador no compite visualmente con un croissant de pastelería técnica,
 aunque comparta ingrediente.
 
@@ -48,22 +48,22 @@ aunque comparta ingrediente.
 
 - **El mercado de "repostería/panadería de proximidad y temporada" en
   Barcelona ya existe y está activo**, pero cada actor ocupa solo una parte
-  del territorio que Mood Baker quiere cubrir entera — ver punto 6 y 8.
+  del territorio que Mood Table quiere cubrir entera — ver punto 6 y 8.
 - **Hallazgo más importante, con riesgo real:** una pastelería de Barcelona
   (**La Cantonada**, Sant Martí) ya vende un **croissant de calçots y
   romesco** de temporada — el ejemplo que Andrea propuso como "tartaleta de
   calçots y romesco" en `fase-b-plataforma-marca.md` (sección 7b) no es un
   espacio vacío, ya tiene un precedente directo en Barcelona, aunque en
   formato distinto (croissant, no tartaleta) y sin el discurso de marca que
-  Mood Baker construye alrededor. [Time Out — El croissant de calçots y
+  Mood Table construye alrededor. [Time Out — El croissant de calçots y
   romesco](https://www.timeout.es/barcelona/es/noticias/el-croissant-de-calcots-y-romesco-existe-y-lo-hace-una-pasteleria-de-barcelona-021424)
-- **Nadie que hayamos encontrado combina las tres piezas que Mood Baker junta
+- **Nadie que hayamos encontrado combina las tres piezas que Mood Table junta
   a la vez:** (a) ingrediente conocido + combinación/presentación no vista,
   en dulce y en salado a la vez; (b) un discurso de marca explícito sobre el
   acto de comer como cuidado/ritual (Ritualizar); (c) un origen de marca en
   wellness/moods (Mood Cookies) que ninguna bakery de la zona tiene. Esto es
   lo genuinamente distinto — ver punto 8.
-- **Oportunidad estratégica recomendada (corregida 2026-11-16):** Mood Baker
+- **Oportunidad estratégica recomendada (corregida 2026-11-16):** Mood Table
   no compite en territorio de pastelería de autor (Benévola, Maru Botana) ni
   lo necesita — es **obrador rústico**, no pastelería. Comparte con Origo y
   Delicati el eje de proximidad/temporada/whole foods, y le añade lo que
@@ -114,17 +114,17 @@ aunque comparta ingrediente.
   oficial. [Raisin Digital — ficha y platos de Vereda Bar](https://www.raisin.digital/en/explore/spain/catalonia/venues/vereda-bar-20297/)
   · [Time Out — reseña Vereda Bar](https://www.timeout.es/barcelona/es/restaurantes/vereda-bar)
   · [Neo2 — interiorismo de Vereda](https://www.neo2.com/?p=488593).
-  **Por qué puede resonar con Mood Baker, según lo que hemos verificado:**
+  **Por qué puede resonar con Mood Table, según lo que hemos verificado:**
   Vereda no vende "sano" como discurso — vende producto de mercado bien
   escogido y de temporada, sin lenguaje de dieta. Es el mismo eje que Andrea
-  quiere para Mood Baker (whole foods/sin procesados, no "wellness" de
+  quiere para Mood Table (whole foods/sin procesados, no "wellness" de
   etiqueta — ver `fase-b-plataforma-marca.md` punto 8.3), aplicado a
   restaurante en vez de bakery.
 - Patrón de mercado adicional: la pastelería vegana/sin alérgenos de autor
   (Benévola, La Besnéta) está creciendo como categoría propia en Barcelona,
   con un discurso de "comida real" y rechazo explícito a "disfraces" de
   producto saludable — relevante porque es el discurso más parecido que
-  hemos encontrado al valor nº4 de Mood Baker ("sabor sin concesiones").
+  hemos encontrado al valor nº4 de Mood Table ("sabor sin concesiones").
   [Directo al Paladar — Benévola](https://www.directoalpaladar.com/recetas-vegetarianas/esta-pasteleria-autor-barcelona-dulces-se-exhiben-como-museo-solo-hacen-seis-pasteles-estacion).
 
 **Limitación explícita:** no hemos encontrado datos de mercado agregados
@@ -166,7 +166,7 @@ cifras donde no las hay.
   lo nombra de forma textual — su fundador busca "comida real" en vez de
   imitaciones de productos saludables, y evita el exceso de azúcar sin que
   eso sea el mensaje principal [misma fuente]. Coincide directamente con el
-  valor nº3 de Mood Baker (whole foods, no etiqueta de dieta).
+  valor nº3 de Mood Table (whole foods, no etiqueta de dieta).
 - **Orgullo de ingrediente local/catalán como gancho emocional, no solo
   argumento nutricional:** el calçot con romesco funciona como símbolo
   cultural, no solo como producto de temporada — de ahí que una pastelería
@@ -182,14 +182,14 @@ cifras donde no las hay.
   Stern](https://www.directoalpaladar.com/viajes/ronit-stern-israeli-que-revoluciono-barcelona-masa-madre-no-habia-buen-pan-hace-20-anos-me-decidi-a-hacerlo).
   Esto coincide con el patrón ya documentado por TBNB para The Lokal (Leon's,
   Courage, PopUp — historia de origen personal como autenticidad) y es
-  directamente aplicable a Mood Baker vía la voz de fundadora de Andrea
+  directamente aplicable a Mood Table vía la voz de fundadora de Andrea
   (ya usada en "Porqué una Cookie").
 
 ## 4. Necesidades detectadas
 
 - Hay **oferta real de "bakery con identidad" en Barcelona** (Oz, Origo,
   Benévola, La Cantonada, Delicati), pero cada una resuelve solo una parte
-  del territorio que Mood Baker quiere ocupar entero — ver tabla del punto 6.
+  del territorio que Mood Table quiere ocupar entero — ver tabla del punto 6.
 - **No hemos encontrado ninguna marca de repostería en Barcelona que
   combine dulce y salado bajo la misma firma de identidad** ("ingrediente
   conocido + combinación no vista", como el bizcocho de calabacín con queso
@@ -208,7 +208,7 @@ cifras donde no las hay.
   su catálogo: no hemos encontrado ninguna bakery de Barcelona que lo
   comunique así — las búsquedas sobre "bizcocho de AOVE" en Barcelona solo
   devuelven recetas genéricas de medios de cocina, no un obrador concreto.
-  Esto sugiere que el patrón que ya aparece en el catálogo de Mood Baker
+  Esto sugiere que el patrón que ya aparece en el catálogo de Mood Table
   (brownie, bizcocho de calabacín, cookie de AOVE y almendras — ver
   `fase-b-plataforma-marca.md` punto 7c) podría ser un hueco de identidad
   real, aunque **con reserva**: una ausencia en resultados de búsqueda no es
@@ -220,48 +220,48 @@ cifras donde no las hay.
 - **Tensión real (no solo de nombre, de territorio de mensaje):** La
   Cantonada ya ocupa, con un producto concreto (el croissant de calçots y
   romesco), el mismo gesto de identidad que Andrea propuso para la
-  tartaleta de calçots y romesco de Mood Baker. No es un conflicto de marca
+  tartaleta de calçots y romesco de Mood Table. No es un conflicto de marca
   (formatos distintos, catálogos distintos, sin solape de nombre), pero sí
   es una señal de que **el mensaje "calçot reinventado en formato de
   panadería" ya tiene un precedente con cobertura de prensa en Barcelona**
   [Time Out — La Cantonada](https://www.timeout.es/barcelona/es/noticias/el-croissant-de-calcots-y-romesco-existe-y-lo-hace-una-pasteleria-de-barcelona-021424).
-  Recomendación: si Mood Baker lanza esta pieza, la narrativa debería
+  Recomendación: si Mood Table lanza esta pieza, la narrativa debería
   apoyarse en lo que la hace distinta de La Cantonada — el criterio
   "Identity" de los 5 criterios de producto, y el marco de Ritualizar — y no
   presentarse como "la primera" en hacer esta combinación, porque no lo es.
 - **Tensión de categoría:** el espacio de "pastelería vegana/sin alérgenos
   de autor" (Benévola, La Besnéta, Alterna) está bastante ocupado en
-  Barcelona y tiene un discurso de "comida real" parecido al de Mood Baker.
-  Mood Baker no es vegana ni libre de alérgenos como eje (usa queso de
+  Barcelona y tiene un discurso de "comida real" parecido al de Mood Table.
+  Mood Table no es vegana ni libre de alérgenos como eje (usa queso de
   oveja, por ejemplo), así que no compite de frente, pero conviene que la
-  comunicación de Mood Baker deje claro que su eje es proximidad/temporada/
+  comunicación de Mood Table deje claro que su eje es proximidad/temporada/
   whole foods, no "sin X" — para no leerse como una versión más floja de lo
   que Benévola ya hace muy bien en ese nicho.
 - **Oportunidad clara, sin competencia directa encontrada:** nadie en
   Barcelona (de los negocios investigados) aplica la firma "ingrediente
   conocido + combinación/presentación no vista" **igual en dulce que en
   salado**, dentro del mismo catálogo y bajo una sola marca. Es el espacio
-  más defendible de Mood Baker frente a lo ya existente.
+  más defendible de Mood Table frente a lo ya existente.
 - **Oportunidad de discurso:** ninguna de las referencias investigadas habla
   del acto de comer como ritual de presencia/cuidado (Ritualizar). Si Mood
-  Baker lo sostiene de verdad en su comunicación (no solo como frase de
+  Table lo sostiene de verdad en su comunicación (no solo como frase de
   "about us"), es una pieza de narrativa que hoy no tiene competencia directa
   en este mercado.
 
 ## 6. Competencia directa
 
-| Negocio | Qué hace | Relación con Mood Baker | Fuente |
+| Negocio | Qué hace | Relación con Mood Table | Fuente |
 |---|---|---|---|
-| **La Cantonada** (Forn & Pastisseria, Dos de Maig 314, Sant Martí) | +30 tipos de croissant, varios de temporada y reinterpretados (calçots y romesco, guacamole, mango, Magnum); obrador a la vista | Comparte el mecanismo "ingrediente conocido + formato inesperado" sobre producto catalán de temporada — mismo ingrediente que la tartaleta propuesta. **Pero es pastelería técnica (croissant de hojaldre trabajado), no obrador rústico** — Mood Baker se diferencia en categoría, no solo en formato | [Time Out](https://www.timeout.es/barcelona/es/noticias/el-croissant-de-calcots-y-romesco-existe-y-lo-hace-una-pasteleria-de-barcelona-021424) |
-| **Benévola** (Sant Martí) | Pastelería vegana de autor ("sus dulces se exhiben como museo"), carta de 6 piezas que rota cada 3 meses por temporada, discurso de "comida real" sin disfraces | Comparte temporada + rechazo a discurso de dieta. **Se diferencia en categoría, no solo en dieta: es pastelería de autor con montaje visual elaborado — Mood Baker es obrador, rústico y reconocible a simple vista, sin línea salada en su caso** | [Directo al Paladar](https://www.directoalpaladar.com/recetas-vegetarianas/esta-pasteleria-autor-barcelona-dulces-se-exhiben-como-museo-solo-hacen-seis-pasteles-estacion) |
-| **Delicati** (Travessera de Gràcia 138) | Pastelería artesanal que declara priorizar ingredientes de proximidad y temporada | Comparte el eje proximidad+temporada casi palabra por palabra con Mood Baker; no hemos encontrado si trabaja salado ni si tiene discurso de identidad más allá de la materia prima | [Proveedores.com — ficha Delicati](https://proveedores.com/proveedores/delicati/) (autodescripción del negocio, sin fuente independiente que la confirme) |
+| **La Cantonada** (Forn & Pastisseria, Dos de Maig 314, Sant Martí) | +30 tipos de croissant, varios de temporada y reinterpretados (calçots y romesco, guacamole, mango, Magnum); obrador a la vista | Comparte el mecanismo "ingrediente conocido + formato inesperado" sobre producto catalán de temporada — mismo ingrediente que la tartaleta propuesta. **Pero es pastelería técnica (croissant de hojaldre trabajado), no obrador rústico** — Mood Table se diferencia en categoría, no solo en formato | [Time Out](https://www.timeout.es/barcelona/es/noticias/el-croissant-de-calcots-y-romesco-existe-y-lo-hace-una-pasteleria-de-barcelona-021424) |
+| **Benévola** (Sant Martí) | Pastelería vegana de autor ("sus dulces se exhiben como museo"), carta de 6 piezas que rota cada 3 meses por temporada, discurso de "comida real" sin disfraces | Comparte temporada + rechazo a discurso de dieta. **Se diferencia en categoría, no solo en dieta: es pastelería de autor con montaje visual elaborado — Mood Table es obrador, rústico y reconocible a simple vista, sin línea salada en su caso** | [Directo al Paladar](https://www.directoalpaladar.com/recetas-vegetarianas/esta-pasteleria-autor-barcelona-dulces-se-exhiben-como-museo-solo-hacen-seis-pasteles-estacion) |
+| **Delicati** (Travessera de Gràcia 138) | Pastelería artesanal que declara priorizar ingredientes de proximidad y temporada | Comparte el eje proximidad+temporada casi palabra por palabra con Mood Table; no hemos encontrado si trabaja salado ni si tiene discurso de identidad más allá de la materia prima | [Proveedores.com — ficha Delicati](https://proveedores.com/proveedores/delicati/) (autodescripción del negocio, sin fuente independiente que la confirme) |
 | **Origo** (Gràcia, Sant Antoni, Passeig de Sant Joan) | Panadería de masa madre, harinas molidas a la piedra, fermentación larga, discurso de "vuelta a lo esencial" | Comparte proximidad/temporada en el sourcing, pero es panadería de pan (no repostería dulce/salada de autor) y sin discurso de ritual/cuidado | [Time Out](https://www.timeout.es/barcelona/es/tiendas/origo-bakery) · [Thisispaper](https://thisispaper.com/mag/origo-isern-serra-barcelona) |
-| **Oz Bakery** (Gràcia, también Eixample) | Panadería artesanal de masa madre sin levadura comercial, pan ecológico, toques de cocina israelí (challah), talleres | Comparte artesanía y origen de fundadora como relato de marca; la "sorpresa" de Oz viene de la cultura de origen (israelí), no de la lógica "ingrediente conocido + combinación no vista" de Mood Baker | [Directo al Paladar](https://www.directoalpaladar.com/viajes/ronit-stern-israeli-que-revoluciono-barcelona-masa-madre-no-habia-buen-pan-hace-20-anos-me-decidi-a-hacerlo) · [Time Out](https://www.timeout.es/barcelona/es/tiendas/oz-natural-bakery) |
+| **Oz Bakery** (Gràcia, también Eixample) | Panadería artesanal de masa madre sin levadura comercial, pan ecológico, toques de cocina israelí (challah), talleres | Comparte artesanía y origen de fundadora como relato de marca; la "sorpresa" de Oz viene de la cultura de origen (israelí), no de la lógica "ingrediente conocido + combinación no vista" de Mood Table | [Directo al Paladar](https://www.directoalpaladar.com/viajes/ronit-stern-israeli-que-revoluciono-barcelona-masa-madre-no-habia-buen-pan-hace-20-anos-me-decidi-a-hacerlo) · [Time Out](https://www.timeout.es/barcelona/es/tiendas/oz-natural-bakery) |
 | **Maru Botana** (Eixample) | Pastelería de autor con identidad mexicana y producto de temporada (ej. pastel de calabaza asada) | Comparte autoría + temporada; la "sorpresa" viene de la identidad nacional de la fundadora, no de un patrón ingrediente-conocido/presentación-nueva | [Time Out](https://www.timeout.es/barcelona/es/tiendas/los-10-mejores-dulces-de-barcelona) |
 
 **Limitación explícita:** no hemos verificado precios de carta de ninguno de
 estos negocios con fuente oficial — solo descripciones de producto y
-posicionamiento. No recomendamos fijar pricing de Mood Baker a partir de
+posicionamiento. No recomendamos fijar pricing de Mood Table a partir de
 esta investigación sin una visita o consulta directa.
 
 ## 7. Competencia indirecta
@@ -277,7 +277,7 @@ esta investigación sin una visita o consulta directa.
   ya documentadas por TBNB para The Lokal) — cubren la necesidad de "comer
   bien sin sonar a dieta" pero en formato de plato/bowl, no de repostería;
   Honest Greens además separa explícitamente un "corner" de postre/indulgencia
-  del resto del menú, un mecanismo de discurso que Mood Baker podría mirar
+  del resto del menú, un mecanismo de discurso que Mood Table podría mirar
   para su propia narrativa salado/dulce (ver `fase-a` de The Lokal, punto 6b,
   para el detalle ya investigado por TBNB).
 - **Mercados y cooperativas de producto catalán** (ej. La Comunal, Gràcia,
@@ -287,13 +287,13 @@ esta investigación sin una visita o consulta directa.
   [resultado de búsqueda, Culture Trip — Health Food Stores Barcelona].
 - **Pastelerías veganas/sin gluten** (La Besnéta, Alterna) — cubren la
   necesidad de "repostería con discurso de cuidado alimentario" pero por la
-  vía de restricción de alérgenos, el eje opuesto al de Mood Baker (whole
+  vía de restricción de alérgenos, el eje opuesto al de Mood Table (whole
   foods sin ser una etiqueta de dieta).
 
 ## 8. Espacio de mercado detectado
 
 El mercado de Barcelona ya tiene, repartidos en negocios distintos, casi
-todos los ingredientes narrativos de Mood Baker por separado:
+todos los ingredientes narrativos de Mood Table por separado:
 
 - Temporada y rotación de carta → Benévola.
 - Proximidad explícita como discurso → Delicati, Origo.
@@ -305,7 +305,7 @@ todos los ingredientes narrativos de Mood Baker por separado:
 
 **Lo que no hemos encontrado en ningún sitio** es la combinación de las
 cinco piezas en una sola marca, y en concreto estas dos, que son las más
-defendibles para Mood Baker:
+defendibles para Mood Table:
 
 1. **El mismo patrón de identidad ("ingrediente conocido + combinación o
    presentación no vista") aplicado por igual a dulce y a salado**, dentro
@@ -318,17 +318,17 @@ defendibles para Mood Baker:
 
 El hueco es real, pero **moderado, no vacío**: La Cantonada demuestra que la
 prensa y el público de Barcelona ya responden bien a "producto catalán de
-temporada reinventado", así que Mood Baker no sería la primera en explorar
+temporada reinventado", así que Mood Table no sería la primera en explorar
 esa idea — sería la primera, hasta donde hemos podido verificar, en
 construir una marca entera (no solo una pieza puntual) alrededor de ese
 mecanismo, con un discurso de cuidado detrás.
 
 ## 9. Oportunidad estratégica y dirección estratégica
 
-**Oportunidad estratégica (corregida 2026-11-16):** Mood Baker no se
+**Oportunidad estratégica (corregida 2026-11-16):** Mood Table no se
 posiciona en el territorio de "pastelería de autor de temporada" — ese es
 el territorio de Benévola y Maru Botana, y Andrea confirmó que no es la
-categoría que visualiza para la marca. Mood Baker es **obrador**: comparte
+categoría que visualiza para la marca. Mood Table es **obrador**: comparte
 con Origo y Delicati "proximidad real sin discurso de dieta", y le añade las
 dos piezas que el mercado no tiene cubiertas: la firma dulce+salado con el
 mismo mecanismo de identidad (ingrediente conocido + combinación/
@@ -351,7 +351,7 @@ defendible: ni siquiera comparte vitrina con Benévola o La Cantonada.
 punto 3):** esta investigación no empuja con fuerza hacia la dirección B
 ("centrada en el territorio, tipo Vereda") como la más defendible, porque el
 territorio de "producto de mercado/temporada en Barcelona" ya está bien
-servido (Vereda, Origo, Delicati, Benévola) y Mood Baker competiría ahí sin
+servido (Vereda, Origo, Delicati, Benévola) y Mood Table competiría ahí sin
 ninguna ventaja clara sobre quien ya lo hace bien. La dirección **C
 ("centrada en la sorpresa reconocible")** es la que coincide con el único
 hueco de mercado que hemos podido verificar sin competencia directa — ver
@@ -364,7 +364,7 @@ más detalle en el reporte final a Andrea.
 **Qué hemos encontrado:** el mercado de repostería/panadería de proximidad y
 temporada en Barcelona está activo y tiene varios actores sólidos (Origo,
 Oz Bakery, Benévola, Delicati, La Cantonada, Maru Botana), cada uno con una
-pieza del discurso de Mood Baker, pero ninguno con todas. El hallazgo más
+pieza del discurso de Mood Table, pero ninguno con todas. El hallazgo más
 importante, y el único riesgo real detectado, es que **La Cantonada ya
 vende un croissant de calçots y romesco** — mismo ingrediente, mismo gesto
 de identidad que la tartaleta que Andrea propuso, aunque en otro formato.
@@ -382,7 +382,7 @@ negocio investigado.
    como limitación en el caso The Lokal.
 2. **Precios de carta** — no hemos podido verificar precio oficial de
    ninguno de los seis negocios de la tabla del punto 6; sin esto no se
-   puede fijar el pricing de Mood Baker con base de mercado.
+   puede fijar el pricing de Mood Table con base de mercado.
 3. **Confirmar si Andrea quiere mantener la tartaleta de calçots y romesco
    sabiendo que ya existe un precedente de prensa con ese mismo ingrediente
    reinventado** (La Cantonada) — no es un conflicto de marca, pero cambia

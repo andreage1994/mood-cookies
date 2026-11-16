@@ -1,7 +1,7 @@
-# Web de Mood Baker — borrador v1 de todos los textos
+# Web de Mood Table — borrador v1 de todos los textos
 
 **Fuente:** estructura real de la web de Mood Cookies (`Mood_Cookies_Freshly_baked_3.xlsx`,
-pestaña `WEB`), adaptada a Mood Baker siguiendo `fase-b-plataforma-marca.md`.
+pestaña `WEB`), adaptada a Mood Table siguiendo `fase-b-plataforma-marca.md`.
 **Estado:** borrador — cada bloque dice si es "adaptación directa" (la idea ya
 estaba en Fase B o en la propia hoja original y encajaba sin forzar), "reescrito"
 (cambia porque el producto cambió) o "ABIERTO" (depende de una decisión de
@@ -14,7 +14,7 @@ Andrea que todavía no existe — no lo doy por resuelto).
 La web original prometía, en **todas** las cookies: *Plant-based · Sin gluten ·
 Sin azúcares refinados · Ingredientes funcionales · Sabor por encima de todo.*
 
-Con el catálogo real de Mood Baker (`fase-b-plataforma-marca.md`, secciones
+Con el catálogo real de Mood Table (`fase-b-plataforma-marca.md`, secciones
 7-7c), esa promesa ya no se sostenía tal cual — el bizcocho de calabacín
 lleva queso de oveja, por ejemplo. Andrea confirmó (2026-11-16) que el eje
 real de marca no es plant-based/sin gluten: es **producto de temporada, de
@@ -32,7 +32,7 @@ ya no es una pregunta abierta.
 5. Contacto
 
 **Resuelto (2026-11-16):** el ecosistema de Mood Moments con QR y rituales
-desbloqueables por producto **no se mantiene** en Mood Baker — ver
+desbloqueables por producto **no se mantiene** en Mood Table — ver
 `fase-b-plataforma-marca.md` sección 5. Lo que queda abierto es más
 pequeño: si los eventos en persona (Experiencias Mood) y la propuesta B2B
 se mantienen o no — ver nota al final del documento.
@@ -41,7 +41,7 @@ se mantienen o no — ver nota al final del documento.
 
 ## 1. Inicio
 
-Hero → Por qué Mood Baker → Nuestros pilares → Catálogo → Cómo funciona →
+Hero → Por qué Mood Table → Nuestros pilares → Catálogo → Cómo funciona →
 Journal (teaser) → Newsletter
 
 ### Hero — *adaptación directa, con una decisión de tagline pendiente*
@@ -50,7 +50,7 @@ Journal (teaser) → Newsletter
 > El brief nuevo de Andrea trae su propio tagline: **"A little more pleasure
 > in the everyday."** Los dos funcionan y no se contradicen, pero solo debería
 > quedar uno como tagline principal. Propongo el nuevo (es el que Andrea
-> escribió para Mood Baker específicamente), y el viejo como línea de apoyo
+> escribió para Mood Table específicamente), y el viejo como línea de apoyo
 > si se quiere mantener el hilo con el origen.
 
 **TÍTULO**
@@ -82,7 +82,7 @@ El bloque original ya era genérico (no mencionaba cookies en ningún momento):
 
 ---
 
-### Por qué Mood Baker — *reescrito, conserva la voz de fundadora*
+### Por qué Mood Table — *reescrito, conserva la voz de fundadora*
 
 > Siempre me ha gustado ese momento en el que te preparas un café y coges
 > algo recién horneado. Es un pequeño momento de placer.
@@ -112,7 +112,7 @@ Los tres pilares originales (Nutrición intencional / Ritual / Disfrute con
 sentido) se mantienen en estructura, pero el contenido de cada uno cambia
 porque "nutrición intencional" en Mood Cookies hablaba de ingredientes
 funcionales con propósito anímico (adaptógenos, etc.) — eso no está
-confirmado para Mood Baker.
+confirmado para Mood Table.
 
 **Ingredientes con origen**
 > Proximidad y temporada no son una etiqueta — son la forma más sencilla de
@@ -121,7 +121,7 @@ confirmado para Mood Baker.
 
 **Ritualizar**
 > No siempre necesitamos más tiempo. Solo necesitamos estar más presentes en
-> el que ya tenemos. Cada receta de Mood Baker está pensada para convertir un
+> el que ya tenemos. Cada receta de Mood Table está pensada para convertir un
 > momento cualquiera en una pausa con intención.
 
 **Sabor sin concesiones**
@@ -133,7 +133,7 @@ confirmado para Mood Baker.
 ### Catálogo — *reescrito, esto es lo que más cambia*
 
 La "Colección de rituales" (4 cookies = 4 moods) no se traslada tal cual —
-Mood Baker no tiene (todavía) un sistema de 4 familias emocionales por
+Mood Table no tiene (todavía) un sistema de 4 familias emocionales por
 producto. En su lugar, la estructura real confirmada:
 
 **Siempre**
@@ -162,7 +162,7 @@ sección 7c.
 >
 > 3. **ABIERTO** — el paso 3 original era "Escanea el QR y descubre un
 >    pequeño ritual" (el mecanismo de Mood Moments). Esto no está confirmado
->    para Mood Baker — ver pregunta grande al final. No lo sustituyo por
+>    para Mood Table — ver pregunta grande al final. No lo sustituyo por
 >    inventiva mía; dos caminos razonables, a decidir:
 >    - (a) Mantener un QR/ritual simplificado, sin la estructura de 4
 >      familias de Mood Cookies.
@@ -182,7 +182,7 @@ De la hoja original:
 
 **El test "¿qué momento necesitas hoy?" es ABIERTO** — en Mood Cookies
 filtraba por mood/ritual (4 familias). Sin esas 4 familias confirmadas para
-Mood Baker, el test necesita un criterio nuevo (¿por ingrediente? ¿por
+Mood Table, el test necesita un criterio nuevo (¿por ingrediente? ¿por
 textura — dulce/salado? ¿se quita directamente?) antes de construirse.
 
 **FAQ — reescrita, las preguntas de Mood Cookies eran específicas de cookie
@@ -222,7 +222,7 @@ información.
 > Por eso horneamos con ingredientes de proximidad y de temporada, pensados
 > para convertir un momento cualquiera en una pausa con intención.
 >
-> Más que repostería, Mood Baker es una invitación a disfrutar de un pequeño
+> Más que repostería, Mood Table es una invitación a disfrutar de un pequeño
 > momento para ti.
 >
 > Porque creemos que los grandes cambios empiezan con pequeños gestos. Y a
@@ -242,13 +242,13 @@ mantiene exacta, no depende de que sea cookie o bizcocho.)*
 **ABIERTO — ver `fase-b-plataforma-marca.md` sección 3.** La visión de Mood
 Cookies ("un mundo donde disfrutar y cuidarse dejen de ser opuestos... donde
 una cookie pueda ser mucho más que un capricho") es la pieza con menos
-respaldo textual del brief de Mood Baker. Antes de publicar una visión
+respaldo textual del brief de Mood Table. Antes de publicar una visión
 oficial, necesita la confirmación de Andrea que ya pedí en Fase B.
 
 ### Lo que nunca cambia — *resuelto: el eje es temporada, proximidad y nutritivo, no plant-based/sin gluten*
 
 Andrea confirmó la corrección (2026-11-16): los valores de alimento de Mood
-Baker no giran en torno a plant-based o sin gluten — esas eran promesas de
+Table no giran en torno a plant-based o sin gluten — esas eran promesas de
 Mood Cookies como snack funcional. El eje real es **producto de temporada,
 de proximidad, y nutritivo**. Reescribo desde ahí, ya no como placeholder:
 
@@ -275,14 +275,14 @@ de proximidad, y nutritivo**. Reescribo desde ahí, ya no como placeholder:
 
 Esta sección ya encajaba casi sin tocar — Mood Cookies hablaba de
 ingredientes/recetas/temporada/mercados, que es literalmente el corazón de
-Mood Baker.
+Mood Table.
 
 - **Alimentación** — Ingredientes · Recetas · Temporada · Mercados.
   *(Nota SEO heredada, sigue aplicando: recetas para bajar el ritmo, recetas
   de temporada, para compartir.)*
 - **Ritualizar** *(antes "Rituales")* — ABIERTO: las subcategorías
   originales (Morning / Reset / Focus / Evening) son las 4 familias de Mood
-  Cookies, no confirmadas para Mood Baker. Propuesta alternativa, sin
+  Cookies, no confirmadas para Mood Table. Propuesta alternativa, sin
   decidir: subcategorías por estación (Otoño / Invierno / Primavera /
   Verano), que además refuerza la tesis de temporada-como-cuidado de Fase B.
 - **Perspectiva** — adaptación directa: "Tengo una teoría... ¿Y si hoy
@@ -312,7 +312,7 @@ redes, enlace al menú principal — sin cambios, solo swap de nombre de marca.
 Todo el ecosistema de experiencias (A. Experiencias Mood pública, B. B2B
 "Organiza una experiencia Mood", C. el QR privado con las 4 familias y los
 MM-001/002/003) era una pieza central de Mood Cookies. **No hay nada en el
-brief de Mood Baker que confirme ni descarte mantenerlo.**
+brief de Mood Table que confirme ni descarte mantenerlo.**
 
 No lo doy por heredado ni por descartado — es la decisión de arquitectura de
 producto más grande que queda pendiente para que el "Cómo funciona" (paso 3)

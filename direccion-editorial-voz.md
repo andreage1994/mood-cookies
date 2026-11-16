@@ -1,4 +1,4 @@
-# Dirección editorial — la voz de Mood Baker
+# Dirección editorial — la voz de Mood Table
 
 **v3 (2026-11-16, misma tarde, segunda corrección del día):** Andrea señaló
 que la web mezclaba dos niveles que no deben mezclarse — usaba ejemplos de
@@ -7,7 +7,7 @@ secciones de construcción de marca (Propósito, Valores, Por qué existimos).
 **Eso no construye marca, es contenido de la ficha de producto.** La v2 de
 este documento (más abajo) incluso lo pedía explícitamente como regla
 ("el producto aparece como ejemplo concreto de la idea" en Hero/Problema/Por
-qué Mood Baker/Nuestra forma de ver el mundo) — esa instrucción queda
+qué Mood Table/Nuestra forma de ver el mundo) — esa instrucción queda
 **corregida**, ver la nueva regla al final de "Proporción sustancia/
 reflexión". Ver aplicación en `web-copy-v4.md`.
 
@@ -52,7 +52,7 @@ una app de bienestar.
 - El producto real (temporada, proximidad, el ingrediente concreto) **integrado
   en la reflexión**, no como ficha aparte.
 - Primera persona de fundadora cuando aplica (ya funcionó en "Por qué Mood
-  Baker" y en "Por qué existimos").
+  Table" y en "Por qué existimos").
 
 ### Proporción sustancia/reflexión, por tipo de página
 A diferencia de la v1 (que pedía 90% producto en fichas), aquí la reflexión
@@ -67,12 +67,12 @@ en proporción distinta:
 
 ### Regla de separación marca/producto (nueva, v3, 2026-11-16)
 **Corrige la regla anterior de este mismo documento** ("el producto aparece
-como ejemplo concreto de la idea" en Hero/Problema/Por qué Mood Baker/
+como ejemplo concreto de la idea" en Hero/Problema/Por qué Mood Table/
 Nuestra forma de ver el mundo). Andrea aclaró que eso mezcla dos trabajos
 distintos: construir marca y describir producto.
 
 - **Secciones de construcción de marca** — Hero, "El problema", "Por qué
-  Mood Baker", "Nuestra forma de ver el mundo" (Propósito, Misión, Visión,
+  Mood Table", "Nuestra forma de ver el mundo" (Propósito, Misión, Visión,
   Valores, Pilares, Principios/Criterios) — **se quedan en el lenguaje del
   brief**: recibir, agradecer, compartir, cuidar, conectar, nutrirse,
   cuidarse, Ritualizar, "hacer de lo ordinario algo significativo", los 5
