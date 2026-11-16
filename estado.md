@@ -2,34 +2,29 @@
 
 **Flujo:** Concepto y Narrativa de Marca (misma lógica de fases que usa TBNB,
 aplicada aquí a un proyecto propio de Andrea, no a un cliente).
-**Última actualización:** 2026-11-16
+**Última actualización:** 2026-11-16 (noche)
 
 ## Resumen
 
 - Pivote de Mood Cookies (cookies funcionales, 4 "moods", rituales por QR) a
-  **Mood Table** (repostería creativa de proximidad y temporada). El pivote
-  es de categoría de producto — la idea de fondo (comer como ritual/momento,
-  no como trámite) sobrevive y aquí se llama **Ritualizar**, resuelta ya
-  como speech de marca, no como mecánica de QR.
-- Nombre de marca: **Mood Table** (segundo pivote de nombre el mismo día,
-  2026-11-16 — antes fue Mood Baker). Nuevo tagline: "A little more
-  connected to what we eat, where it comes from and the moments we share
-  around it." Sin conflictos encontrados en búsqueda (Barcelona ni general);
-  "Table" además cierra, en vez de dejar abierta, la pregunta de lectura
-  persona/categoría que tenía "Baker" — ver `fase-b-plataforma-marca.md`
-  sección 0.
-- Voz editorial corregida dos veces (2026-11-16): no es wellness (Mood
-  Cookies), tampoco es oficio/técnica puro — es la reflexión de
-  recibir/agradecer/compartir/cuidar/conectar del brief original. Ver
-  `direccion-editorial-voz.md` v2 y `web-copy-v3.md`.
-- Categoría corregida (2026-11-16): Mood Table es **obrador**, no
-  "pastelería de autor" — la Fase A original lo categorizaba junto a
-  Benévola/La Cantonada (técnica, montajes, cremas). Andrea lo corrigió:
-  rústico, reconocible a simple vista, con 5 referencias visuales guardadas
-  en `referencias-visuales/`. De paso, precisó origen de producto: avellanas
-  **de Reus**, nueces **de Tarragona** (antes "de proximidad" en genérico).
-  Ver `fase-a-investigacion-mercado.md` (corrección al inicio) y
-  `fase-b-plataforma-marca.md` sección 0 y 7.
+  **Mood Table** (obrador de creatividad gastronómica, dulce y salado,
+  proximidad y temporada). Dos pasos de nombre el mismo día: Mood Cookies →
+  Mood Baker → Mood Table. La idea de fondo (comer como conexión/momento, no
+  como trámite) sobrevive a los dos pivotes.
+- **Fase B tiene ya documento oficial** (`fase-b-plataforma-marca.md` v3):
+  Andrea mandó `documentos-fuente/MOOD_TABLE_Identidad_de_Marca_v03.docx`,
+  un documento estratégico completo (propósito, visión, misión,
+  posicionamiento, público, valores, voz, tagline, identidad visual,
+  arquitectura de producto, ecosistema de marca, manifiesto). Sustituye el
+  borrador v1/v2 construido turno a turno en esta conversación. Quedan 6
+  puntos de reconciliación sin cerrar por mi cuenta — ver
+  `fase-b-plataforma-marca.md`, sección final "Reconciliación".
+- Eslogan oficial: **"Conectar con lo que nos alimenta."** (En
+  reconciliación: su relación con el tagline en inglés que Andrea dio antes
+  del documento, "A little more connected to what we eat...".)
+- La identidad visual ya tiene dirección (sección 09 del documento: paleta
+  avena/verde oliva/terracota/avellana/salvia/vino, DM Serif Display + DM
+  Sans, dirección fotográfica, packaging) — Fase C ya no arranca de cero.
 - Este repositorio es nuevo (creado 2026-11-16) y está separado del repo de
   TBNB (`Agentes`) porque Mood Table no es un cliente de la consultoría.
 
@@ -38,45 +33,34 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
 - [x] **Fase A · Investigación de mercado** — **hecha (2026-11-16)**, ver
       `fase-a-investigacion-mercado.md`. Investigó Vereda, Oz Bakery, Origo
       (referencias de Andrea) + 6 competidores más, con fuentes citadas.
-      Hallazgo clave: el mercado empuja hacia la dirección C de Visión
-      (sorpresa reconocible dulce+salado con discurso de Ritualizar) — A y B
-      tienen más competencia de la esperada. **Riesgo real detectado:** La
-      Cantonada ya vende un croissant de calçots y romesco — mismo
-      ingrediente/gesto que la tartaleta propuesta en Fase B sección 7b.
+      **Riesgo real detectado:** La Cantonada ya vende un croissant de
+      calçots y romesco — mismo ingrediente/gesto que la tartaleta de Mood
+      Table. El documento oficial de Fase B confirma mantener esa
+      tartaleta sin nombrar el precedente — ver reconciliación nº6.
       Limitaciones declaradas: sin visita física, sin precios de carta
       oficiales de ningún competidor.
-- [~] **Fase B · Plataforma de marca** — **v2, en construcción activa**, ver
-      `fase-b-plataforma-marca.md`. Resuelto hoy: Ritualizar (speech, no
-      mecánica), valores de alimento (temporada/proximidad/whole foods, no
-      plant-based/sin gluten), patrón de Identity (ingrediente conocido +
-      sorpresa, no cruce dulce-salado), por qué existen Siempre y Rotacional,
-      mantra v2, categoría (obrador), nombre (Mood Table), tarta de queso de
-      cabra y remolacha confirmada en Rotacional de invierno. **Sigue
-      abierto:** Visión (3 direcciones propuestas, C respaldada por la Fase
-      A), confirmación final del mantra, si cookies entra en "Siempre", test
-      de la tienda, Experiencias Mood/B2B en persona.
-      **Pendiente de recibir (2026-11-16): Andrea va a mandar un documento
-      con todo mejor estructurado.** Cuando llegue, lo reconcilio contra este
-      documento y señalo cualquier conflicto en vez de sobrescribir en
-      silencio — no asumo que cierra los abiertos de arriba hasta verlo.
+- [x] **Fase B · Plataforma de marca** — **v3, documento oficial**, ver
+      `fase-b-plataforma-marca.md`. Resuelve prácticamente todo lo que
+      estaba abierto en v1/v2 (Visión, valores, voz, tagline, arquitectura
+      de catálogo, ecosistema de marca Mood Kitchen/Journal/Experiences/
+      Goods). **6 puntos de reconciliación pendientes** antes de dar el
+      GATE 2 por bueno — ver sección final de ese documento: tagline
+      ES/EN, tarta de queso de cabra ausente de "la mesa de temporada",
+      cambio de los 5 criterios (Proximity desaparece, Creatividad entra),
+      "los cuatro verbos" solo lista tres, estado del B2B, y si se nombra
+      el precedente de La Cantonada en la narrativa de calçots/romesco.
 - [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente de que
-      Andrea confirme la Fase A (sobre todo: visita física pendiente, y si
-      mantiene la tartaleta de calçots/romesco sabiendo del precedente de
-      La Cantonada).
-- [ ] **GATE 2 · ¿Es esta la plataforma de marca que Andrea quiere?** — pendiente.
-- [~] **Fase C · Diseño del ecosistema** — arrancada parcialmente en el pilar
-      web: `web-copy-v1.md` → `v2` (giro de voz-de-oficio, insuficiente) →
-      `v3` (voz corregida, recibir/compartir/cuidar) → `v4` (2026-11-16:
-      separa marca de producto — las secciones de marca ("Por qué Mood
-      Table", pilar "Ingredientes con origen") ya no nombran ingrediente
-      concreto; eso es solo del Catálogo. Añade sección pública nueva
-      "Principios" con los 5 criterios de receta). Renombrado a Mood Table
-      en todo el repo (2026-11-16, segundo pivote de nombre) — v1-v4 ya
-      dicen "Mood Table"; **pendiente real:** ninguna versión integra
-      todavía el tagline nuevo ("A little more connected to...") en el
-      Hero, solo lo tiene Fase B (sección 1, Propósito). Identidad visual
-      (dirección de arte → sistema de identidad → diseño aplicado) no
-      arrancada todavía.
+      Andrea confirme la Fase A (sobre todo: visita física pendiente).
+- [ ] **GATE 2 · ¿Es esta la plataforma de marca que Andrea quiere?** —
+      pendiente solo de las 6 reconciliaciones de Fase B.
+- [~] **Fase C · Diseño del ecosistema** — pilar web en `web-copy-v1.md` →
+      `v4` (voz corregida, separación marca/producto), **pendiente una v5**
+      que alinee con el documento oficial de Fase B (nuevo eslogan, nueva
+      arquitectura de ecosistema, voz ya con reglas explícitas). Identidad
+      visual: dirección de arte ya no arranca de cero — la sección 09 del
+      documento oficial de Fase B la da casi entera (paleta, tipografía,
+      fotografía, packaging); falta solo que `mood-table-direccion-arte` la
+      desarrolle en sistema de identidad concreto (logo, aplicaciones).
 
 ## Equipo de agentes
 
@@ -91,9 +75,8 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
 
 ## Próximo paso
 
-1. Que Andrea elija/mezcle una dirección de Visión (la C viene respaldada
-   por la Fase A) y confirme o reescriba el mantra v2.
-2. Que confirme si mantiene la tartaleta de calçots/romesco sabiendo del
-   precedente de La Cantonada.
-3. Que revise `web-copy-v3.md` y diga si la voz ya es la correcta.
-4. Con eso, arrancar identidad visual (dirección de arte primero).
+1. Que Andrea responda las 6 reconciliaciones de `fase-b-plataforma-marca.md`.
+2. Con eso, reescribir el copy de la web (v5) alineado al documento oficial.
+3. Arrancar `mood-table-direccion-arte` sobre la sección 09 ya dada
+   (paleta, tipografía, fotografía) para llegar a sistema de identidad
+   (logo concreto, aplicaciones).

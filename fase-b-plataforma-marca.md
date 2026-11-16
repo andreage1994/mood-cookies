@@ -1,445 +1,669 @@
 # Fase B · Plataforma de Marca — Mood Table
 
-**Proyecto:** Mood Table (pivote desde Mood Cookies, 2026-11-16)
-**Servicio/flujo:** Concepto y Narrativa de Marca (mismo flujo que TBNB usa con
-clientes como The Lokal — `fase-a-investigacion-mercado.md` →
-**Fase B (este documento)** → `fase-c-diseno-ecosistema.md`), aplicado aquí a
-un proyecto propio de Andrea, no a un cliente de TBNB.
-**Estado:** **v1, borrador** — construido directamente a partir del brief de
-Andrea (2026-11-16) y del mensaje de producto (2026-11-16, bloques "siempre").
-Nada de esto está cerrado hasta que Andrea lo confirme — ver preguntas
-abiertas al final.
-**Fuente:** brief de Andrea en conversación, sin Fase A previa (ver nota en
-`estado.md` sobre por qué se empieza aquí y no en investigación de mercado).
+**Estado: v3 — documento oficial.** Sustituye el borrador anterior (v1/v2,
+construido turno a turno en esta conversación a partir del brief hablado de
+Andrea — ese proceso y su razonamiento quedan en el historial de git de este
+archivo, no se repiten aquí). Esta versión transcribe el documento que
+Andrea envió — `MOOD_TABLE_Identidad_de_Marca_v03.docx` (recibido
+2026-11-16) — como plataforma de marca oficial.
+
+**Lo que NO cambia:** Fase A (`fase-a-investigacion-mercado.md`) sigue
+vigente tal cual — este documento no la toca.
+
+**Lo que sí cambia respecto al v1/v2 de este mismo archivo:** prácticamente
+todo lo que estaba "abierto" se resuelve aquí (Visión, tono de voz,
+arquitectura de catálogo, identidad visual). Donde el documento de Andrea
+contradice o deja una laguna respecto a lo ya confirmado en chat esta misma
+tarde, lo señalo en **"Reconciliación"** al final — no lo resuelvo por mi
+cuenta.
 
 ---
 
-## 0. El pivote: de Mood Cookies a Mood Table (dos pasos)
+## 01 · Punto de partida
 
-**Pivote 1 (2026-11-16, por la mañana): Mood Cookies → Mood Baker.** Mood
-Cookies era una marca de cookies funcionales organizada por "moods" (Bite
-Me, High on Life, Running on Vibes, Pillow Talk) con un ritual desbloqueable
-por QR en cada envoltorio ("Mood Moments"). El pivote fue de categoría de
-producto, de cookie funcional a repostería creativa de temporada.
+### La comida como forma de conectar con la vida
 
-**Pivote 2 (2026-11-16, misma tarde): Mood Baker → Mood Table.** Andrea
-cambió el nombre una segunda vez el mismo día, con un tagline nuevo que hace
-explícita la conexión que ya estaba en el discurso de marca pero sin esa
-palabra — ver "Validación del nombre" más abajo. **Ninguno de los dos
-pivotes toca lo que sobrevive del origen** (más abajo): es nombre y encaje
-de categoría lo que cambia, no el alma de la marca.
+MOOD TABLE nace en Barcelona como una marca gastronómica que une
+creatividad culinaria, productos de obrador y una mirada contemporánea
+sobre la cultura de la comida.
 
-Lo que **sí sobrevive** al pivote, porque está en el alma de la marca y no en
-el producto concreto:
+MOOD TABLE crea productos de obrador dulces y salados, recetas de temporada
+y propuestas gastronómicas. Reinterpreta con creatividad elaboraciones que
+conocemos de toda la vida, explorando nuevas combinaciones de sabores e
+ingredientes, con especial atención a los productos locales, de proximidad
+y de temporada.
 
-- La idea de que comer no es solo nutrirse, es un momento — esto es literalmente
-  lo mismo que decía Mood Cookies con "a moment, not another task" y los Mood
-  Moments. Aquí se llama **Ritualizar**.
-- El nombre "Mood" y la lógica de que la marca gira en torno a un estado de
-  ánimo/momento, no solo un producto.
+El producto es también una puerta de entrada a algo más amplio: disfrutar
+de lo que tenemos delante, apreciar los ingredientes, descubrir sabores,
+nutrirnos y conectar con las personas con las que compartimos la mesa.
 
-Lo que **no se traslada automáticamente**: el catálogo de cookies, las 4
-familias de mood, el mecanismo de QR/Mood Moments tal cual estaba diseñado, y
-todo el trabajo de identidad visual y web que se hizo para Mood Cookies — ya
-no está en este repositorio (se perdió en una reestructuración del repo
-ajena a este proyecto; no hace falta migrarlo, el pivote de categoría lo
-habría dejado obsoleto de todas formas).
+La creatividad es el hilo que une nuestra propuesta: nos permite
+reinterpretar recetas reconocibles y crear combinaciones inesperadas con
+ingredientes seleccionados, de proximidad cuando sea posible y de
+temporada. El origen y la temporalidad aportan carácter y sentido a las
+recetas, pero siempre al servicio del sabor, la calidad y la experiencia.
 
-### Categoría: obrador, no pastelería de autor (resuelto 2026-11-16)
+> **La idea que guía la marca**
+> No se trata únicamente de qué comemos, sino de cómo nos relacionamos con
+> la comida y con todo lo que sucede alrededor de ella.
 
-Andrea corrigió una lectura equivocada que se había colado en
-`fase-a-investigacion-mercado.md` (categorizaba a Mood Table como
-"pastelería de autor de temporada", en el mismo territorio que Benévola o
-La Cantonada). **No es así:** Mood Table es un **obrador**, no una
-pastelería. La diferencia es de categoría real, no de matiz de palabra:
+### Qué queremos poner en valor
 
-- Benévola, La Cantonada y Maru Botana trabajan con técnica de pastelería de
-  autor — montajes, cremas, piezas que "se exhiben como museo" y que no
-  siempre se reconocen a simple vista.
-- Mood Table es **rústico y reconocible de un vistazo**: bizcocho, brownie,
-  cookie, tartaleta. Nunca una pieza que necesite explicación para entender
-  qué es, ni técnica escondida bajo el producto.
+- El placer de comer y descubrir combinaciones nuevas a partir de recetas
+  reconocibles.
+- La comida como una forma cotidiana de nutrirnos y cuidarnos, sin dietas ni
+  discursos restrictivos.
+- La creatividad en la combinación de ingredientes, sabores, texturas y
+  procedencias.
+- El valor de reinterpretar preparaciones conocidas con una mirada
+  gastronómica propia y elaboraciones cuidadas.
+- La conexión con la tierra y la riqueza gastronómica de Cataluña y del
+  entorno mediterráneo.
+- Los momentos de pausa, encuentro y conversación que nacen alrededor de la
+  mesa.
 
-Andrea dio 5 imágenes de referencia (guardadas en `referencias-visuales/`)
-para fijar esta dirección, y de paso precisó el origen de varios
-ingredientes más allá de "de proximidad" en genérico: **avellanas de Reus**,
-**nueces de Tarragona** — ver corrección de producto en la sección 7.
+### La conexión como idea rectora
 
-**Por qué esto refuerza la Visión C y no la contradice** (ver sección 3):
-la "sorpresa reconocible" de Mood Table vive en la combinación de sabor, no
-en la sofisticación visual — es coherente con ser obrador, no pastelería. Es
-una pieza más de por qué C es la dirección mejor respaldada: nadie
-investigado combina rusticidad + sorpresa de sabor de esta forma.
+En MOOD TABLE, conectar tiene cuatro dimensiones que conviven y se
+enriquecen entre sí:
 
-### Validación del nombre "Mood Table" (2026-11-16, segundo pivote de nombre)
-
-**Búsqueda de conflicto:** no se ha encontrado ninguna marca "Mood Table" en
-Barcelona ni a nivel general — existe "Mood Rooftop Bar" en Barcelona (bar
-de hotel en Eixample), sin relación de nombre completo ni de categoría. Sí
-hay un grupo de marcas "Mood + alimentación" registradas en EEUU (Mood
-Bars, Mood Foods, Mood Wellness, Mood Product Group) — ninguna se llama
-"Mood Table" ni opera en España, así que no es un conflicto directo, pero
-deja constancia honesta de que "Mood" + comida ya lo han explorado otras
-marcas fuera de Europa. No cambia la recomendación.
-
-**Por qué "Table" resuelve algo que "Baker" dejaba abierto, en vez de
-abrir una pregunta nueva:**
-- "Baker" nombraba a la persona que hornea — encajaba con la voz de
-  fundadora, pero dejaba una pregunta sin cerrar: ¿se lee como marca-persona
-  (Andrea como "la Mood Baker") o como categoría? Esa ambigüedad llevaba
-  abierta desde que se propuso el nombre (ver pregunta abierta nº ahora
-  retirada, más abajo).
-- "Table" la cierra sola: la mesa es un lugar, no una persona — no admite
-  esa lectura ambigua. Encaja además mejor con que el catálogo ya mezcla
-  dulce y salado (bizcocho de calabacín, tartaletas saladas) — "Baker" sonaba
-  más a repostería dulce; "Table" cubre con naturalidad cualquier cosa que
-  se ponga sobre una mesa.
-- "Table" hace explícito en el propio nombre lo que ya estaba en el
-  discurso pero había que explicar con otras palabras: **conexión** — con lo
-  que se come, con su origen (Proximity/Seasonality, sección 6), y con quien
-  comparte la mesa (Ritualizar, sección 5). El tagline nuevo lo dice
-  directamente: *"A little more connected to what we eat, where it comes
-  from and the moments we share around it."*
-- Encaja con el registro lingüístico que ya usan otros clientes de TBNB (The
-  Lokal, Geisha Coffee) — nombre en inglés para repostería/hostelería de
-  Barcelona no es una anomalía en este mercado.
-
-**Veredicto: el nombre funciona, y además cierra una pregunta en vez de
-dejarla abierta.** A diferencia de "Baker", "Table" no admite lectura de
-marca-persona — no hace falta que Andrea confirme nada más sobre esto.
+- **Con lo que comemos:** observar, apreciar, descubrir ingredientes,
+  sabores y preparaciones.
+- **Con nosotros mismos:** escuchar el cuerpo, reconocer nuestras
+  necesidades y disfrutar de alimentarnos.
+- **Con los demás:** compartir la mesa, conversar, cocinar para alguien y
+  crear vínculos.
+- **Con nuestro entorno:** acercarnos a la tierra, las estaciones, los
+  productores y la cultura gastronómica.
 
 ---
 
-## 1. Propósito — por qué existe la marca
+## 02 · Esencia de marca
 
-> **A little more connected to what we eat, where it comes from, and the
-> moments we share around it.**
-> Un poco más conectados a lo que comemos, de dónde viene, y los momentos
-> que vivimos en la mesa.
->
-> Mood Table nace de la idea de que comer no es solo ingerir alimentos: es
-> recibir, agradecer, compartir, cuidar, conectar. Hacer de lo ordinario,
-> algo significativo.
+### Qué es MOOD TABLE
 
-*(Actualizado 2026-11-16, con el pivote de nombre: la frase de marca pasa de
-"A little more pleasure in the everyday" a "A little more connected to what
-we eat, where it comes from and the moments we share around it" — textual
-del mensaje de Andrea al dar el nombre "Mood Table". "Hacer de lo ordinario,
-algo significativo" se mantiene del brief original, ahora como declaración
-que acompaña a la frase nueva, no que la sustituye. Pendiente de que Andrea
-lo confirme o lo reescriba con su propia voz, igual que pasó con el
-Propósito de The Lokal: esto sigue siendo borrador, no la versión oficial.)*
+MOOD TABLE es una marca gastronómica nacida en Barcelona que crea productos
+de obrador dulces y salados, recetas de temporada y propuestas
+gastronómicas desde una mirada creativa y contemporánea.
 
-## 2. Misión — cómo lo consigue
+Su trabajo parte de recetas y formatos que nos resultan familiares, que
+reinterpreta mediante combinaciones originales de ingredientes, sabores y
+texturas. El resultado son propuestas reconocibles y, al mismo tiempo,
+inesperadas: elaboraciones con identidad propia que despiertan curiosidad y
+ganas de probar.
 
-> **Crear repostería de proximidad y temporada que convierte un momento
-> cualquiera en un ritual con intención.**
->
-> Ingredientes de proximidad, recetas propias, producto de temporada y mucho
-> sabor. No se trata de tener más tiempo — se trata de estar más presentes en
-> el tiempo que ya tenemos, y poner intencionalidad en el disfrute de lo que
-> se come.
+Nos inspiran la despensa mediterránea, los mercados, los productos de la
+tierra, las recetas que forman parte de nuestra cultura y la posibilidad de
+darles una nueva mirada a través de la creatividad culinaria.
 
-*(Combina "Ritualizar" y la descripción de producto del brief. También v1.)*
+> **Esencia**
+> El placer de comer bien y de conectar con lo que nos alimenta.
 
-## 3. Visión — qué quiere llegar a representar
+### Declaración de marca
 
-**Esto es lo único que el brief de Andrea no dice explícitamente — no lo
-invento como cerrado.** Andrea pidió (2026-11-16) que le diga qué necesito
-para decidir, y que le proponga opciones.
+> Creamos productos de obrador dulces y salados, recetas de temporada y
+> propuestas gastronómicas. Reinterpretamos recetas y formatos reconocibles
+> con creatividad, combinando ingredientes, sabores y texturas para crear
+> elaboraciones originales, sorprendentes y llenas de sabor. Seleccionamos
+> materias primas con criterio, dando valor a la temporada y al origen
+> cuando aportan carácter a la receta. Queremos despertar curiosidad por lo
+> que tenemos delante e invitar a conectar con la comida, con las personas y
+> con el entorno.
 
-**Qué necesito para que esto deje de ser un borrador mío:** una visión
-responde "¿a qué aspira llegar a ser la marca, si todo sale bien, dentro de
-años?" — no qué hace hoy (eso es la Misión), sino qué quiere representar.
-Lo más útil que Andrea puede darme: si Mood Table aspira a ser sobre todo
-**un lugar/marca local muy querida en Barcelona** (como Vereda, que ella
-misma citó como referencia de valores), o si aspira a algo más amplio — una
-forma de entender la repostería de proximidad que podría viajar fuera de
-Barcelona. Eso cambia qué tipo de visión escribo.
+### Nuestra mirada creativa
 
-Tres direcciones posibles, para elegir, mezclar o descartar — ninguna es la
-oficial todavía:
+No buscamos inventar por inventar. Nos interesa reinterpretar elaboraciones
+que conocemos de toda la vida y darles una nueva mirada a través de la
+creatividad: explorar combinaciones de sabores, ingredientes locales y de
+proximidad, y productos de temporada. Partimos de lo familiar para
+descubrir nuevas formas de disfrutarlo.
 
-> **A. Centrada en el acto de comer.** Convertirse en la referencia de que
-> comer algo de temporada, con atención, es ya un acto de cuidado — sin que
-> haga falta nada más alrededor.
->
-> **B. Centrada en el territorio (más cercana a Vereda).** Ser la expresión
-> más honesta de la repostería de proximidad y temporada en Barcelona — que
-> el producto cuente qué productor, qué estación, qué mercado hay detrás.
->
-> **C. Centrada en la sorpresa reconocible.** Que cualquiera que pruebe algo
-> de Mood Table reconozca la firma — un ingrediente familiar, presentado de
-> una forma que no había visto — y vuelva buscando esa sorpresa.
-
-**Actualización con datos reales de mercado (2026-11-16, ver
-`fase-a-investigacion-mercado.md`):** A y B tienen más competencia directa
-de la que parecía — Vereda, Origo y Delicati ya ocupan bien el territorio de
-"proximidad/temporada en Barcelona" (B), y Benévola ya ocupa buena parte de
-"el acto de comer con atención" en dulce de autor (A). La dirección **C** es
-la única que coincide con un hueco de mercado verificado sin competencia
-directa: nadie investigado aplica "ingrediente conocido + sorpresa" a la vez
-en dulce y en salado, con un discurso explícito de Ritualizar/cuidado
-detrás. Esto es una recomendación respaldada por evidencia, no una decisión
-tomada — sigue siendo de Andrea elegir.
-
-**Riesgo real detectado, no solo un dato de contexto:** La Cantonada (Sant
-Martí) ya vende un croissant de calçots y romesco — el mismo ingrediente y
-el mismo gesto de "temporada catalana reinventada" que la tartaleta de
-calçots y romesco propuesta en la sección 7b. No es un conflicto de marca
-(formato distinto, sin el discurso de Mood Table detrás), pero si se
-mantiene esa pieza, no se puede presentar como "nunca visto" — hay
-precedente de prensa reciente.
-
-## 4. Lo que significa comer, para Mood Table
-
-Esta es la idea más distintiva del brief, y merece quedar como sección propia
-en vez de diluirse dentro del propósito:
-
-> Comer no es solo ingerir alimentos. Es recibir, agradecer, compartir,
-> cuidar, conectar. Nutrirse y cuidarse — y los alimentos que nos da cada
-> temporada también nos nutren *para* esa temporada (el clima, el cuerpo, el
-> momento del año).
-
-Esta frase conecta directamente con **Seasonality** (criterio de producto
-nº2, abajo): la temporalidad no es solo una restricción de sourcing, es parte
-de la tesis de marca — comer de temporada es una forma de cuidado, no solo de
-origen.
-
-## 5. Ritualizar — el mecanismo central
-
-> No siempre necesitamos más tiempo. Solo necesitamos estar más presentes en
-> el tiempo que ya tenemos. A partir de ahí, poner intencionalidad en el
-> disfrute de las recetas de Mood Table.
-
-**Resuelto (2026-11-16): esto es speech de marca, no un mecanismo de
-producto.** Andrea confirmó que, con el pivote, Ritualizar ya no se entrega
-como el ritual estructurado por QR que llevaba cada cookie de Mood Cookies
-(práctica + pasos + desbloqueo). Se queda en el discurso de marca: disfrutar
-mientras comes, dándole intención al momento en el que te nutres — ya sea
-compartiéndolo o estando a solas. Es una idea que se dice (hero, pilares,
-founder story), no una mecánica que se construye (no hay QR, no hay pasos
-numerados, no hay práctica desbloqueable por producto).
-
-Esto es el equivalente, para Mood Table, de lo que "a moment, not another
-task" era para Mood Cookies — el mismo mecanismo de marca, sobrevive al
-pivote de producto, pero cambia de forma: de mecánica de producto a mensaje
-de marca. Útil para quien trabaje identidad visual y web: cualquier pieza que
-pida "más tiempo, más pasos, más esfuerzo" está rompiendo este principio;
-cualquier pieza que ayude a notar el momento que ya existe, lo sostiene — sin
-necesidad de construir ningún sistema para ello.
-
-## 6. Principios de producto (criterios de receta)
-
-Antes de desarrollar cada receta, cinco criterios — textuales del brief de
-Andrea, aquí solo traducidos y numerados:
-
-1. **Proximity (Proximidad)** — ¿Podemos conseguir los ingredientes de
-   productores de Cataluña o de proximidad?
-2. **Seasonality (Temporada)** — ¿Es el momento adecuado para ese ingrediente?
-3. **Taste (Sabor)** — ¿Es una receta extraordinariamente buena por sí misma?
-4. **Identity (Identidad)** — ¿Tiene algo que la haga reconocible como Mood?
-5. **Production (Producción)** — ¿Es viable producirla en pequeños lotes y,
-   más adelante, delegarla?
-
-Estos 5 criterios son la herramienta de validación para cualquier receta
-nueva — el equivalente, para Mood Table, de la definición concreta de "¿qué
-es saludable?" que The Lokal usa para briefar packaging y carta.
-
-**Confirmado (2026-11-16): también son contenido público de marca, no solo
-herramienta interna.** Andrea los agrupó junto a Propósito/Ritualizar/
-Valores como parte de lo que la web debe comunicar bajo "construcción de
-marca" — ver sección nueva "Principios" en `web-copy-v4.md`. Importante:
-en la web se presentan como principio (las 5 preguntas, sin ejemplo), nunca
-con un producto concreto enganchado — el producto va solo en el Catálogo
-(ver `direccion-editorial-voz.md` v3, "Regla de separación marca/producto").
-
-## 7. Bloques de producto — línea "Siempre" (nuevo, 2026-11-16)
-
-Primeros 3 productos confirmados por Andrea, categoría **"Siempre"**
-(disponibles de forma permanente). **Resuelto (2026-11-16): por qué existen
-dos categorías.** Andrea lo explicó directamente: "Siempre" son productos
-que existen todo el tiempo y son reconocibles — el ancla estable de la
-marca. La categoría rotativa (ver 7b) existe para aportar frescura y
-rotación — no es solo "lo que no es Siempre", tiene su propia función.
-
-| Producto | Ingredientes | Lectura contra los 5 criterios |
-|---|---|---|
-| **Brownie de AOVE** | AOVE, **nueces de Tarragona** (precisado 2026-11-16, antes "de proximidad" en genérico), cacao 85% de tostador local | Proximity (nueces de Tarragona + tostador local, origen nombrado, no genérico) · Taste (cacao 85%, sin concesión a "ligero") · Identity (AOVE en vez de mantequilla, ya es una firma) |
-| **Bizcocho de calabacín, queso de oveja, aceitunas y AOVE** | Calabacín, queso de oveja, aceitunas, AOVE | Seasonality (calabacín) · Identity fuerte — un bizcocho salado-dulce es lo más "reconocible como Mood" de los tres, rompe la expectativa de bizcocho clásico · Proximity (queso de oveja, aceitunas como producto de proximidad típico) |
-| **Bizcocho de pera, romero, avellanas y chocolate** | Pera, romero, **avellanas de Reus** (precisado 2026-11-16), chocolate | Seasonality (pera, fruta de otoño/invierno) · Taste (combinación romero+chocolate, poco obvia) · Identity (el romero en un bizcocho dulce es la misma lógica de firma que el calabacín) · Proximity (avellana de Reus, origen nombrado — DOP real, no solo "de proximidad") |
-
-**Resuelto (2026-11-16) — qué es realmente el patrón, aclarado por Andrea:**
-no es un cruce deliberado de dulce-con-salado como firma de identidad. Son
-dos cosas distintas que se confundían en la lectura anterior:
-
-1. **Por qué hay piezas saladas:** no es una declaración de identidad, es
-   servir también a quien prefiere salado — no todo el mundo disfruta igual
-   con dulce.
-2. **Qué es "lo inesperado" de verdad:** usar ingredientes que todo el mundo
-   conoce, en una combinación o presentación que no se ha visto. El ejemplo
-   de Andrea: la pera es un ingrediente muy visto, el bizcocho es un formato
-   muy visto — pero un bizcocho de pera con romero no se ve. Eso es la firma
-   real de Identity, independiente de si la pieza es dulce o salada.
-
-## 7b. Bloques de producto — línea "Rotacional" (nuevo, 2026-11-16)
-
-Segunda categoría del catálogo, confirmada por Andrea el mismo día: **tartaletas
-de fruta y verdura de temporada**, que rotan con el calendario estacional —
-resuelve la pregunta abierta nº5 de más abajo (sí hay una segunda categoría,
-y es rotativa por temporada, no por edición limitada puntual).
-
-| Momento | Tartaleta | Lectura contra los 5 criterios |
-|---|---|---|
-| *(de referencia, sin fecha dada)* | Aceitunas | Ejemplo citado por Andrea como punto de partida del formato — sin confirmar en qué estación vive. |
-| Otoño | Calabaza, queso y avellanas | Seasonality (calabaza, avellanas de otoño) · Identity (ingrediente de temporada muy conocido, en una tartaleta salada que no es la presentación esperada) |
-| **Invierno** | **Tarta de queso de cabra con remolachas de invierno** (confirmada 2026-11-16, antes referencia de estética — ver nota abajo) | Seasonality (remolacha de invierno) · Identity (queso de cabra + remolacha, cruce dulce/tierra poco visto en formato rústico) · Proximity (origen de queso de cabra sin precisar todavía) |
-| *(estación sin confirmar — probablemente invierno/principios de primavera, temporada real de calçots en Cataluña)* | Calçots y romesco | Proximity + Identity muy fuertes — el calçot con romesco es prácticamente un símbolo cultural catalán, no solo un ingrediente de temporada; encaja directo con "Km 0, but never provincial" del mantra borrador |
-
-**Nota sobre la foto de inspiración:** resuelta (2026-11-16) — Andrea envió 5
-imágenes de referencia, guardadas en `referencias-visuales/`. No incluían la
-tartaleta de calabaza en concreto, pero sí fijan la estética rústica general
-(ver sección 0, "Categoría: obrador, no pastelería de autor").
-
-**Confirmado (2026-11-16): tarta de queso de cabra con remolachas de
-invierno, en el catálogo Rotacional de invierno.** Lo que empezó como
-referencia de estética (`referencias-visuales/01-tarta-queso-cabra-
-remolacha-invierno.webp`) se suma como producto real — Andrea lo confirmó.
-Pendiente, no bloqueante: origen concreto del queso de cabra (proximidad),
-cuando lo tenga.
-
-**Corrección a la nota del punto 7 (y a su propia corrección anterior):** el
-hilo de identidad real no es "cruce dulce-salado", según aclaró Andrea — es
-**ingrediente conocido + combinación o presentación que no se ha visto**,
-igual en dulce que en salado. Lo salado existe porque no todo el mundo
-prefiere dulce, no como gesto de identidad en sí mismo.
-
-## 7c. Cookies — en estudio, sin categoría cerrada (nuevo, 2026-11-16)
-
-Andrea plantea integrar cookies "de alguna forma" — sin decidir todavía si
-entran en la línea "Siempre", si forman su propia línea, o si son una pieza
-puntual. Dos sabores propuestos, de momento solo ideas:
-
-| Cookie | Ingredientes | Lectura contra los 5 criterios |
-|---|---|---|
-| Chocolate, avellana y sal | Chocolate local, **avellana de Reus** (precisado 2026-11-16), sal | Taste fuerte (combinación clásica bien ejecutada) · Identity más discreta que el resto del catálogo — es la receta menos "inesperada" de todas las propuestas hasta ahora, vale la pena vigilar que no se sienta genérica al lado del resto · Proximity (avellana de Reus, origen nombrado) |
-| AOVE y almendras | AOVE, almendras | Identity — refuerza un patrón que ya aparece en el Brownie de AOVE y el bizcocho de calabacín: **el AOVE como grasa en vez de mantequilla empieza a leerse como firma de marca transversal**, no solo de una receta. Proximity (almendra mediterránea) |
-
-**Por qué esto no es casualidad de marca:** Mood nació como Mood Cookies —
-que haya cookies en el catálogo de Mood Table es un hilo de continuidad real
-con el origen de la marca, no solo una categoría de producto más. Vale la
-pena nombrarlo así si Andrea quiere usarlo en la narrativa de marca (ver
-sección 0).
-
-**Pendiente:** confirmar si las cookies entran en "Siempre", abren una
-tercera línea, o quedan como pieza puntual — no lo decido yo, actualizo la
-pregunta abierta nº5.
-
-## 8. Valores — principios que guían las decisiones
-
-Derivados del brief, no literales como en el punto 6 (que sí son texto
-textual de Andrea):
-
-1. **Comer como ritual, no como trámite.**
-2. **Presencia sobre tiempo** — el recurso escaso no es el tiempo, es la
-   atención.
-3. **Temporada, proximidad y whole foods como eje nutricional** — no
-   plant-based ni sin gluten (eso era Mood Cookies como snack funcional).
-   Confirmado por Andrea (2026-11-16): el valor de alimento de Mood Table es
-   producto de temporada, de proximidad, whole foods y sin procesados —
-   nutritivo de verdad, no una etiqueta de dieta.
-4. **Sabor sin concesiones** — nunca sacrificar sabor por la narrativa de
-   "de proximidad" o "de temporada".
-5. **Identidad reconocible en cada receta** — no repostería genérica con
-   ingredientes bonitos, sino algo que solo Mood haría así.
-
-## 9. Mantra de marca — borrador v2, sin confirmar
-
-**Qué es y para qué sirve (Andrea pidió más contexto, 2026-11-16):** no es
-un eslogan — es una herramienta de trabajo interna. Cada tensión tiene un
-lado "fácil" (el cliché obvio) y dice explícitamente qué evitar. Sirve para
-revisar cualquier pieza (packaging, web, una receta nueva) y comprobar que
-no cayó en el lado fácil de ninguna. The Lokal lo usa así para su "THE LOKAL
-WAY" — se cita en cada revisión de diseño, no se repite como tagline.
-
-**v1 (descartada por desalineada con las correcciones de hoy) decía "Indulgent,
-but never careless" y "Ritual, but never a chore" — ya no encajan: la
-primera no refleja el eje real (temporada/proximidad/whole foods, no
-indulgencia), la segunda sigue hablando de "ritual" como si fuera una
-mecánica.**
-
-**v2, reescrita con lo confirmado hoy — sigue siendo propuesta mía, no
-texto de Andrea:**
-
-- *Familiar, but never obvious.* — el patrón real de Identity: ingrediente
-  conocido, combinación que no se ha visto (el bizcocho de pera y romero).
-- *Seasonal, but never limited.*
-- *Km 0, but never provincial.*
-- *Nourishing, but never clinical.* — whole foods y sin procesados, sin
-  sonar a etiqueta de dieta.
-- *Shared, but never performative.* — compartir con los tuyos, no para la
-  foto.
-
-(Se cae "Ritual, but never a chore" — Ritualizar ya no es una tensión de
-producto, es speech de marca, no encaja en este formato de "X pero nunca Y"
-de la misma manera.)
+- **Qué hacemos:** creamos productos de obrador dulces y salados, recetas de
+  temporada y propuestas gastronómicas. Reinterpretamos con creatividad
+  elaboraciones que conocemos de toda la vida, explorando nuevas
+  combinaciones de sabores e ingredientes locales, de proximidad y de
+  temporada.
+- **Para quién:** personas curiosas que disfrutan comiendo, descubriendo
+  sabores y propuestas nuevas, y que valoran tanto la calidad del producto
+  como la experiencia de compartirlo.
+- **Cómo:** aplicando creatividad gastronómica a recetas reconocibles;
+  combinando ingredientes con criterio; explorando sabores y texturas;
+  respetando la temporalidad; y cuidando cada elaboración desde el
+  desarrollo de la receta hasta el momento de disfrutarla.
 
 ---
 
-## Preguntas abiertas (no dar por resueltas)
+## 03 · Propósito, Visión y Misión
 
-1. **¿Falta Fase A (investigación de mercado/competencia)?** **En marcha
-   (2026-11-16):** Andrea confirmó que no tiene esta información y pidió
-   que se investigue. Encargado a un investigador de mercado — referencias
-   de partida de Andrea: Vereda (restaurante en Barcelona, valores muy
-   parecidos a los de Mood Table), Oz Bakery (artesanal, con toques árabes)
-   y Origo (harinas locales). Ver `fase-a-investigacion-mercado.md` cuando
-   exista.
-2. ~~Visión (punto 3)~~ — **en progreso**: Andrea pidió opciones en vez de
-   confirmar un borrador cerrado — ver las 3 direcciones propuestas en el
-   punto 3. Sigue sin elegirse ninguna.
-3. ~~El mantra (punto 9)~~ — **en progreso**: reescrito a v2 con lo
-   confirmado hoy (ver punto 9), pero sigue siendo propuesta mía, no texto
-   de Andrea. Necesita su confirmación o reescritura.
-4. ~~El patrón "dulce + algo inesperado" (punto 7)~~ — **resuelto
-   (2026-11-16)**: no es cruce dulce-salado, es ingrediente conocido +
-   combinación/presentación no vista, igual en dulce que en salado. Lo
-   salado existe por preferencia de paladar, no por gesto de identidad.
-5. ~~La categoría "Siempre" implica que hay otra(s) categoría(s)~~ —
-   **resuelto**: sí, "Rotacional" (tartaletas de temporada) y "Cookies" en
-   estudio, ver secciones 7b-7c. También resuelto el porqué: Siempre = ancla
-   reconocible, Rotacional = frescura.
-6. ~~¿Se mantiene el ritual estructurado por QR de Mood Cookies?~~ —
-   **resuelto (2026-11-16): no.** Ritualizar pasa a ser speech de marca, no
-   mecánica de producto — ver sección 5. Esto cierra también el paso 3 de
-   "Cómo funciona" en `web-copy-v1.md`.
-7. **Lo que NO quedó resuelto con el punto anterior: Experiencias Mood
-   (eventos en persona) y el B2B "Organiza una experiencia Mood".** Andrea
-   solo confirmó que cae el ritual estructurado por QR — no dijo nada sobre
-   si los eventos/talleres en persona o la propuesta B2B se mantienen para
-   Mood Table. No asumir ninguna de las dos cosas; sigue abierto.
-8. **La voz editorial (nuevo, 2026-11-16)** — Andrea corrigió dos veces
-   seguidas la dirección de voz (primero "no es wellness", después "tampoco
-   es oficio/técnica puro") — ver `direccion-editorial-voz.md` v2: la voz
-   real es la reflexión de recibir/agradecer/compartir/cuidar/conectar del
-   brief original, no una ficha técnica de panadería. Pendiente aplicar esta
-   v2 a fondo en todo `web-copy-v2.md` (hecho solo parcialmente hasta
-   ahora).
-9. ~~La categoría: ¿pastelería de autor u obrador?~~ — **resuelto
-   (2026-11-16): obrador.** Andrea corrigió la lectura de
-   `fase-a-investigacion-mercado.md` que categorizaba a Mood Table junto a
-   Benévola/La Cantonada (pastelería de autor, técnica, montajes). Mood
-   Table es obrador: rústico, reconocible a simple vista, nunca técnica
-   escondida — ver sección 0. ~~Dentro de esta misma corrección, si la
-   tarta de queso de cabra con remolachas de invierno se suma al catálogo~~
-   — **resuelto (2026-11-16): sí**, entra en Rotacional de invierno (ver
-   sección 7b).
-10. ~~El nombre: ¿Mood Baker o Mood Table? ¿Se lee "Baker" como
-    marca-persona o como categoría?~~ — **resuelto (2026-11-16): Mood
-    Table, segundo pivote de nombre el mismo día.** Retira de raíz la
-    pregunta de lectura persona/categoría que tenía "Baker" — "Table" es un
-    lugar, no admite esa ambigüedad. Nuevo tagline: "A little more
-    connected to what we eat, where it comes from and the moments we share
-    around it" — ver sección 0 y Propósito (punto 1). Sin conflicto de
-    marca encontrado (Barcelona ni general); hay un grupo de marcas "Mood +
-    alimentación" registradas en EEUU, ninguna "Mood Table", riesgo bajo.
+### Propósito
+
+> Hacer que los momentos cotidianos alrededor de la comida tengan más
+> valor: invitar a las personas a conectar con lo que las alimenta,
+> apreciando lo que tienen delante, escuchando lo que necesitan,
+> disfrutando de los sabores, compartiendo con los demás y reconociendo el
+> vínculo con la tierra.
+
+### Visión
+
+Imaginamos una cultura de la alimentación en la que comer vuelva a ser una
+experiencia completa y significativa. Una cultura que nos invite a estar
+más presentes, a escuchar lo que necesitamos, a apreciar los ingredientes y
+las preparaciones, a disfrutar sin culpa y a compartir la mesa con más
+atención.
+
+Queremos contribuir a una relación con la comida menos automática y menos
+condicionada por las dietas, las prisas o las reglas externas. Una relación
+en la que la nutrición y el autocuidado convivan con el placer, la
+curiosidad, la tradición y el encuentro.
+
+Desde Barcelona y nuestra cultura mediterránea, queremos poner en valor la
+riqueza de la tierra y de sus productos, no como un fin en sí mismo, sino
+como parte de una manera más conectada de alimentarnos y vivir.
+
+### Misión
+
+> Crear productos de obrador dulces y salados, recetas de temporada y
+> propuestas gastronómicas con una mirada creativa. Reinterpretar
+> elaboraciones reconocibles mediante nuevas combinaciones de sabores e
+> ingredientes, dando protagonismo a los productos locales, de proximidad y
+> de temporada. A través de estos productos, invitar a descubrir, apreciar
+> y saborear la comida, y a conectar con las personas y el entorno que
+> forman parte de ella.
+
+> **Hacia dónde queremos ir**
+> Una cultura de la comida más consciente, placentera y conectada: con
+> nuestro cuerpo, con las personas, con los ingredientes y con la tierra.
+
+---
+
+## 04 · Posicionamiento
+
+### Un territorio propio: conectar con lo que nos alimenta
+
+MOOD TABLE se sitúa en el territorio de la creatividad gastronómica
+cotidiana. No es una pastelería tradicional ni una marca de repostería
+saludable basada en dietas o restricciones. Su diferencial está en
+reinterpretar productos y recetas reconocibles con una mirada creativa,
+cuidando el sabor, la combinación de ingredientes y la experiencia completa
+de comer.
+
+Su punto de partida son los productos de obrador dulces y salados, las
+recetas de temporada y las propuestas gastronómicas. Su universo es más
+amplio: la creatividad culinaria, la reinterpretación de recetas, los
+ingredientes, el origen, las estaciones, la relación con la comida, el
+placer, la presencia y los vínculos que nacen alrededor de la mesa.
+
+### Declaración de posicionamiento
+
+> Para personas curiosas que disfrutan de la gastronomía y quieren
+> descubrir nuevas formas de disfrutar recetas conocidas, MOOD TABLE es una
+> marca de Barcelona que crea productos de obrador dulces y salados, recetas
+> de temporada y propuestas gastronómicas, reinterpretando preparaciones
+> familiares con creatividad, ingredientes seleccionados y combinaciones
+> originales.
+
+### Lo que no queremos ser
+
+- Una marca de dietas o restricciones.
+- Una marca de bienestar genérico.
+- Una propuesta que utilice la culpa para vender.
+- Una panadería o pastelería convencional que solo comunica el producto.
+- Una marca que haga promesas nutricionales o de salud sin fundamento.
+
+---
+
+## 05 · Público objetivo
+
+### Personas que disfrutan de la comida y de todo lo que sucede alrededor de ella
+
+Hablamos a personas que disfrutan de la gastronomía y se interesan por la
+calidad de los alimentos, pero que no quieren convertir la alimentación en
+una lista de normas.
+
+- Disfrutan de los mercados, los pequeños comercios, los cafés y las mesas
+  compartidas.
+- Se interesan por los ingredientes, su procedencia y cómo se elaboran los
+  alimentos.
+- Valoran la gastronomía mediterránea y los productos de temporada.
+- Buscan equilibrio entre nutrición, placer y disfrute, sin discursos
+  extremos.
+- Aprecian las marcas auténticas, con criterio y una historia real detrás.
+- Les gusta descubrir nuevos sabores, combinaciones inesperadas y formas
+  creativas de reinterpretar recetas conocidas.
+
+### Qué queremos que sientan
+
+- Curiosidad por descubrir.
+- Confianza en lo que compran.
+- Placer al comer.
+- Conexión con los ingredientes y su origen.
+- Presencia y disfrute en los momentos compartidos.
+
+---
+
+## 06 · Valores de marca
+
+### Los principios que guían nuestras decisiones
+
+**01 · Placer y disfrute** — La comida tiene que estar rica. Creemos que el
+placer no está reñido con el cuidado y que disfrutar de lo que comemos
+forma parte de una relación sana y sostenible con la alimentación.
+
+**02 · Conexión y presencia** — Damos valor al acto de comer: parar,
+apreciar, saborear, nutrirnos y compartir. Nos interesan tanto los
+ingredientes como los momentos que se crean alrededor de ellos.
+
+**03 · Origen y temporalidad** — Nos conectamos con la tierra a través de
+ingredientes de proximidad, productores y productos de temporada. La
+procedencia y el calendario natural inspiran nuestras decisiones y nuestras
+recetas.
+
+**04 · Honestidad y cuidado** — Comunicamos con transparencia, cuidamos las
+elaboraciones y evitamos promesas exageradas. El respeto por las personas,
+los ingredientes y el producto está presente en cada decisión.
+
+*(Sustituye los 5 valores del borrador v1/v2 — ver "Reconciliación".)*
+
+---
+
+## 07 · Personalidad y tono de voz
+
+### Cómo se siente y cómo habla MOOD TABLE
+
+MOOD TABLE debe sentirse como alguien con curiosidad gastronómica,
+sensibilidad y criterio, que disfruta conectando con la comida y
+compartiendo lo que descubre. Es cercana, pero no infantil; sabe de comida,
+pero no da lecciones; es consciente, pero no moralista. Invita a mirar,
+apreciar, descubrir, saborear y compartir, sin decirle a nadie cómo debe
+comer.
+
+- **Cercana:** habla de forma natural, cálida y accesible.
+- **Creativa y curiosa:** sorprende con combinaciones, reinterpretaciones y
+  nuevas lecturas de recetas conocidas.
+- **Honesta:** cuenta lo que hace y lo que utiliza sin exageraciones.
+- **Alegre:** transmite entusiasmo y placer por la comida.
+- **Editorial:** tiene una mirada propia, cuidada y contemporánea.
+
+### Sí diríamos
+- Un buen momento empieza con algo rico.
+- Hoy, algo de temporada para compartir.
+- Un clásico, con una combinación que no esperabas.
+- Hecho con calabaza, queso de oveja y avellanas.
+- Comer también es parar, saborear y compartir.
+- El placer de comer bien, sin complicaciones.
+
+### Evitaríamos
+- El dulce que no engorda.
+- Come sin culpa.
+- Tu dosis diaria de bienestar.
+- Detox, quema grasa o limpia tu organismo.
+- El capricho permitido.
+- La opción perfecta para compensar.
+
+### Reglas de comunicación
+1. Hablar del sabor y de la experiencia antes que de supuestos beneficios.
+2. Contar el origen y la procedencia solo cuando estén verificados.
+3. Hablar de nutrición desde el cuidado y la información, no desde la
+   prescripción.
+4. No utilizar la culpa, el miedo ni la restricción como argumentos
+   comerciales.
+5. Explicar la temporalidad como una decisión gastronómica y una forma de
+   conexión con la tierra, sin reducir toda la idea de marca al origen de
+   los ingredientes.
+
+*(Este bloque sustituye `direccion-editorial-voz.md` como guía de voz
+oficial — ese archivo documentaba el proceso de corrección en dos rondas
+que llevó hasta aquí; se mantiene como historial, no como regla vigente.
+La "regla de separación marca/producto" de ese archivo sigue siendo válida
+y es coherente con este documento: "Hecho con calabaza, queso de oveja y
+avellanas" aparece aquí como ejemplo de registro de voz de catálogo, no
+dentro de Propósito/Visión/Valores.)*
+
+---
+
+## 08 · Territorio de taglines
+
+### Una idea que guía todo lo que hacemos
+
+El eslogan definitivo de MOOD TABLE es **«Conectar con lo que nos
+alimenta»**. Resume nuestra convicción de que la comida nos conecta con
+nosotros mismos, con los demás, con lo que tenemos delante y con nuestro
+entorno. La creatividad gastronómica es la forma en que llevamos esta idea
+al producto: creamos elaboraciones que despiertan curiosidad y hacen que
+una receta familiar se descubra de una manera nueva.
+
+Territorio explorado (variaciones sobre la misma idea, no taglines
+alternativos a elegir):
+- *Conectar con lo que nos alimenta* — eslogan de marca: une comida,
+  conexión y significado.
+- *Descubrir lo que hay detrás de cada receta* — la curiosidad como
+  invitación a conocer ingredientes, sabores y preparaciones.
+- *Reinterpretar lo conocido* — la creatividad como mirada propia sobre
+  recetas y productos familiares.
+- *Saborear nuevas combinaciones* — el sabor como criterio central de toda
+  innovación.
+- *Compartir lo que nos gusta* — la mesa como espacio de conexión y
+  disfrute.
+- *De la tierra a la mesa, con creatividad* — el origen y la temporada
+  como inspiración gastronómica.
+
+> **Dirección inicial recomendada**
+> Explorar especialmente «El placer de comer bien», «Conectados con lo que
+> nos alimenta» y «Comer, disfrutar, compartir». Cada una expresa una
+> dimensión diferente de la marca.
+
+### Los verbos que expresan la experiencia Mood Table
+
+- **Descubrir:** despertar curiosidad por ingredientes, sabores,
+  combinaciones y recetas.
+- **Apreciar:** reconocer el valor de lo que tenemos delante, su
+  elaboración y sus ingredientes.
+- **Saborear:** poner el sabor y el disfrute en el centro de cada
+  propuesta.
+
+*(El documento original titula este bloque "Los cuatro verbos" pero solo
+lista tres — ver "Reconciliación", no completo yo el cuarto por mi cuenta.)*
+
+---
+
+## 09 · Dirección de identidad visual
+
+### La mesa mediterránea contemporánea
+
+La identidad visual debe transmitir conexión: con la comida, los
+ingredientes, las personas y los momentos alrededor de la mesa. Buscamos
+una estética cálida, editorial y contemporánea, con sensibilidad
+mediterránea: ni rústica tradicional ni minimalismo beige de bienestar.
+
+### Logotipo
+
+Logotipo tipográfico con MOOD TABLE como elemento principal. Puede convivir
+con una versión compacta MOOD y un sello secundario MT para etiquetas,
+packaging y aplicaciones pequeñas. Evitar iconos literales como hojas,
+espigas, cupcakes o corazones.
+
+### Paleta cromática
+
+| Color | HEX | Significado |
+|---|---|---|
+| Avena | `#F0E8DA` | Calidez, naturalidad y luz. |
+| Verde oliva | `#343C31` | Tierra, origen y autenticidad. |
+| Terracota | `#B96E4F` | Cocina, materia y energía. |
+| Avellana | `#D6C5A6` | Ingredientes, artesanía y proximidad. |
+| Salvia | `#A6A985` | Naturaleza y temporalidad. |
+| Vino | `#6F3E35` | Profundidad y carácter. |
+
+Base: avena, con verde oliva como contraste principal. Terracota, salvia y
+vino como acentos. La identidad debe mantener coherencia durante todo el
+año aunque cambien los productos.
+
+### Tipografías
+
+- **Titulares:** DM Serif Display — expresiva, editorial y cálida.
+- **Texto y etiquetas:** DM Sans — limpia, contemporánea y funcional.
+- **Acentos opcionales:** Space Mono — para fechas, lotes y detalles
+  informativos.
+
+### Dirección fotográfica
+
+- **Producto:** primeros planos, texturas, cortes, migas y detalles de
+  elaboración.
+- **Ingredientes:** frutas, verduras, frutos secos, aceites, quesos y
+  materias primas.
+- **Proceso:** manos, cocina, mezclas, hornos y preparación.
+- **Territorio:** mercados, campos, productores, talleres y lugares de
+  origen.
+- **Mesa:** desayunos, meriendas, aperitivos, sobremesas y momentos
+  compartidos.
+
+Luz natural, materiales reales (lino, madera, cerámica, papel y metal) y
+composiciones espontáneas pero cuidadas. Mostrar tanto el producto como la
+vida que sucede alrededor de él.
+
+### Packaging
+
+Cajas y papeles sencillos, etiquetas editoriales, información clara y
+legible, nombre del producto destacado, ingredientes y alérgenos
+correctamente identificados y procedencia cuando esté verificada. El
+packaging debe transmitir cuidado sin artificios.
+
+*(Esta sección es, de hecho, el arranque real de Fase C — dirección de
+arte. Cuando se confirme esta Fase B, `mood-table-direccion-arte` parte de
+aquí, no de cero.)*
+
+---
+
+## 10 · Arquitectura de producto
+
+### Recetas reconocibles, reinterpretadas con creatividad
+
+La oferta se construye a partir de formatos familiares (cakes, cookies,
+tartas, elaboraciones dulces y saladas) que se reinterpretan con
+creatividad. La temporada y los ingredientes disponibles abren nuevas
+posibilidades para crear combinaciones propias, sin perder de vista el
+sabor, la identidad y la viabilidad de producción.
+
+### La colección de cakes
+
+| Producto | Lectura |
+|---|---|
+| **Brownie de chocolate y AOVE** con ingredientes seleccionados | Ejemplo de cómo una receta reconocible puede adquirir una nueva identidad a través de la creatividad. |
+| **Bizcocho salado de calabacín, queso de oveja, aceitunas y AOVE** | Receta salada familiar con equilibrio de sabores y una mirada contemporánea. |
+| **Bizcocho de pera, romero, chocolate y avellanas** | Combinación que juega con dulzor, notas herbales y textura. |
+
+*(Mantengo aquí la trazabilidad de origen ya confirmada en esta misma
+conversación — avellanas de Reus, nueces de Tarragona — que el documento de
+Andrea no especifica a este nivel de detalle; ver "Reconciliación".)*
+
+### El proyecto de cookies
+
+Categoría por desarrollar, con recetas propias y una identidad
+diferenciada — **línea propia, no parte de "Siempre"** (resuelve la
+pregunta abierta que llevaba el v1/v2 de este documento). Líneas de
+exploración:
+- Chocolate, avellana y sal marina.
+- AOVE, almendra y cítricos.
+- Trigo sarraceno, tahini y semillas.
+
+### La mesa de temporada
+
+- **Otoño:** tartaleta de calabaza, queso y avellanas; tartaleta de
+  aceitunas y hierbas.
+- **Invierno:** tartaleta de calçots y romesco; elaboraciones de cítricos y
+  almendra.
+- **Primavera:** tartaletas de fresas y almendra; propuestas con verduras y
+  hierbas.
+- **Verano:** tartaletas de fruta de hueso, melocotón, albaricoque, cerezas
+  e higos.
+
+**Confirma mantener la tartaleta de calçots y romesco** — resuelve la
+pregunta abierta que dejó `fase-a-investigacion-mercado.md` sobre el
+precedente de La Cantonada (mismo ingrediente, croissant en vez de
+tartaleta). Ver "Reconciliación" sobre si quiere que ese matiz de
+diferenciación se use también en cómo se cuenta esta pieza.
+
+**Nota:** la tarta de queso de cabra con remolachas de invierno, que Andrea
+confirmó para el Rotacional de invierno en el mensaje anterior a este
+documento, no aparece en esta lista — ver "Reconciliación".
+
+### Criterios de desarrollo
+
+1. **Creatividad:** ¿hay una idea propia detrás de esta combinación? ¿Aporta
+   algo nuevo a una receta reconocible?
+2. **Temporada y origen:** ¿los ingredientes elegidos aportan carácter y
+   tienen sentido en este momento del año?
+3. **Sabor:** ¿la combinación funciona de verdad y apetece repetirla?
+4. **Identidad:** ¿la propuesta tiene una mirada reconocible y encaja con
+   MOOD TABLE?
+5. **Producción:** ¿podemos elaborarla de forma consistente, mantener su
+   calidad y delegarla en el futuro?
+
+*(Sustituyen a los 5 criterios en inglés del brief original — Proximity,
+Seasonality, Taste, Identity, Production. Ver "Reconciliación": el cambio
+real es que "Proximity" como criterio independiente desaparece y aparece
+"Creatividad" como criterio nuevo en primer lugar.)*
+
+---
+
+## 11 · Diferenciación y propuesta de valor
+
+### Una marca que conecta a las personas con todo lo que las alimenta
+
+MOOD TABLE reinterpreta con creatividad recetas y elaboraciones
+reconocibles, explorando nuevas combinaciones de sabores e ingredientes. La
+selección de productos locales, de proximidad y de temporada aporta
+carácter a cada propuesta. Partimos de preparaciones familiares para
+ofrecer nuevas formas de disfrutarlas, siempre con el sabor y la
+experiencia en el centro.
+
+- **Origen:** ingredientes y productores del entorno, con procedencia
+  transparente.
+- **Temporalidad:** una oferta que evoluciona con las estaciones.
+- **Creatividad:** reinterpretamos recetas y formatos familiares con
+  combinaciones originales y una mirada gastronómica propia.
+- **Experiencia:** cada producto invita a descubrir, apreciar y saborear; la
+  experiencia se completa al compartirlo y conectar con lo que nos rodea.
+
+### Experiencia de marca
+
+- **Antes de comprar:** despertar curiosidad con historias de ingredientes,
+  recetas, productores y temporadas.
+- **Durante la compra:** una oferta clara, información transparente y una
+  compra sencilla.
+- **Al recibir el producto:** packaging cuidado, una nota sobre el
+  producto, su ingrediente protagonista o su temporada.
+- **Al disfrutarlo:** invitar a parar, saborear, compartir o acompañar el
+  producto con un café o una conversación, sin convertirlo en una
+  obligación.
+
+---
+
+## 12 · Ecosistema de marca
+
+### Más allá del producto
+
+- **Mood Kitchen** — el espacio de investigación y creación: desarrollo de
+  recetas, experimentación, pruebas de sabor y nuevas combinaciones.
+- **Mood Journal** — contenido sobre ingredientes, productores, temporadas,
+  recetas, nutrición cotidiana y cultura gastronómica, explorando las
+  distintas formas en que la comida nos conecta.
+- **Mood Table Experiences** — encuentros, desayunos, talleres,
+  colaboraciones y experiencias alrededor de la comida.
+- **Mood Goods** — productos propios, colecciones estacionales,
+  colaboraciones y ediciones limitadas.
+
+*(Resuelve, al menos en parte, la pregunta abierta sobre si "Experiencias
+Mood" sobrevivía al pivote: sí, como "Mood Table Experiences". No se
+menciona explícitamente el B2B "Organiza una experiencia Mood" — ver
+"Reconciliación".)*
+
+---
+
+## 13 · Manifiesto
+
+> Conectar con lo que nos alimenta.
+>
+> Creemos que la comida es mucho más que lo que ponemos en el plato.
+>
+> Es una forma de nutrirnos, de cuidarnos y de conectar con nosotros
+> mismos.
+>
+> Está en la tierra de donde vienen los ingredientes, en las manos que los
+> trabajan y en el tiempo que dedicamos a prepararlos.
+>
+> Está en las recetas que heredamos, en los sabores que descubrimos y en
+> las estaciones que transforman nuestra despensa.
+>
+> También está en las personas con las que compartimos la mesa, en las
+> conversaciones que se alargan y en los pequeños momentos que merecen ser
+> disfrutados.
+>
+> Creemos que comer bien no significa renunciar al placer.
+>
+> Creemos en los buenos ingredientes, en las elaboraciones cuidadas y en la
+> curiosidad por conocer lo que comemos.
+>
+> Queremos recuperar una relación con la comida más presente, más libre y
+> más conectada con la tierra y con quienes nos rodean.
+>
+> Porque alimentarnos es parte de la vida. Y merece la pena vivirlo con
+> atención.
+>
+> **MOOD TABLE. El placer de comer bien. La conexión con lo que nos
+> alimenta.**
+
+---
+
+## 14 · Resumen ejecutivo
+
+| | |
+|---|---|
+| **Marca** | MOOD TABLE · Conectar con lo que nos alimenta. |
+| **Origen** | Barcelona, Cataluña |
+| **Territorio** | Cultura gastronómica cotidiana |
+| **Categoría** | Productos de obrador dulces y salados, recetas de temporada y propuestas gastronómicas creativas. |
+| **Propósito** | Dar más valor a los momentos de comer: nutrirnos, disfrutar, conectar y compartir. |
+| **Esencia** | Conectar con lo que nos alimenta. |
+| **Público** | Personas curiosas por la gastronomía, el origen y la experiencia de comer. |
+| **Personalidad** | Honesta, auténtica, alegre, cercana, curiosa y editorial. |
+| **Pilares** | Creatividad gastronómica; placer y disfrute; conexión y presencia; origen y temporalidad; honestidad y cuidado. |
+| **Diferenciación** | Reinterpretamos recetas reconocibles con creatividad: combinaciones originales de ingredientes, sabores y texturas, con una mirada gastronómica propia. |
+| **Estética** | Mediterránea, cálida, editorial y contemporánea. |
+| **Eslogan** | Conectar con lo que nos alimenta. |
+
+---
+
+## Reconciliación con lo confirmado antes de este documento
+
+No cierro ninguno de estos puntos por mi cuenta — los señalo para que
+Andrea decida:
+
+1. **Tagline: ¿ES o EN?** Horas antes de este documento, Andrea dio en chat
+   el tagline *"A little more connected to what we eat, where it comes
+   from and the moments we share around it"* como frase de marca de Mood
+   Table, y lo integré en el Propósito y en el Hero de `web-copy-v4.md`.
+   Este documento fija como **eslogan definitivo** la frase en español
+   *"Conectar con lo que nos alimenta"*, sin mencionar la frase en inglés.
+   ¿Sustituye una a la otra, o conviven (ES como eslogan, EN como línea de
+   apoyo/descripción)?
+2. **La tarta de queso de cabra con remolachas de invierno** — confirmada
+   por Andrea en el mensaje justo anterior a este documento para el
+   Rotacional de invierno, pero no aparece en "La mesa de temporada" (punto
+   10) de este documento, que en invierno solo lista calçots/romesco y
+   cítricos/almendra. ¿Sigue dentro, y el documento no llegó a
+   actualizarse, o se ha quedado fuera?
+3. **Los criterios de desarrollo cambiaron de 5 a 5, pero no son los
+   mismos:** el brief original tenía Proximity/Seasonality/Taste/
+   Identity/Production; este documento tiene Creatividad/Temporada y
+   origen/Sabor/Identidad/Producción — "Proximity" desaparece como
+   criterio propio y "Creatividad" aparece como nuevo. ¿Es el cambio
+   intencional (la proximidad queda implícita dentro de "temporada y
+   origen"), o se perdió sin querer?
+4. **"Los cuatro verbos" (punto 08) solo lista tres** (Descubrir, Apreciar,
+   Saborear). Falta el cuarto, o el título debería decir "tres" — no lo
+   invento yo.
+5. **B2B / "Organiza una experiencia Mood"** — el ecosistema de marca
+   (punto 12) confirma que los eventos en persona sobreviven como "Mood
+   Table Experiences", con "colaboraciones" como posible hueco para B2B,
+   pero no lo nombra explícitamente. ¿Se mantiene la propuesta B2B tal cual
+   existía en Mood Cookies, o queda fuera de esta versión?
+6. **Calçots y romesco:** este documento confirma mantener la tartaleta,
+   sin mencionar el precedente de La Cantonada (mismo ingrediente, formato
+   croissant) que señaló `fase-a-investigacion-mercado.md`. ¿Quieres que la
+   narrativa de esta pieza use explícitamente esa diferenciación (formato
+   obrador rústico vs. pastelería técnica), o no hace falta nombrarlo?
+
+## Próximo paso
+
+Con Fase B prácticamente cerrada por este documento, y pendiente solo de
+las 6 reconciliaciones de arriba:
+
+1. Resolver las 6 reconciliaciones (lo mínimo imprescindible antes de
+   avanzar en serio).
+2. Reescribir `web-copy` (v5) para alinear el copy de la web con esta
+   plataforma — cambia bastante respecto a v4: nuevo eslogan, nueva
+   arquitectura de ecosistema (Mood Kitchen/Journal/Experiences/Goods),
+   nueva voz ya con reglas explícitas de "sí diríamos/evitaríamos".
+3. Arrancar identidad visual de verdad — la sección 09 de este documento ya
+   da dirección de arte, paleta, tipografía y fotografía: `mood-table-
+   direccion-arte` parte de ahí, no de cero.

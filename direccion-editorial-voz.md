@@ -1,5 +1,13 @@
 # Dirección editorial — la voz de Mood Table
 
+> **Superseded (2026-11-16, noche):** la sección 07 de
+> `fase-b-plataforma-marca.md` ("Personalidad y tono de voz", del documento
+> oficial que mandó Andrea) es ahora la guía de voz vigente — tiene sus
+> propias listas de "sí diríamos" / "evitaríamos" y reglas de comunicación.
+> Este archivo se queda como historial de cómo se llegó hasta ahí (dos
+> rondas de corrección en chat); la "regla de separación marca/producto"
+> de más abajo sigue siendo válida y es coherente con el documento oficial.
+
 **v3 (2026-11-16, misma tarde, segunda corrección del día):** Andrea señaló
 que la web mezclaba dos niveles que no deben mezclarse — usaba ejemplos de
 producto/ingrediente concretos (el bizcocho de calabacín, etc.) dentro de
