@@ -15,6 +15,15 @@ sección nueva de Mood Moments. **Lo que NO cambia:** la regla de separación
 marca/producto (`direccion-editorial-voz.md` v3), que sigue aplicando y es
 coherente con la voz oficial (sección 07 de Fase B).
 
+**Actualización misma noche (segunda pasada):** Andrea pidió dos
+correcciones sobre esta misma v5 — (1) el Hero sonaba robótico, sin
+personalidad ni gancho comercial, corregido con `mood-table-estrategia-marca`
++ `mood-table-direccion-creativa`; (2) "El problema" seguía demasiado
+cerrado al ángulo de Mood Cookies — aplico StoryBrand de verdad, con el
+villano que ella misma nombró (comer por comer, sin pararse a apreciar
+origen/temporada/nutrición/el momento de compartir). Ver
+`story-brand-mood-table.md` para el mapa completo de los 7 elementos.
+
 ---
 
 ## Arquitectura del sitio — propuesta, a confirmar
@@ -52,31 +61,75 @@ Hero → El problema → Nuestra mirada creativa → Nuestros pilares → Catál
 inglés):
 > Conectar con lo que nos alimenta.
 
-**TÍTULO** *(tomado casi literal de "sí diríamos", sección 07 de Fase B)*
-> Hoy, algo de temporada para compartir.
+**TÍTULO Y SUBTÍTULO — reescritos (2026-11-16):** Andrea señaló que la
+versión anterior sonaba "robótica, con poca personalidad" — diagnóstico
+confirmado por `mood-table-estrategia-marca` + `mood-table-direccion-creativa`:
+el título era casi literal una frase de la lista "sí diríamos" (pensada
+como ejemplo de tono, no como titular), y el subtítulo enumeraba atributos
+de posicionamiento en vez de crear una imagen — cualquier marca de
+proximidad/temporada podría firmarlo igual.
 
-**SUBTÍTULO**
-> Productos de obrador dulces y salados, pensados para descubrir, apreciar
-> y compartir — sin dietas, sin complicaciones.
+> TÍTULO: Hoy sale algo del horno que no esperabas.
+>
+> SUBTÍTULO: Temporada, proximidad y una combinación que te hace mirar dos
+> veces. Para comer solo, o repartir en la mesa.
+
+*(Recomendada de 4 alternativas que generó la dirección creativa — las
+otras 3 quedan abajo, por si prefieres otro registro.)*
 
 **CTA:** Descubre lo de hoy
 
+<details>
+<summary>Otras 3 alternativas de Hero (sin aplicar)</summary>
+
+**Directa/con punch**
+> Esto no es un bizcocho cualquiera.
+> Obrador de Barcelona. Dulce y salado, de temporada, hecho para parar y
+> repartir.
+
+**Juguetona/con humor** — *nombra producto en el Hero, rompe a propósito
+la regla de separación marca/producto; solo si se decide conscientemente:*
+> Pan de calabacín con queso de oveja. Sí, has leído bien.
+> Partimos de lo de siempre y lo llevamos a un sitio que no esperabas.
+> Obrador, Barcelona.
+
+**Provocadora/con tensión** — *la de más filo estratégico, pero la más
+cerca de la línea roja de "evitaríamos" (cuidado con cualquier variante
+que suene a "sin culpa"):*
+> No hace falta elegir entre lo rico y lo bueno.
+> Aquí lo rico no pide perdón — solo temporada, proximidad y ganas de
+> compartirlo.
+
+</details>
+
 ---
 
-### El problema
+### El problema (reescrito 2026-11-16 — aplica StoryBrand, ver
+`story-brand-mood-table.md`)
 
-> ¿Cuándo empezamos a necesitar permiso para disfrutar de lo que comemos?
->
-> Cada vez hay más reglas sobre qué comer, cuánto y cuándo. Entre tanta
-> norma, algo tan simple como sentarte con un café y una pieza recién
-> horneada empieza a sentirse como una excepción — algo que hay que
-> justificar después.
->
-> Nosotros creemos lo contrario: que una pieza bien hecha, de temporada, no
-> necesita excusa. Comerla ya es suficiente.
+Andrea: "esto está muy cerrado a lo que era antes" — la versión anterior
+heredaba casi literal el ángulo de Mood Cookies (reglas, dietas, permiso
+para disfrutar). El villano real que nombró no es la dieta — es **comer
+por comer, sin pararse a apreciar**: ni el origen, ni la temporada, ni si
+de verdad nutre, ni el momento de parar o de compartirlo.
 
-*(Sin cambios respecto a v2/v3/v4 — ya pasaba el filtro de voz oficial: sin
-culpa, sin dieta, sin restricción.)*
+> La mayoría de las veces comemos sin mirar. De pie, deprisa, sin
+> preguntarnos de dónde viene lo que nos llevamos a la boca, si es su
+> temporada, si de verdad nos está nutriendo — o con quién lo estamos
+> compartiendo.
+>
+> No es que falte comida. Es que falta la pausa: pararse a apreciar el
+> origen, la estación, el momento. Comer se ha vuelto un trámite entre una
+> cosa y la siguiente.
+>
+> Mood Table existe para lo contrario: recuperar esa pausa. Que un
+> ingrediente de temporada, una pieza recién horneada o una mesa
+> compartida vuelvan a ser un momento que se nota, no uno que pasa sin
+> darse cuenta.
+
+*(Decisión de redacción propia a partir del villano que dio Andrea — no
+invento el villano, sí la frase concreta. Sustituye la versión anterior
+por completo, no es un ajuste de tono.)*
 
 ---
 

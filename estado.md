@@ -29,6 +29,15 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
   Mood Moments, y el test "¿qué momento necesitas hoy?" retirado (su
   premisa ya no existe). Propone fusionar Experiences+Moments en una sola
   sección de nav — a confirmar.
+- **Segunda pasada sobre v5, misma noche:** Andrea pidió corregir el Hero
+  (sonaba robótico, sin personalidad) — reescrito con
+  `mood-table-estrategia-marca` + `mood-table-direccion-creativa`
+  (fichas corregidas de paso, estaban ancladas a la voz "de oficio" ya
+  descartada). Y pidió aplicar de verdad el framework StoryBrand a "El
+  problema", con un villano nuevo y preciso (comer por comer, sin pararse
+  a apreciar origen/temporada/nutrición/el momento de compartir) — ver
+  `story-brand-mood-table.md`, nuevo, con el mapa completo de los 7
+  elementos para que futuras páginas partan de la misma estructura.
 - La identidad visual ya tiene dirección (sección 09 del documento: paleta
   avena/verde oliva/terracota/avellana/salvia/vino, DM Serif Display + DM
   Sans, dirección fotográfica, packaging) — Fase C ya no arranca de cero.
