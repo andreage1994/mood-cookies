@@ -293,6 +293,7 @@ y es rotativa por temporada, no por edición limitada puntual).
 |---|---|---|
 | *(de referencia, sin fecha dada)* | Aceitunas | Ejemplo citado por Andrea como punto de partida del formato — sin confirmar en qué estación vive. |
 | Otoño | Calabaza, queso y avellanas | Seasonality (calabaza, avellanas de otoño) · Identity (ingrediente de temporada muy conocido, en una tartaleta salada que no es la presentación esperada) |
+| **Invierno** | **Tarta de queso de cabra con remolachas de invierno** (confirmada 2026-11-16, antes referencia de estética — ver nota abajo) | Seasonality (remolacha de invierno) · Identity (queso de cabra + remolacha, cruce dulce/tierra poco visto en formato rústico) · Proximity (origen de queso de cabra sin precisar todavía) |
 | *(estación sin confirmar — probablemente invierno/principios de primavera, temporada real de calçots en Cataluña)* | Calçots y romesco | Proximity + Identity muy fuertes — el calçot con romesco es prácticamente un símbolo cultural catalán, no solo un ingrediente de temporada; encaja directo con "Km 0, but never provincial" del mantra borrador |
 
 **Nota sobre la foto de inspiración:** resuelta (2026-11-16) — Andrea envió 5
@@ -300,17 +301,12 @@ imágenes de referencia, guardadas en `referencias-visuales/`. No incluían la
 tartaleta de calabaza en concreto, pero sí fijan la estética rústica general
 (ver sección 0, "Categoría: obrador, no pastelería de autor").
 
-**Posible producto nuevo, sin confirmar — tarta de queso de cabra con
-remolachas de invierno:** una de las 5 referencias visuales de Andrea
-(`referencias-visuales/01-tarta-queso-cabra-remolacha-invierno.webp`) no
-corresponde a ningún producto ya confirmado del catálogo — Andrea la dio
-como ejemplo de estética ("son ejemplos pero para que entiendas mejor"), no
-necesariamente como receta a incluir. Encaja muy bien contra los 5 criterios
-si se confirmara: Seasonality (remolacha de invierno) · Identity (queso de
-cabra + remolacha es un cruce dulce/tierra poco visto en formato tarta
-rústica) · Proximity (a falta de origen concreto del queso de cabra). **No
-lo añado al catálogo sin que Andrea lo confirme** — lo dejo como candidato
-fuerte a Rotacional de invierno en la pregunta abierta nº9.
+**Confirmado (2026-11-16): tarta de queso de cabra con remolachas de
+invierno, en el catálogo Rotacional de invierno.** Lo que empezó como
+referencia de estética (`referencias-visuales/01-tarta-queso-cabra-
+remolacha-invierno.webp`) se suma como producto real — Andrea lo confirmó.
+Pendiente, no bloqueante: origen concreto del queso de cabra (proximidad),
+cuando lo tenga.
 
 **Corrección a la nota del punto 7 (y a su propia corrección anterior):** el
 hilo de identidad real no es "cruce dulce-salado", según aclaró Andrea — es
@@ -434,11 +430,10 @@ de la misma manera.)
    `fase-a-investigacion-mercado.md` que categorizaba a Mood Table junto a
    Benévola/La Cantonada (pastelería de autor, técnica, montajes). Mood
    Table es obrador: rústico, reconocible a simple vista, nunca técnica
-   escondida — ver sección 0. Dentro de esta misma corrección, **sigue
-   abierto**: si la tarta de queso de cabra con remolachas de invierno (una
-   de las 5 referencias visuales dadas) se suma al catálogo Rotacional como
-   producto real, o si era solo referencia de estética — ver nota en la
-   sección 7b.
+   escondida — ver sección 0. ~~Dentro de esta misma corrección, si la
+   tarta de queso de cabra con remolachas de invierno se suma al catálogo~~
+   — **resuelto (2026-11-16): sí**, entra en Rotacional de invierno (ver
+   sección 7b).
 10. ~~El nombre: ¿Mood Baker o Mood Table? ¿Se lee "Baker" como
     marca-persona o como categoría?~~ — **resuelto (2026-11-16): Mood
     Table, segundo pivote de nombre el mismo día.** Retira de raíz la

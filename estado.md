@@ -50,9 +50,15 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
       mecánica), valores de alimento (temporada/proximidad/whole foods, no
       plant-based/sin gluten), patrón de Identity (ingrediente conocido +
       sorpresa, no cruce dulce-salado), por qué existen Siempre y Rotacional,
-      mantra v2. **Sigue abierto:** Visión (3 direcciones propuestas, C
-      respaldada por la Fase A), confirmación final del mantra, si cookies
-      entra en "Siempre", test de la tienda, Experiencias Mood/B2B en persona.
+      mantra v2, categoría (obrador), nombre (Mood Table), tarta de queso de
+      cabra y remolacha confirmada en Rotacional de invierno. **Sigue
+      abierto:** Visión (3 direcciones propuestas, C respaldada por la Fase
+      A), confirmación final del mantra, si cookies entra en "Siempre", test
+      de la tienda, Experiencias Mood/B2B en persona.
+      **Pendiente de recibir (2026-11-16): Andrea va a mandar un documento
+      con todo mejor estructurado.** Cuando llegue, lo reconcilio contra este
+      documento y señalo cualquier conflicto en vez de sobrescribir en
+      silencio — no asumo que cierra los abiertos de arriba hasta verlo.
 - [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente de que
       Andrea confirme la Fase A (sobre todo: visita física pendiente, y si
       mantiene la tartaleta de calçots/romesco sabiendo del precedente de
