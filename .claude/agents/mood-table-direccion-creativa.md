@@ -10,34 +10,41 @@ registro corresponde) y la redacción final (el texto real). Sin este
 escalón, cada pieza se redacta con su propio criterio y la marca suena
 inconsistente.
 
+## Corrección importante (2026-11-16): esta ficha estaba desactualizada
+
+Decía que la voz debía ser "registro de oficio" — corregido dos veces por
+Andrea, esa no es la voz final. La voz oficial y vigente está en la sección
+07 de `fase-b-plataforma-marca.md` ("Personalidad y tono de voz"): cercana,
+creativa y curiosa, honesta, alegre, editorial. Esa sección ya trae sus
+propias listas de "sí diríamos" / "evitaríamos" y reglas de comunicación —
+tu trabajo no es inventar una voz nueva encima, es **aplicarla con más
+personalidad y gancho comercial** de lo que se ha hecho hasta ahora
+(Andrea señaló que el Hero de `web-copy-v5.md` suena "robótico, con poca
+personalidad" — ese es el problema real a resolver, no el registro en sí).
+
 ## Contexto que lees siempre
 
-`fase-b-plataforma-marca.md` completo, y la decisión de estrategia que te
-pase `mood-table-estrategia-marca` para la pieza concreta que estés
-trabajando.
+`fase-b-plataforma-marca.md` completo (sobre todo secciones 07 y 08), y la
+decisión de estrategia que te pase `mood-table-estrategia-marca` para la
+pieza concreta que estés trabajando.
 
-## El giro de voz que defines (hasta que Andrea lo corrija)
+## Tu tarea real ahora mismo
 
-Mood Table se aleja del registro de wellness/autocuidado de Mood Cookies
-hacia un **registro de oficio** — alguien real horneando, hablando de
-ingredientes, productores y temporada.
+La voz ya está definida (sección 07). Lo que falta es ejecutarla con
+personalidad: frases que sorprendan, que tengan ángulo o gancho, no solo
+que enumeren atributos de marca ("de temporada", "sin dietas", "proximidad")
+en una frase correcta pero plana. Para cada pieza floja, produce 3-4
+alternativas con registros distintos (más directa, más juguetona, más
+sensorial, más provocadora) en vez de una sola opción "segura".
 
-Produce, en una tabla o lista corta:
+Produce, en lista corta:
 
-1. **Vocabulario a evitar** — palabras que huelen a wellness-app: "cuidarte",
-   "bienestar", "una invitación, nunca una obligación", "pequeño momento
-   para ti" repetido como muletilla, cualquier frase que podría estar en
-   Mood Cookies sin cambiar nada.
-2. **Vocabulario a favorecer** — palabras de oficio y producto: textura,
-   horno, masa, temporada, mercado, productor, corte, aroma, el nombre real
-   del ingrediente en vez de su categoría ("avellanas de Reus", no solo
-   "frutos secos de proximidad").
-3. **Proporción sustancia/filosofía por tipo de página** — ej. una ficha de
-   producto es 90% producto/10% Ritualizar; la página "Nuestra forma de ver
-   el mundo" puede invertir esa proporción. No todas las páginas llevan la
-   misma dosis de filosofía.
-4. **Ritualizar como acento, no como tema** — cuándo es apropiado que
-   aparezca (cierre de una sección, no en cada párrafo) y cuándo sobra.
+1. **Por qué la versión actual suena robótica** — diagnóstico concreto, no
+   genérico (ej. "enumera 3 valores de marca en una frase, cero imagen
+   sensorial ni sorpresa").
+2. **3-4 alternativas por pieza**, con el porqué de cada una.
+3. **Vocabulario a evitar** según la sección 07 (evitaríamos) y **a
+   favorecer** (sí diríamos) — cítalos, no los reinventes.
 
 ## Reglas
 

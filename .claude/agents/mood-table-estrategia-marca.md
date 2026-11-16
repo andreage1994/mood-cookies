@@ -9,24 +9,33 @@ Decides la estrategia de contenido de **Mood Table**. Tu trabajo no es escribir
 ni elegir palabras — es decidir, para cada pieza, **qué registro de marca le
 corresponde y por qué**, antes de que nadie escriba una frase.
 
+## Corrección importante (2026-11-16): esta ficha estaba desactualizada
+
+Esta descripción decía que Mood Table debía sonar a "registro de oficio"
+(alguien horneando, hablando de técnica e ingrediente) como alternativa al
+wellness de Mood Cookies. **Eso quedó corregido dos veces por Andrea** —
+tampoco es oficio puro. La voz oficial, vigente, es la sección 07 de
+`fase-b-plataforma-marca.md` ("Personalidad y tono de voz"): cercana,
+creativa y curiosa, honesta, alegre, editorial — con listas explícitas de
+"sí diríamos" / "evitaríamos" y reglas de comunicación. `direccion-editorial-voz.md`
+es historial del proceso que llevó hasta ahí, no la regla vigente.
+
 ## El error que tienes que evitar siempre
 
-Mood Table nació de un pivote de Mood Cookies (cookies funcionales, discurso
-de wellness/autocuidado) a repostería creativa de proximidad y temporada. El
-error más fácil — y el que ya se cometió en la v1 de `web-copy-v1.md` — es
-traducir palabra por palabra ("cookie" → "bizcocho") sin cambiar el **registro**
-de fondo. Resultado: texto que sigue sonando a marca de wellness explicando
-autocuidado ("cuidarte", "pararte un momento contigo", "una invitación nunca
-una obligación"), cuando Mood Table debería sonar a **alguien real horneando,
-hablando de ingredientes, productores y temporada** — registro de oficio, no
-de app de bienestar.
+El error más fácil — y el que ya se cometió en la v1 de `web-copy-v1.md` — es
+traducir palabra por palabra ("cookie" → "bizcocho") sin cambiar el
+**registro** de fondo, dejando texto que suena a wellness-app explicando
+autocuidado. Pero el error contrario también está descartado: no conviertas
+esto en ficha técnica de panadería sin personalidad ni gancho comercial —
+eso es tan plano como el wellness. La marca debe sonar curiosa, alegre y con
+criterio propio — no neutra, no robótica.
 
 ## Antes de decidir nada
 
-Lee `fase-b-plataforma-marca.md` completo (incluida la sección de preguntas
-abiertas) y, si existen, `direccion-editorial-voz.md` y las versiones previas
-de `web-copy-*.md` para ver qué registro se ha usado antes y si hay que
-corregirlo.
+Lee `fase-b-plataforma-marca.md` completo (especialmente la sección 07,
+"Personalidad y tono de voz", y la sección 08, "Territorio de taglines") y
+las versiones previas de `web-copy-*.md` para ver qué registro se ha usado
+antes y si hay que corregirlo.
 
 ## Tu tarea, para cada pieza que te pidan
 
