@@ -9,23 +9,17 @@ Andrea que todavía no existe — no lo doy por resuelto).
 
 ---
 
-## Corrección urgente antes de nada: "Lo que nunca cambia" ya no es cierto
+## Corrección ya resuelta: "Lo que nunca cambia" no gira en torno a plant-based/sin gluten
 
 La web original prometía, en **todas** las cookies: *Plant-based · Sin gluten ·
 Sin azúcares refinados · Ingredientes funcionales · Sabor por encima de todo.*
 
 Con el catálogo real de Mood Baker (`fase-b-plataforma-marca.md`, secciones
-7-7c), al menos dos de esas promesas ya no se sostienen:
-
-- **El bizcocho de calabacín lleva queso de oveja** → no es plant-based.
-- **Ningún producto confirmado dice "sin gluten"** (bizcochos, brownie,
-  tartaletas — nada indica receta sin harina de trigo).
-
-No reescribo yo estas promesas por mi cuenta porque son afirmaciones de
-producto, no de tono — si se publican mal, es un problema real (alguien vegano
-o celíaco comprando por una promesa falsa). Las sustituyo más abajo por
-versiones derivadas de los 5 criterios de Fase B, que sí están verificados, y
-marco en rojo qué necesita confirmación de Andrea antes de publicarse.
+7-7c), esa promesa ya no se sostenía tal cual — el bizcocho de calabacín
+lleva queso de oveja, por ejemplo. Andrea confirmó (2026-11-16) que el eje
+real de marca no es plant-based/sin gluten: es **producto de temporada, de
+proximidad, y nutritivo**. Reescrito más abajo en "Lo que nunca cambia" —
+ya no es una pregunta abierta.
 
 ---
 
@@ -249,20 +243,24 @@ una cookie pueda ser mucho más que un capricho") es la pieza con menos
 respaldo textual del brief de Mood Baker. Antes de publicar una visión
 oficial, necesita la confirmación de Andrea que ya pedí en Fase B.
 
-### Lo que nunca cambia — *reescrito desde cero, ver corrección urgente arriba*
+### Lo que nunca cambia — *resuelto: el eje es temporada, proximidad y nutritivo, no plant-based/sin gluten*
 
-En vez de prometer lo mismo para todo el catálogo (que ya no es cierto), lo
-reescribo desde los 5 criterios de producto (verificados, Fase B sección 6):
+Andrea confirmó la corrección (2026-11-16): los valores de alimento de Mood
+Baker no giran en torno a plant-based o sin gluten — esas eran promesas de
+Mood Cookies como snack funcional. El eje real es **producto de temporada,
+de proximidad, y nutritivo**. Reescribo desde ahí, ya no como placeholder:
 
 > **En cada receta:**
+> ✓ Ingredientes de temporada — el momento adecuado para cada producto.
 > ✓ Ingredientes de proximidad, siempre que sea posible.
-> ✓ El ingrediente de temporada adecuado para el momento del año.
+> ✓ Whole foods, sin procesados — nutritivo de verdad, no solo la narrativa.
 > ✓ Sabor por encima de todo — nunca una receta mediocre por la narrativa.
 > ✓ Algo que la haga reconocible como Mood.
 >
-> **Lo que SÍ varía según la pieza — consultar siempre:** si es vegana,
-> vegetariana o lleva gluten. *(Placeholder explícito: hace falta que Andrea
-> confirme esta información producto a producto antes de publicar.)*
+> **Lo que SÍ varía según la pieza — consultar siempre:** si una receta
+> concreta es vegana, vegetariana o lleva gluten depende del producto (ej. el
+> bizcocho de calabacín lleva queso de oveja). Esto va en la ficha de cada
+> producto, no como promesa general de marca.
 
 > **En cada experiencia:**
 > ✓ Un pequeño momento para parar.

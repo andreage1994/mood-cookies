@@ -225,7 +225,11 @@ textual de Andrea):
 1. **Comer como ritual, no como trámite.**
 2. **Presencia sobre tiempo** — el recurso escaso no es el tiempo, es la
    atención.
-3. **Temporada como forma de cuidado**, no solo como criterio de sourcing.
+3. **Temporada, proximidad y whole foods como eje nutricional** — no
+   plant-based ni sin gluten (eso era Mood Cookies como snack funcional).
+   Confirmado por Andrea (2026-11-16): el valor de alimento de Mood Baker es
+   producto de temporada, de proximidad, whole foods y sin procesados —
+   nutritivo de verdad, no una etiqueta de dieta.
 4. **Sabor sin concesiones** — nunca sacrificar sabor por la narrativa de
    "de proximidad" o "de temporada".
 5. **Identidad reconocible en cada receta** — no repostería genérica con
