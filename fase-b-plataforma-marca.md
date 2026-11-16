@@ -38,6 +38,32 @@ no está en este repositorio (se perdió en una reestructuración del repo
 ajena a este proyecto; no hace falta migrarlo, el pivote de categoría lo
 habría dejado obsoleto de todas formas).
 
+### Categoría: obrador, no pastelería de autor (resuelto 2026-11-16)
+
+Andrea corrigió una lectura equivocada que se había colado en
+`fase-a-investigacion-mercado.md` (categorizaba a Mood Baker como
+"pastelería de autor de temporada", en el mismo territorio que Benévola o
+La Cantonada). **No es así:** Mood Baker es un **obrador**, no una
+pastelería. La diferencia es de categoría real, no de matiz de palabra:
+
+- Benévola, La Cantonada y Maru Botana trabajan con técnica de pastelería de
+  autor — montajes, cremas, piezas que "se exhiben como museo" y que no
+  siempre se reconocen a simple vista.
+- Mood Baker es **rústico y reconocible de un vistazo**: bizcocho, brownie,
+  cookie, tartaleta. Nunca una pieza que necesite explicación para entender
+  qué es, ni técnica escondida bajo el producto.
+
+Andrea dio 5 imágenes de referencia (guardadas en `referencias-visuales/`)
+para fijar esta dirección, y de paso precisó el origen de varios
+ingredientes más allá de "de proximidad" en genérico: **avellanas de Reus**,
+**nueces de Tarragona** — ver corrección de producto en la sección 7.
+
+**Por qué esto refuerza la Visión C y no la contradice** (ver sección 3):
+la "sorpresa reconocible" de Mood Baker vive en la combinación de sabor, no
+en la sofisticación visual — es coherente con ser obrador, no pastelería. Es
+una pieza más de por qué C es la dirección mejor respaldada: nadie
+investigado combina rusticidad + sorpresa de sabor de esta forma.
+
 ### Validación del nombre "Mood Baker" (2026-11-16)
 
 Búsqueda de conflicto: sin coincidencias de una marca "Mood Baker" en
@@ -199,6 +225,14 @@ Estos 5 criterios son la herramienta de validación para cualquier receta
 nueva — el equivalente, para Mood Baker, de la definición concreta de "¿qué
 es saludable?" que The Lokal usa para briefar packaging y carta.
 
+**Confirmado (2026-11-16): también son contenido público de marca, no solo
+herramienta interna.** Andrea los agrupó junto a Propósito/Ritualizar/
+Valores como parte de lo que la web debe comunicar bajo "construcción de
+marca" — ver sección nueva "Principios" en `web-copy-v4.md`. Importante:
+en la web se presentan como principio (las 5 preguntas, sin ejemplo), nunca
+con un producto concreto enganchado — el producto va solo en el Catálogo
+(ver `direccion-editorial-voz.md` v3, "Regla de separación marca/producto").
+
 ## 7. Bloques de producto — línea "Siempre" (nuevo, 2026-11-16)
 
 Primeros 3 productos confirmados por Andrea, categoría **"Siempre"**
@@ -210,9 +244,9 @@ rotación — no es solo "lo que no es Siempre", tiene su propia función.
 
 | Producto | Ingredientes | Lectura contra los 5 criterios |
 |---|---|---|
-| **Brownie de AOVE** | AOVE, nueces de proximidad, cacao 85% de tostador local | Proximity (nueces + tostador locales) · Taste (cacao 85%, sin concesión a "ligero") · Identity (AOVE en vez de mantequilla, ya es una firma) |
+| **Brownie de AOVE** | AOVE, **nueces de Tarragona** (precisado 2026-11-16, antes "de proximidad" en genérico), cacao 85% de tostador local | Proximity (nueces de Tarragona + tostador local, origen nombrado, no genérico) · Taste (cacao 85%, sin concesión a "ligero") · Identity (AOVE en vez de mantequilla, ya es una firma) |
 | **Bizcocho de calabacín, queso de oveja, aceitunas y AOVE** | Calabacín, queso de oveja, aceitunas, AOVE | Seasonality (calabacín) · Identity fuerte — un bizcocho salado-dulce es lo más "reconocible como Mood" de los tres, rompe la expectativa de bizcocho clásico · Proximity (queso de oveja, aceitunas como producto de proximidad típico) |
-| **Bizcocho de pera, romero, avellanas y chocolate** | Pera, romero, avellanas, chocolate | Seasonality (pera, fruta de otoño/invierno) · Taste (combinación romero+chocolate, poco obvia) · Identity (el romero en un bizcocho dulce es la misma lógica de firma que el calabacín) |
+| **Bizcocho de pera, romero, avellanas y chocolate** | Pera, romero, **avellanas de Reus** (precisado 2026-11-16), chocolate | Seasonality (pera, fruta de otoño/invierno) · Taste (combinación romero+chocolate, poco obvia) · Identity (el romero en un bizcocho dulce es la misma lógica de firma que el calabacín) · Proximity (avellana de Reus, origen nombrado — DOP real, no solo "de proximidad") |
 
 **Resuelto (2026-11-16) — qué es realmente el patrón, aclarado por Andrea:**
 no es un cruce deliberado de dulce-con-salado como firma de identidad. Son
@@ -240,10 +274,22 @@ y es rotativa por temporada, no por edición limitada puntual).
 | Otoño | Calabaza, queso y avellanas | Seasonality (calabaza, avellanas de otoño) · Identity (ingrediente de temporada muy conocido, en una tartaleta salada que no es la presentación esperada) |
 | *(estación sin confirmar — probablemente invierno/principios de primavera, temporada real de calçots en Cataluña)* | Calçots y romesco | Proximity + Identity muy fuertes — el calçot con romesco es prácticamente un símbolo cultural catalán, no solo un ingrediente de temporada; encaja directo con "Km 0, but never provincial" del mantra borrador |
 
-**Nota sobre la foto de inspiración:** Andrea mencionó adjuntar una foto de
-referencia para la tartaleta de calabaza — no llegó ningún archivo de imagen
-en el mensaje, solo texto. Pendiente de reenvío si hace falta para
-`mood-baker-direccion-arte`.
+**Nota sobre la foto de inspiración:** resuelta (2026-11-16) — Andrea envió 5
+imágenes de referencia, guardadas en `referencias-visuales/`. No incluían la
+tartaleta de calabaza en concreto, pero sí fijan la estética rústica general
+(ver sección 0, "Categoría: obrador, no pastelería de autor").
+
+**Posible producto nuevo, sin confirmar — tarta de queso de cabra con
+remolachas de invierno:** una de las 5 referencias visuales de Andrea
+(`referencias-visuales/01-tarta-queso-cabra-remolacha-invierno.webp`) no
+corresponde a ningún producto ya confirmado del catálogo — Andrea la dio
+como ejemplo de estética ("son ejemplos pero para que entiendas mejor"), no
+necesariamente como receta a incluir. Encaja muy bien contra los 5 criterios
+si se confirmara: Seasonality (remolacha de invierno) · Identity (queso de
+cabra + remolacha es un cruce dulce/tierra poco visto en formato tarta
+rústica) · Proximity (a falta de origen concreto del queso de cabra). **No
+lo añado al catálogo sin que Andrea lo confirme** — lo dejo como candidato
+fuerte a Rotacional de invierno en la pregunta abierta nº9.
 
 **Corrección a la nota del punto 7 (y a su propia corrección anterior):** el
 hilo de identidad real no es "cruce dulce-salado", según aclaró Andrea — es
@@ -259,7 +305,7 @@ puntual. Dos sabores propuestos, de momento solo ideas:
 
 | Cookie | Ingredientes | Lectura contra los 5 criterios |
 |---|---|---|
-| Chocolate, avellana y sal | Chocolate, avellana, sal | Taste fuerte (combinación clásica bien ejecutada) · Identity más discreta que el resto del catálogo — es la receta menos "inesperada" de todas las propuestas hasta ahora, vale la pena vigilar que no se sienta genérica al lado del resto |
+| Chocolate, avellana y sal | Chocolate local, **avellana de Reus** (precisado 2026-11-16), sal | Taste fuerte (combinación clásica bien ejecutada) · Identity más discreta que el resto del catálogo — es la receta menos "inesperada" de todas las propuestas hasta ahora, vale la pena vigilar que no se sienta genérica al lado del resto · Proximity (avellana de Reus, origen nombrado) |
 | AOVE y almendras | AOVE, almendras | Identity — refuerza un patrón que ya aparece en el Brownie de AOVE y el bizcocho de calabacín: **el AOVE como grasa en vez de mantequilla empieza a leerse como firma de marca transversal**, no solo de una receta. Proximity (almendra mediterránea) |
 
 **Por qué esto no es casualidad de marca:** Mood nació como Mood Cookies —
@@ -362,3 +408,13 @@ de la misma manera.)
    brief original, no una ficha técnica de panadería. Pendiente aplicar esta
    v2 a fondo en todo `web-copy-v2.md` (hecho solo parcialmente hasta
    ahora).
+9. ~~La categoría: ¿pastelería de autor u obrador?~~ — **resuelto
+   (2026-11-16): obrador.** Andrea corrigió la lectura de
+   `fase-a-investigacion-mercado.md` que categorizaba a Mood Baker junto a
+   Benévola/La Cantonada (pastelería de autor, técnica, montajes). Mood
+   Baker es obrador: rústico, reconocible a simple vista, nunca técnica
+   escondida — ver sección 0. Dentro de esta misma corrección, **sigue
+   abierto**: si la tarta de queso de cabra con remolachas de invierno (una
+   de las 5 referencias visuales dadas) se suma al catálogo Rotacional como
+   producto real, o si era solo referencia de estética — ver nota en la
+   sección 7b.

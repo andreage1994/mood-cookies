@@ -1,5 +1,16 @@
 # Dirección editorial — la voz de Mood Baker
 
+**v3 (2026-11-16, misma tarde, segunda corrección del día):** Andrea señaló
+que la web mezclaba dos niveles que no deben mezclarse — usaba ejemplos de
+producto/ingrediente concretos (el bizcocho de calabacín, etc.) dentro de
+secciones de construcción de marca (Propósito, Valores, Por qué existimos).
+**Eso no construye marca, es contenido de la ficha de producto.** La v2 de
+este documento (más abajo) incluso lo pedía explícitamente como regla
+("el producto aparece como ejemplo concreto de la idea" en Hero/Problema/Por
+qué Mood Baker/Nuestra forma de ver el mundo) — esa instrucción queda
+**corregida**, ver la nueva regla al final de "Proporción sustancia/
+reflexión". Ver aplicación en `web-copy-v4.md`.
+
 **v2 (2026-11-16, misma tarde):** la v1 de este documento proponía un giro a
 "voz de oficio" (panadera hablando de técnica e ingrediente). Andrea lo
 corrigió: tampoco es eso. Dejo la v1 tachada más abajo para que quede el
@@ -51,11 +62,31 @@ no es "demasiada filosofía", es "filosofía de wellness-mecánico" o
 en proporción distinta:
 - **Ficha de producto/catálogo:** mayoría producto, con una frase de cierre
   que lo conecte a recibir/compartir/cuidar — nunca ficha técnica sola.
-- **Hero, "El problema", "Por qué Mood Baker", "Nuestra forma de ver el
-  mundo":** aquí la reflexión lleva el peso, el producto aparece como
-  ejemplo concreto de la idea, no al revés.
 - **Journal, FAQ, Contacto:** mayoría información práctica, con la voz
   (tono cercano, nunca clínico) incluso en lo operativo.
+
+### Regla de separación marca/producto (nueva, v3, 2026-11-16)
+**Corrige la regla anterior de este mismo documento** ("el producto aparece
+como ejemplo concreto de la idea" en Hero/Problema/Por qué Mood Baker/
+Nuestra forma de ver el mundo). Andrea aclaró que eso mezcla dos trabajos
+distintos: construir marca y describir producto.
+
+- **Secciones de construcción de marca** — Hero, "El problema", "Por qué
+  Mood Baker", "Nuestra forma de ver el mundo" (Propósito, Misión, Visión,
+  Valores, Pilares, Principios/Criterios) — **se quedan en el lenguaje del
+  brief**: recibir, agradecer, compartir, cuidar, conectar, nutrirse,
+  cuidarse, Ritualizar, "hacer de lo ordinario algo significativo", los 5
+  criterios como principios nombrados (Proximity/Seasonality/Taste/
+  Identity/Production). **Nunca nombran un ingrediente, receta o producto
+  concreto** — ni como ejemplo "para anclar la idea". Eso es trabajo
+  exclusivo del Catálogo.
+- **Catálogo/fichas de producto** — aquí sí, y solo aquí, se nombra
+  ingrediente, receta, origen concreto (Reus, Tarragona, etc.), con una
+  frase de cierre que conecte con recibir/compartir/cuidar.
+- Por qué importa: si la marca necesita un ejemplo de producto para
+  explicarse, la idea de marca no está suficientemente clara por sí sola —
+  y además hace que la narrativa de marca envejezca cada vez que cambia el
+  catálogo (temporada, rotación).
 
 ## Ejemplo aplicado — misma idea, los tres registros
 
@@ -69,11 +100,20 @@ en proporción distinta:
 > oveja, aceitunas y AOVE en un bizcocho que no se parece a ningún bizcocho
 > que hayas probado.
 
-**La voz real (recibir/compartir/cuidar, con producto integrado):**
-> El calabacín de esta semana viene de temporada. Lo cruzamos con queso de
+**La voz real, v2 (recibir/compartir/cuidar, con producto integrado) — esta
+versión queda corregida por la regla de separación marca/producto de
+arriba, aunque el registro de voz en sí seguía siendo el correcto:**
+> ~~El calabacín de esta semana viene de temporada. Lo cruzamos con queso de
 > oveja, aceitunas y AOVE en un bizcocho que no se parece a ningún otro que
 > hayas probado — para comerlo despacio, solo o repartido en la mesa, como
-> se comparte algo que de verdad apetece.
+> se comparte algo que de verdad apetece.~~
+
+**La voz real, v3 (mismo registro, sin bajar a producto — el ejemplo
+concreto vive solo en el Catálogo):**
+> Horneamos con lo que da la temporada, no porque esté de moda, sino porque
+> así se nutre de verdad: el cuerpo, la mesa, el rato que te regalas o que
+> compartes. Eso es, para nosotros, hacer de lo ordinario algo
+> significativo.
 
 ---
 

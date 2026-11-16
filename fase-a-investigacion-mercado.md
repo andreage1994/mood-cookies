@@ -13,6 +13,37 @@ negocios citados — las limitaciones se señalan explícitamente donde aplican.
 
 ---
 
+## Corrección de categoría (2026-11-16, por Andrea — lectura leída y respondida el mismo día)
+
+**Esta Fase A categorizaba a Mood Baker como "pastelería de autor de
+temporada" (cruzándola con Benévola y Maru Botana). Andrea corrigió: no se
+visualiza como pastelería, sino como obrador.** La diferencia no es de
+palabra, es de categoría real: Benévola ("sus dulces se exhiben como museo"),
+La Cantonada y Maru Botana trabajan con técnica de pastelería de autor —
+montajes, cremas, producto que no se reconoce a simple vista. Mood Baker es
+**rústico y reconocible de un vistazo**: bizcocho, brownie, cookie,
+tartaleta — nunca una pieza que necesite explicación para entender qué es.
+Andrea dio 5 referencias visuales para fijar esto (ver
+`referencias-visuales/`), con trazabilidad de producto más concreta que la
+dada hasta ahora: avellanas **de Reus**, nueces **de Tarragona** — no solo
+"de proximidad" en genérico.
+
+**Esto no invalida la investigación, la precisa.** Todo lo investigado sobre
+Benévola/La Cantonada/Maru Botana sigue siendo cierto — lo que cambia es la
+conclusión: en vez de situar a Mood Baker *en el cruce con* ellas (como
+decía la versión original de este resumen y del punto 9), Mood Baker se
+diferencia *de* ellas por categoría, no solo por discurso. Esto hace el
+posicionamiento más fuerte, no más débil — hay menos solape real del que
+parecía. Ver corrección en el punto 9 y en la tabla del punto 6.
+
+**Consecuencia sobre el riesgo de La Cantonada (calçots/romesco):** el
+riesgo de ingrediente/gesto sigue existiendo (ver más abajo), pero el riesgo
+de que Mood Baker "se lea igual" a La Cantonada baja — una tartaleta rústica
+de obrador no compite visualmente con un croissant de pastelería técnica,
+aunque comparta ingrediente.
+
+---
+
 ## Resumen para el GATE (una pantalla)
 
 - **El mercado de "repostería/panadería de proximidad y temporada" en
@@ -32,12 +63,14 @@ negocios citados — las limitaciones se señalan explícitamente donde aplican.
   acto de comer como cuidado/ritual (Ritualizar); (c) un origen de marca en
   wellness/moods (Mood Cookies) que ninguna bakery de la zona tiene. Esto es
   lo genuinamente distinto — ver punto 8.
-- **Oportunidad estratégica recomendada:** situar a Mood Baker en el cruce de
-  "producto de autor de temporada" (como Benévola o Maru Botana) con
-  "proximidad real y whole foods sin discurso de restricción" (como Origo o
-  Delicati), pero añadiendo lo que ninguna de ellas tiene — el discurso de
-  Ritualizar y la firma "ingrediente conocido + sorpresa" aplicada también a
-  salado. Ver punto 9.
+- **Oportunidad estratégica recomendada (corregida 2026-11-16):** Mood Baker
+  no compite en territorio de pastelería de autor (Benévola, Maru Botana) ni
+  lo necesita — es **obrador rústico**, no pastelería. Comparte con Origo y
+  Delicati el eje de proximidad/temporada/whole foods, y le añade lo que
+  ninguna bakery investigada tiene: la firma "ingrediente conocido +
+  combinación o presentación no vista", igual en dulce que en salado, con
+  formato siempre reconocible a simple vista (nunca montado ni con técnica
+  escondida), y el discurso de Ritualizar. Ver punto 9.
 
 ---
 
@@ -219,8 +252,8 @@ cifras donde no las hay.
 
 | Negocio | Qué hace | Relación con Mood Baker | Fuente |
 |---|---|---|---|
-| **La Cantonada** (Forn & Pastisseria, Dos de Maig 314, Sant Martí) | +30 tipos de croissant, varios de temporada y reinterpretados (calçots y romesco, guacamole, mango, Magnum); obrador a la vista | **La más directa de todas** en el gesto "ingrediente conocido + formato inesperado" aplicado a producto catalán de temporada — mismo mecanismo que Andrea propuso para la tartaleta de calçots | [Time Out](https://www.timeout.es/barcelona/es/noticias/el-croissant-de-calcots-y-romesco-existe-y-lo-hace-una-pasteleria-de-barcelona-021424) |
-| **Benévola** (Sant Martí) | Pastelería vegana de autor, carta de 6 piezas que rota cada 3 meses por temporada, discurso de "comida real" sin disfraces | Comparte temporada + autoría + rechazo a discurso de dieta; se diferencia de Mood Baker en ser 100% vegana/dulce, sin línea salada | [Directo al Paladar](https://www.directoalpaladar.com/recetas-vegetarianas/esta-pasteleria-autor-barcelona-dulces-se-exhiben-como-museo-solo-hacen-seis-pasteles-estacion) |
+| **La Cantonada** (Forn & Pastisseria, Dos de Maig 314, Sant Martí) | +30 tipos de croissant, varios de temporada y reinterpretados (calçots y romesco, guacamole, mango, Magnum); obrador a la vista | Comparte el mecanismo "ingrediente conocido + formato inesperado" sobre producto catalán de temporada — mismo ingrediente que la tartaleta propuesta. **Pero es pastelería técnica (croissant de hojaldre trabajado), no obrador rústico** — Mood Baker se diferencia en categoría, no solo en formato | [Time Out](https://www.timeout.es/barcelona/es/noticias/el-croissant-de-calcots-y-romesco-existe-y-lo-hace-una-pasteleria-de-barcelona-021424) |
+| **Benévola** (Sant Martí) | Pastelería vegana de autor ("sus dulces se exhiben como museo"), carta de 6 piezas que rota cada 3 meses por temporada, discurso de "comida real" sin disfraces | Comparte temporada + rechazo a discurso de dieta. **Se diferencia en categoría, no solo en dieta: es pastelería de autor con montaje visual elaborado — Mood Baker es obrador, rústico y reconocible a simple vista, sin línea salada en su caso** | [Directo al Paladar](https://www.directoalpaladar.com/recetas-vegetarianas/esta-pasteleria-autor-barcelona-dulces-se-exhiben-como-museo-solo-hacen-seis-pasteles-estacion) |
 | **Delicati** (Travessera de Gràcia 138) | Pastelería artesanal que declara priorizar ingredientes de proximidad y temporada | Comparte el eje proximidad+temporada casi palabra por palabra con Mood Baker; no hemos encontrado si trabaja salado ni si tiene discurso de identidad más allá de la materia prima | [Proveedores.com — ficha Delicati](https://proveedores.com/proveedores/delicati/) (autodescripción del negocio, sin fuente independiente que la confirme) |
 | **Origo** (Gràcia, Sant Antoni, Passeig de Sant Joan) | Panadería de masa madre, harinas molidas a la piedra, fermentación larga, discurso de "vuelta a lo esencial" | Comparte proximidad/temporada en el sourcing, pero es panadería de pan (no repostería dulce/salada de autor) y sin discurso de ritual/cuidado | [Time Out](https://www.timeout.es/barcelona/es/tiendas/origo-bakery) · [Thisispaper](https://thisispaper.com/mag/origo-isern-serra-barcelona) |
 | **Oz Bakery** (Gràcia, también Eixample) | Panadería artesanal de masa madre sin levadura comercial, pan ecológico, toques de cocina israelí (challah), talleres | Comparte artesanía y origen de fundadora como relato de marca; la "sorpresa" de Oz viene de la cultura de origen (israelí), no de la lógica "ingrediente conocido + combinación no vista" de Mood Baker | [Directo al Paladar](https://www.directoalpaladar.com/viajes/ronit-stern-israeli-que-revoluciono-barcelona-masa-madre-no-habia-buen-pan-hace-20-anos-me-decidi-a-hacerlo) · [Time Out](https://www.timeout.es/barcelona/es/tiendas/oz-natural-bakery) |
@@ -292,22 +325,27 @@ mecanismo, con un discurso de cuidado detrás.
 
 ## 9. Oportunidad estratégica y dirección estratégica
 
-**Oportunidad estratégica:** posicionar a Mood Baker en el cruce de
-"pastelería de autor de temporada" (territorio ya validado por Benévola y
-Maru Botana) con "proximidad real sin discurso de dieta" (territorio ya
-validado por Origo, Delicati y, en restaurante, Vereda), añadiendo las dos
-piezas que el mercado no tiene cubiertas: la firma dulce+salado con el mismo
-mecanismo de identidad, y el discurso de Ritualizar como narrativa de marca
-(no solo de producto).
+**Oportunidad estratégica (corregida 2026-11-16):** Mood Baker no se
+posiciona en el territorio de "pastelería de autor de temporada" — ese es
+el territorio de Benévola y Maru Botana, y Andrea confirmó que no es la
+categoría que visualiza para la marca. Mood Baker es **obrador**: comparte
+con Origo y Delicati "proximidad real sin discurso de dieta", y le añade las
+dos piezas que el mercado no tiene cubiertas: la firma dulce+salado con el
+mismo mecanismo de identidad (ingrediente conocido + combinación/
+presentación no vista), y el discurso de Ritualizar como narrativa de marca
+(no solo de producto) — todo en formato rústico y reconocible a simple
+vista, nunca con técnica de pastelería (cremas, montajes, mousses).
 
-**Dirección estratégica recomendada:** no competir por "quién es más sano"
-ni por "quién es más artesanal" — ambos territorios están ocupados y bien
-defendidos (Benévola en autoría/temporada, Origo/Delicati en proximidad,
-Oz/Origo en artesanía). Competir por ser **la única marca de Barcelona que
-convierte un ingrediente de toda la vida en una sorpresa reconocible, en
-dulce y en salado a la vez, con un discurso explícito de que comer así es
-una forma de cuidado** — ese territorio, con la evidencia reunida, sigue sin
-dueño.
+**Dirección estratégica recomendada:** no competir por "quién es más sano",
+"quién es más artesanal" ni "quién tiene más técnica de pastelería" — los
+tres territorios están ocupados y bien defendidos (Benévola/Maru Botana en
+autoría-técnica, Origo/Delicati en proximidad, Oz/Origo en artesanía de pan).
+Competir por ser **la única marca de Barcelona que convierte un ingrediente
+de toda la vida en una sorpresa reconocible, en dulce y en salado a la vez,
+en formato de obrador (no de pastelería), con un discurso explícito de que
+comer así es una forma de cuidado** — ese territorio, con la evidencia
+reunida, sigue sin dueño, y la corrección de categoría lo hace todavía más
+defendible: ni siquiera comparte vitrina con Benévola o La Cantonada.
 
 **Relación directa con la Visión en discusión (`fase-b-plataforma-marca.md`,
 punto 3):** esta investigación no empuja con fuerza hacia la dirección B

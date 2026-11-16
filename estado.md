@@ -19,6 +19,14 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
   Cookies), tampoco es oficio/técnica puro — es la reflexión de
   recibir/agradecer/compartir/cuidar/conectar del brief original. Ver
   `direccion-editorial-voz.md` v2 y `web-copy-v3.md`.
+- Categoría corregida (2026-11-16): Mood Baker es **obrador**, no
+  "pastelería de autor" — la Fase A original lo categorizaba junto a
+  Benévola/La Cantonada (técnica, montajes, cremas). Andrea lo corrigió:
+  rústico, reconocible a simple vista, con 5 referencias visuales guardadas
+  en `referencias-visuales/`. De paso, precisó origen de producto: avellanas
+  **de Reus**, nueces **de Tarragona** (antes "de proximidad" en genérico).
+  Ver `fase-a-investigacion-mercado.md` (corrección al inicio) y
+  `fase-b-plataforma-marca.md` sección 0 y 7.
 - Este repositorio es nuevo (creado 2026-11-16) y está separado del repo de
   TBNB (`Agentes`) porque Mood Baker no es un cliente de la consultoría.
 
@@ -49,7 +57,11 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
 - [ ] **GATE 2 · ¿Es esta la plataforma de marca que Andrea quiere?** — pendiente.
 - [~] **Fase C · Diseño del ecosistema** — arrancada parcialmente en el pilar
       web: `web-copy-v1.md` → `v2` (giro de voz-de-oficio, insuficiente) →
-      `v3` (voz corregida, recibir/compartir/cuidar). Identidad visual
+      `v3` (voz corregida, recibir/compartir/cuidar) → `v4` (2026-11-16:
+      separa marca de producto — las secciones de marca ("Por qué Mood
+      Baker", pilar "Ingredientes con origen") ya no nombran ingrediente
+      concreto; eso es solo del Catálogo. Añade sección pública nueva
+      "Principios" con los 5 criterios de receta). Identidad visual
       (dirección de arte → sistema de identidad → diseño aplicado) no
       arrancada todavía.
 
