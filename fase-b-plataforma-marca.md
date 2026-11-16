@@ -137,11 +137,18 @@ descubrir nuevas formas de disfrutarlo.
 
 ### Propósito
 
+> **Conectar con lo que nos alimenta.**
+>
 > Hacer que los momentos cotidianos alrededor de la comida tengan más
 > valor: invitar a las personas a conectar con lo que las alimenta,
 > apreciando lo que tienen delante, escuchando lo que necesitan,
 > disfrutando de los sabores, compartiendo con los demás y reconociendo el
 > vínculo con la tierra.
+
+*(Resuelto 2026-11-16: el español sustituye al inglés como eslogan — "A
+little more connected to what we eat, where it comes from and the moments
+we share around it" queda retirado, no convive con "Conectar con lo que nos
+alimenta".)*
 
 ### Visión
 
@@ -352,7 +359,7 @@ alternativos a elegir):
 > nos alimenta» y «Comer, disfrutar, compartir». Cada una expresa una
 > dimensión diferente de la marca.
 
-### Los verbos que expresan la experiencia Mood Table
+### Los cuatro verbos que expresan la experiencia Mood Table
 
 - **Descubrir:** despertar curiosidad por ingredientes, sabores,
   combinaciones y recetas.
@@ -360,9 +367,20 @@ alternativos a elegir):
   elaboración y sus ingredientes.
 - **Saborear:** poner el sabor y el disfrute en el centro de cada
   propuesta.
+- **Compartir** *(propuesto 2026-11-16, a petición de Andrea — "propón
+  estratégicamente un cuarto verbo"):* llevar lo descubierto, apreciado y
+  saboreado a la mesa con los demás.
 
-*(El documento original titula este bloque "Los cuatro verbos" pero solo
-lista tres — ver "Reconciliación", no completo yo el cuarto por mi cuenta.)*
+*(Por qué este y no otro: los tres verbos originales cubren la relación
+individual con la comida — curiosidad, reconocimiento, disfrute — pero
+ninguno cubre la dimensión social que el resto del documento sostiene con
+fuerza: "con los demás" es una de las 4 dimensiones de conectar (punto 01),
+el manifiesto cierra en la mesa compartida, y "Compartir lo que nos gusta"
+ya aparece como una de las variaciones de tagline (punto 08). Sin
+"Compartir", los cuatro verbos describirían solo la experiencia en
+solitario — con él, completan el arco real de la marca: Descubrir →
+Apreciar → Saborear → Compartir. Es mi propuesta, no texto de Andrea —
+pendiente de que lo confirme o lo cambie.)*
 
 ---
 
@@ -469,39 +487,38 @@ exploración:
 
 - **Otoño:** tartaleta de calabaza, queso y avellanas; tartaleta de
   aceitunas y hierbas.
-- **Invierno:** tartaleta de calçots y romesco; elaboraciones de cítricos y
-  almendra.
+- **Invierno:** tartaleta de calçots y romesco; **tarta de queso de cabra
+  con remolachas de invierno** (confirmada 2026-11-16); elaboraciones de
+  cítricos y almendra.
 - **Primavera:** tartaletas de fresas y almendra; propuestas con verduras y
   hierbas.
 - **Verano:** tartaletas de fruta de hueso, melocotón, albaricoque, cerezas
   e higos.
 
-**Confirma mantener la tartaleta de calçots y romesco** — resuelve la
-pregunta abierta que dejó `fase-a-investigacion-mercado.md` sobre el
-precedente de La Cantonada (mismo ingrediente, croissant en vez de
-tartaleta). Ver "Reconciliación" sobre si quiere que ese matiz de
-diferenciación se use también en cómo se cuenta esta pieza.
-
-**Nota:** la tarta de queso de cabra con remolachas de invierno, que Andrea
-confirmó para el Rotacional de invierno en el mensaje anterior a este
-documento, no aparece en esta lista — ver "Reconciliación".
+**Resuelto (2026-11-16) — calçots y romesco se mantiene.** Andrea: "puede
+seguir, es un producto de temporada y no va a ser identitario de la marca,
+sino rotacional" — no hace falta narrativa especial frente al precedente de
+La Cantonada (`fase-a-investigacion-mercado.md`); al no cargar peso de
+identidad de marca, compartir ingrediente con otro negocio no es un
+problema real.
 
 ### Criterios de desarrollo
 
+**Resuelto (2026-11-16):** Andrea — "los criterios deberían integrar
+creatividad, pero proximidad sigue siendo relevante." Se separa "Temporada
+y origen" en sus dos criterios propios (Proximidad y Temporada) y se suma
+Creatividad como criterio nuevo — 6 criterios, no 5:
+
 1. **Creatividad:** ¿hay una idea propia detrás de esta combinación? ¿Aporta
    algo nuevo a una receta reconocible?
-2. **Temporada y origen:** ¿los ingredientes elegidos aportan carácter y
-   tienen sentido en este momento del año?
-3. **Sabor:** ¿la combinación funciona de verdad y apetece repetirla?
-4. **Identidad:** ¿la propuesta tiene una mirada reconocible y encaja con
+2. **Proximidad:** ¿podemos conseguir estos ingredientes de productores de
+   Cataluña o de proximidad?
+3. **Temporada:** ¿es el momento adecuado para este ingrediente?
+4. **Sabor:** ¿la combinación funciona de verdad y apetece repetirla?
+5. **Identidad:** ¿la propuesta tiene una mirada reconocible y encaja con
    MOOD TABLE?
-5. **Producción:** ¿podemos elaborarla de forma consistente, mantener su
+6. **Producción:** ¿podemos elaborarla de forma consistente, mantener su
    calidad y delegarla en el futuro?
-
-*(Sustituyen a los 5 criterios en inglés del brief original — Proximity,
-Seasonality, Taste, Identity, Production. Ver "Reconciliación": el cambio
-real es que "Proximity" como criterio independiente desaparece y aparece
-"Creatividad" como criterio nuevo en primer lugar.)*
 
 ---
 
@@ -551,11 +568,27 @@ experiencia en el centro.
   colaboraciones y experiencias alrededor de la comida.
 - **Mood Goods** — productos propios, colecciones estacionales,
   colaboraciones y ediciones limitadas.
+- **Mood Moments** — **actualizado 2026-11-16: sigue existiendo, de la
+  misma forma que antes.** Esto corrige la resolución de esta misma tarde
+  (en el v1/v2 de este documento, ahora historial): se había confirmado que
+  el ritual estructurado por QR de Mood Cookies **no** se mantenía con el
+  pivote a Mood Table. Andrea lo revierte: Mood Moments continúa igual que
+  funcionaba en Mood Cookies.
 
-*(Resuelve, al menos en parte, la pregunta abierta sobre si "Experiencias
-Mood" sobrevivía al pivote: sí, como "Mood Table Experiences". No se
-menciona explícitamente el B2B "Organiza una experiencia Mood" — ver
-"Reconciliación".)*
+*(Resuelve la pregunta abierta sobre si "Experiencias Mood" sobrevivía al
+pivote: sí, como "Mood Table Experiences". El B2B "Organiza una experiencia
+Mood" no se nombra explícito — ver "Reconciliación".)*
+
+**Pendiente de diseño, no de decisión — cómo encaja Mood Moments en el
+catálogo de Mood Table:** en Mood Cookies, el QR iba por "mood" (Bite Me,
+High on Life, Running on Vibes, Pillow Talk) — una taxonomía que ya no
+existe en Mood Table (el catálogo se organiza por Siempre/Rotacional/
+Cookies, no por mood). "De la misma forma que antes" puede leerse como (a)
+el mismo mecanismo de QR-por-producto, con un ritual propio para cada pieza
+del catálogo actual, o (b) el mismo mecanismo pero recuperando también la
+taxonomía de 4 moods como capa adicional sobre el catálogo. Antes de tocar
+`web-copy` (paso 3 de "Cómo funciona") necesito que Andrea confirme cuál de
+las dos — no lo decido yo.
 
 ---
 
@@ -615,55 +648,50 @@ menciona explícitamente el B2B "Organiza una experiencia Mood" — ver
 
 ## Reconciliación con lo confirmado antes de este documento
 
-No cierro ninguno de estos puntos por mi cuenta — los señalo para que
-Andrea decida:
+~~1. Tagline: ¿ES o EN?~~ — **resuelto (2026-11-16): el español sustituye
+al inglés.** "Conectar con lo que nos alimenta" es el único eslogan —
+ver sección 03.
 
-1. **Tagline: ¿ES o EN?** Horas antes de este documento, Andrea dio en chat
-   el tagline *"A little more connected to what we eat, where it comes
-   from and the moments we share around it"* como frase de marca de Mood
-   Table, y lo integré en el Propósito y en el Hero de `web-copy-v4.md`.
-   Este documento fija como **eslogan definitivo** la frase en español
-   *"Conectar con lo que nos alimenta"*, sin mencionar la frase en inglés.
-   ¿Sustituye una a la otra, o conviven (ES como eslogan, EN como línea de
-   apoyo/descripción)?
-2. **La tarta de queso de cabra con remolachas de invierno** — confirmada
-   por Andrea en el mensaje justo anterior a este documento para el
-   Rotacional de invierno, pero no aparece en "La mesa de temporada" (punto
-   10) de este documento, que en invierno solo lista calçots/romesco y
-   cítricos/almendra. ¿Sigue dentro, y el documento no llegó a
-   actualizarse, o se ha quedado fuera?
-3. **Los criterios de desarrollo cambiaron de 5 a 5, pero no son los
-   mismos:** el brief original tenía Proximity/Seasonality/Taste/
-   Identity/Production; este documento tiene Creatividad/Temporada y
-   origen/Sabor/Identidad/Producción — "Proximity" desaparece como
-   criterio propio y "Creatividad" aparece como nuevo. ¿Es el cambio
-   intencional (la proximidad queda implícita dentro de "temporada y
-   origen"), o se perdió sin querer?
-4. **"Los cuatro verbos" (punto 08) solo lista tres** (Descubrir, Apreciar,
-   Saborear). Falta el cuarto, o el título debería decir "tres" — no lo
-   invento yo.
-5. **B2B / "Organiza una experiencia Mood"** — el ecosistema de marca
-   (punto 12) confirma que los eventos en persona sobreviven como "Mood
-   Table Experiences", con "colaboraciones" como posible hueco para B2B,
-   pero no lo nombra explícitamente. ¿Se mantiene la propuesta B2B tal cual
-   existía en Mood Cookies, o queda fuera de esta versión?
-6. **Calçots y romesco:** este documento confirma mantener la tartaleta,
-   sin mencionar el precedente de La Cantonada (mismo ingrediente, formato
-   croissant) que señaló `fase-a-investigacion-mercado.md`. ¿Quieres que la
-   narrativa de esta pieza use explícitamente esa diferenciación (formato
-   obrador rústico vs. pastelería técnica), o no hace falta nombrarlo?
+~~2. La tarta de queso de cabra con remolachas de invierno~~ — **resuelto:
+sigue dentro**, sumada a "La mesa de temporada" (sección 10).
+
+~~3. Los criterios de desarrollo~~ — **resuelto: 6 criterios, no 5.**
+Creatividad se suma y Proximidad se recupera como criterio propio en vez de
+quedar implícita en "Temporada y origen" — ver sección 10.
+
+~~4. "Los cuatro verbos" solo listaba tres~~ — **resuelto: propuse
+Compartir como cuarto verbo**, a petición explícita de Andrea ("propón
+estratégicamente un cuarto verbo") — ver sección 08 para el razonamiento.
+Sigue pendiente que lo confirme o lo cambie.
+
+~~6. Calçots y romesco~~ — **resuelto: se mantiene, sin narrativa especial
+frente a La Cantonada** — Andrea: "es un producto de temporada y no va a
+ser identitario de la marca, sino rotacional" — ver sección 10.
+
+**Sigue abierto, nº5 — B2B / "Organiza una experiencia Mood":** no
+respondido todavía. El ecosistema de marca (sección 12) confirma que los
+eventos en persona sobreviven como "Mood Table Experiences", con
+"colaboraciones" como posible hueco para B2B, pero no lo nombra
+explícitamente.
+
+**Nuevo, no estaba en la lista anterior — Mood Moments:** Andrea confirmó
+(2026-11-16) que Mood Moments (el ritual desbloqueable por QR de Mood
+Cookies) **sigue existiendo, de la misma forma que antes** — revierte la
+resolución de esta tarde que decía que no se mantenía. Ver sección 12 para
+el detalle y la pregunta de diseño pendiente (cómo encaja sin la
+taxonomía de 4 moods que ya no existe en el catálogo de Mood Table).
 
 ## Próximo paso
 
-Con Fase B prácticamente cerrada por este documento, y pendiente solo de
-las 6 reconciliaciones de arriba:
-
-1. Resolver las 6 reconciliaciones (lo mínimo imprescindible antes de
-   avanzar en serio).
+1. Que Andrea responda B2B (nº5) y la pregunta de diseño de Mood Moments
+   (sección 12) — lo único que queda realmente abierto de Fase B.
 2. Reescribir `web-copy` (v5) para alinear el copy de la web con esta
-   plataforma — cambia bastante respecto a v4: nuevo eslogan, nueva
-   arquitectura de ecosistema (Mood Kitchen/Journal/Experiences/Goods),
-   nueva voz ya con reglas explícitas de "sí diríamos/evitaríamos".
+   plataforma — cambia bastante respecto a v4: nuevo eslogan único,
+   catálogo de invierno con la tarta de remolacha, 6 criterios, cuarto
+   verbo, nueva arquitectura de ecosistema (Mood Kitchen/Journal/
+   Experiences/Goods/Moments), nueva voz ya con reglas explícitas de "sí
+   diríamos/evitaríamos", y el paso 3 de "Cómo funciona" ya no está vacío
+   (Mood Moments vuelve) aunque falte decidir su forma exacta.
 3. Arrancar identidad visual de verdad — la sección 09 de este documento ya
    da dirección de arte, paleta, tipografía y fotografía: `mood-table-
    direccion-arte` parte de ahí, no de cero.
