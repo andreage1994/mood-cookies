@@ -85,11 +85,16 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
 
 ## Próximo paso
 
-1. **Identidad visual cerrada del todo (2026-11-17):** color base final
-   Soft Paper `#FBF8F2` (sustituye a Almond Cream, que Andrea veía
-   oscuro). Nada pendiente de decisión — sigue `arrel-direccion-arte`/
-   `arrel-diseno-identidad` pasando esto a arte final, y una pasada de
-   `web-copy-v5.md` para aplicar Libre Caslon Display/Lora.
-2. Que Andrea responda: estado del B2B, si los sub-nombres de ecosistema
+1. **Manual de marca publicado (2026-11-17):** reúne plataforma de marca +
+   identidad visual completa en un solo documento —
+   https://claude.ai/artifact/GgzGAs2i1RK76SkEsHwPnV (Design System de
+   claude.ai; copia de trabajo en `manual-de-marca/manual-de-marca.md` y
+   `tokens.json`). Es privado — hay que compartirlo desde el propio enlace
+   si alguien más (ej. un diseñador externo) necesita abrirlo.
+2. **Home de la web, en diseño (2026-11-17):** convocado un diseñador web
+   para construir el Home visual completo (HTML/CSS real, no solo copy)
+   sobre `web-copy-v5.md` + el sistema de identidad — en marcha,
+   resultado pendiente.
+3. Que Andrea responda: estado del B2B, si los sub-nombres de ecosistema
    pierden "Mood", y si confirma o cambia el cuarto verbo propuesto
    ("Compartir") — los tres únicos puntos de Fase B que siguen abiertos.

@@ -1,0 +1,754 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arrel — Conectar con lo que nos alimenta</title>
+<meta name="description" content="Arrel. Obrador de Barcelona, dulce y salado, de temporada y proximidad.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Special+Elite&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --paper: #FBF8F2;
+    --ink: #3B2E28;
+    --fig: #9A2E3A;
+
+    --ink-10: rgba(59,46,40,.1);
+    --ink-18: rgba(59,46,40,.18);
+    --ink-55: rgba(59,46,40,.55);
+    --paper-70: rgba(251,248,242,.7);
+    --paper-50: rgba(251,248,242,.5);
+
+    --display: "Libre Caslon Display", "Georgia", serif;
+    --body: "Lora", "Georgia", serif;
+    --mono: "Special Elite", "Courier New", monospace;
+
+    --gutter: clamp(20px, 6vw, 72px);
+    --max: 1180px;
+  }
+
+  *{ box-sizing: border-box; }
+  html{ scroll-behavior: smooth; }
+  body{
+    margin:0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--body);
+    font-size: 17px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+  img{ max-width:100%; display:block; }
+  a{ color: inherit; text-decoration: none; }
+
+  .wrap{
+    max-width: var(--max);
+    margin: 0 auto;
+    padding-left: var(--gutter);
+    padding-right: var(--gutter);
+  }
+
+  h1, h2, h3{
+    font-family: var(--display);
+    font-weight: 400;
+    margin: 0;
+    letter-spacing: 0.01em;
+  }
+
+  .eyebrow{
+    font-family: var(--body);
+    font-style: italic;
+    font-size: 0.92rem;
+    letter-spacing: 0.06em;
+    color: var(--fig);
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 1.1em;
+  }
+
+  .num{
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    color: var(--fig);
+    letter-spacing: 0.03em;
+  }
+
+  .btn{
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6em;
+    font-family: var(--body);
+    font-size: 0.98rem;
+    letter-spacing: 0.02em;
+    padding: 0.85em 1.7em;
+    border: 1px solid var(--fig);
+    color: var(--fig);
+    border-radius: 999px;
+    transition: background .2s ease, color .2s ease;
+    white-space: nowrap;
+  }
+  .btn:hover{ background: var(--fig); color: var(--paper); }
+  .btn.on-dark{ border-color: var(--paper); color: var(--paper); }
+  .btn.on-dark:hover{ background: var(--paper); color: var(--ink); }
+
+  .link-arrow{
+    font-size: 0.95rem;
+    border-bottom: 1px solid var(--fig);
+    color: var(--fig);
+    padding-bottom: 2px;
+  }
+
+  /* ---------- placeholder de foto ---------- */
+  .photo{
+    position: relative;
+    background:
+      repeating-linear-gradient(135deg, var(--ink-10) 0 1px, transparent 1px 22px),
+      var(--paper-50);
+    border: 1px solid var(--ink-18);
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 18px;
+    min-height: 220px;
+  }
+  .photo.square{ aspect-ratio: 4/5; }
+  .photo.wide{ aspect-ratio: 16/10; }
+  .photo.tall{ aspect-ratio: 3/4; }
+  .photo span{
+    font-family: var(--body);
+    font-style: italic;
+    font-size: 0.82rem;
+    color: var(--ink-55);
+    background: var(--paper-70);
+    padding: 0.3em 0.7em;
+    line-height: 1.4;
+  }
+
+  /* ---------- header ---------- */
+  header{
+    position: sticky; top: 0; z-index: 20;
+    background: var(--paper-70);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--ink-10);
+  }
+  .nav-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 0;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  .logo{
+    font-family: var(--display);
+    font-size: 1.5rem;
+    letter-spacing: 0.08em;
+    color: var(--ink);
+  }
+  nav ul{
+    list-style: none;
+    display: flex;
+    gap: clamp(14px, 2.4vw, 32px);
+    margin: 0; padding: 0;
+    flex-wrap: wrap;
+  }
+  nav a{
+    font-size: 0.88rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 3px;
+    transition: border-color .2s ease, color .2s ease;
+  }
+  nav a:hover{ color: var(--fig); border-color: var(--fig); }
+
+  /* ---------- hero ---------- */
+  .hero{ padding: clamp(56px, 10vw, 120px) 0 clamp(40px, 6vw, 72px); }
+  .hero-grid{
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: clamp(32px, 6vw, 64px);
+    align-items: center;
+  }
+  .hero h1{
+    font-size: clamp(2.1rem, 5vw, 3.6rem);
+    line-height: 1.12;
+    max-width: 14ch;
+  }
+  .hero p.sub{
+    margin-top: 1.3em;
+    max-width: 42ch;
+    font-size: 1.08rem;
+    color: var(--ink);
+  }
+  .hero .cta-row{ margin-top: 2em; }
+
+  section{ padding: clamp(56px, 9vw, 108px) 0; }
+  .rule{
+    border: none; height: 1px;
+    background: var(--ink-10);
+    margin: 0;
+  }
+
+  .section-head{
+    max-width: 62ch;
+    margin-bottom: clamp(32px, 5vw, 56px);
+  }
+  .section-head h2{ font-size: clamp(1.7rem, 3.4vw, 2.4rem); line-height: 1.22; }
+
+  /* ---------- el problema (villano) ---------- */
+  .problema{
+    background: var(--ink);
+    color: var(--paper);
+  }
+  .problema .eyebrow{ color: var(--fig); }
+  .problema-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(28px, 6vw, 72px);
+    align-items: start;
+  }
+  .problema p{
+    font-size: clamp(1.05rem, 1.6vw, 1.25rem);
+    line-height: 1.75;
+    max-width: 46ch;
+  }
+  .problema p + p{ margin-top: 1.1em; }
+  .problema .closing{
+    font-style: italic;
+    color: var(--paper);
+    border-left: 2px solid var(--fig);
+    padding-left: 1.1em;
+  }
+
+  /* ---------- mirada creativa ---------- */
+  .mirada-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(28px, 6vw, 72px);
+    align-items: center;
+  }
+  .mirada blockquote{
+    margin: 0;
+    font-family: var(--display);
+    font-size: clamp(1.4rem, 2.6vw, 1.9rem);
+    line-height: 1.4;
+    border-left: 2px solid var(--fig);
+    padding-left: 0.9em;
+  }
+  .mirada .alma{
+    margin-top: 1.4em;
+    font-style: italic;
+    color: var(--ink-55);
+    font-size: 1rem;
+    max-width: 38ch;
+  }
+
+  /* ---------- pilares ---------- */
+  .pilares-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: clamp(24px, 4vw, 40px);
+  }
+  .pilar .num{ display:block; margin-bottom: 0.9em; font-size: 0.82rem; }
+  .pilar h3{ font-size: 1.25rem; margin-bottom: 0.55em; }
+  .pilar p{ font-size: 0.97rem; color: var(--ink); margin:0; }
+
+  /* ---------- catalogo ---------- */
+  .catalogo-linea{ margin-bottom: clamp(48px, 8vw, 88px); }
+  .catalogo-linea:last-child{ margin-bottom: 0; }
+
+  .linea-label{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    border-bottom: 1px solid var(--ink-18);
+    padding-bottom: 0.7em;
+    margin-bottom: clamp(24px, 4vw, 40px);
+    flex-wrap: wrap;
+  }
+  .linea-label h3{ font-size: clamp(1.2rem, 2vw, 1.5rem); }
+  .linea-note{ font-size: 0.86rem; font-style: italic; color: var(--ink-55); }
+
+  /* Siempre — grid de tarjetas estables */
+  .siempre-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: clamp(20px, 3vw, 32px);
+  }
+  .producto-card{ display:flex; flex-direction:column; gap: 14px; }
+  .producto-card h4{
+    font-family: var(--display);
+    font-weight: 400;
+    font-size: 1.12rem;
+    margin:0;
+  }
+  .producto-card p{ font-size: 0.95rem; margin:0; color: var(--ink); }
+
+  /* Rotacional — pestañas de temporada, sensación de movimiento */
+  .temporadas-tabs{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 24px;
+  }
+  .temporada-tab{
+    font-size: 0.85rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    padding: 0.5em 1.1em;
+    border: 1px dashed var(--ink-18);
+    border-radius: 999px;
+    color: var(--ink-55);
+  }
+  .temporada-tab.activa{
+    border: 1px solid var(--fig);
+    color: var(--fig);
+    border-style: solid;
+  }
+  .rotacional-body{
+    display: grid;
+    grid-template-columns: 0.9fr 1.1fr;
+    gap: clamp(24px, 4vw, 40px);
+    align-items: start;
+  }
+  .rotacional-lista{ list-style:none; margin:0; padding:0; }
+  .rotacional-lista li{
+    padding: 0.85em 0;
+    border-bottom: 1px dashed var(--ink-18);
+    font-size: 1rem;
+  }
+  .rotacional-lista li:first-child{ padding-top: 0; }
+  .rotacional-lista strong{ font-family: var(--display); font-weight:400; }
+
+  /* Cookies — en desarrollo, piel distinta y más ligera */
+  .cookies-box{
+    border: 1px dotted var(--ink-18);
+    padding: clamp(24px, 4vw, 40px);
+  }
+  .cookies-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: clamp(16px, 2.5vw, 28px);
+    margin-top: 22px;
+  }
+  .cookie-item{
+    font-size: 0.95rem;
+    color: var(--ink-55);
+    border-top: 1px solid var(--ink-10);
+    padding-top: 12px;
+  }
+  .cookie-item strong{ color: var(--ink); font-weight: 600; }
+
+  /* ---------- como funciona ---------- */
+  .pasos{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: clamp(28px, 5vw, 56px);
+    position: relative;
+  }
+  .paso{ position: relative; padding-left: 0; }
+  .paso .num{ font-size: 1rem; display:block; margin-bottom: 0.5em; }
+  .paso h3{ font-size: 1.3rem; margin-bottom: 0.4em; }
+  .paso p{ margin:0; max-width: 32ch; }
+
+  /* ---------- moments / journal teasers ---------- */
+  .teaser{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(28px, 6vw, 64px);
+    align-items: center;
+  }
+  .teaser.reverse .photo{ order: 2; }
+  .teaser-text .eyebrow{ margin-bottom: 0.7em; }
+  .teaser-text h2{ font-size: clamp(1.6rem, 3vw, 2.1rem); margin-bottom: 0.6em; }
+  .teaser-text p{ max-width: 44ch; margin-bottom: 1.4em; }
+
+  .journal-cats{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+    margin: 1.6em 0 1.8em;
+    max-width: 46ch;
+  }
+  .journal-cat{
+    border-top: 1px solid var(--ink-18);
+    padding-top: 0.6em;
+    font-size: 0.92rem;
+  }
+  .journal-cat strong{ display:block; font-family: var(--display); font-size: 1.02rem; margin-bottom: 0.2em; }
+
+  /* ---------- newsletter + contacto (footer) ---------- */
+  .pie{
+    background: var(--ink);
+    color: var(--paper);
+  }
+  .newsletter{
+    padding-bottom: clamp(40px, 6vw, 64px);
+    border-bottom: 1px solid rgba(251,248,242,.14);
+  }
+  .newsletter h2{
+    color: var(--paper);
+    font-size: clamp(1.6rem, 3vw, 2.2rem);
+    max-width: 18ch;
+  }
+  .newsletter-form{
+    display: flex;
+    gap: 12px;
+    margin-top: 1.6em;
+    max-width: 460px;
+    flex-wrap: wrap;
+  }
+  .newsletter-form input[type="email"]{
+    flex: 1 1 220px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--paper);
+    color: var(--paper);
+    font-family: var(--body);
+    font-size: 1rem;
+    padding: 0.6em 0.1em;
+    outline: none;
+  }
+  .newsletter-form input::placeholder{ color: var(--paper-70); }
+
+  .contacto{
+    padding-top: clamp(40px, 6vw, 64px);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(28px, 5vw, 56px);
+  }
+  .contacto h2{ color: var(--paper); font-size: clamp(1.5rem, 2.6vw, 1.9rem); }
+  .contacto-list{ list-style:none; margin: 1.3em 0 0; padding:0; }
+  .contacto-list li{
+    padding: 0.6em 0;
+    border-top: 1px solid rgba(251,248,242,.14);
+    font-size: 0.98rem;
+  }
+  .contacto-list li:first-child{ border-top: none; }
+  .contacto-list a:hover{ color: var(--fig); }
+
+  .foot-legal{
+    padding: 22px 0 40px;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+    font-size: 0.82rem;
+    color: var(--paper-70);
+  }
+  .foot-legal ul{
+    list-style:none; display:flex; gap:18px; margin:0; padding:0; flex-wrap: wrap;
+  }
+  .foot-legal a:hover{ color: var(--paper); }
+
+  /* ================= responsive ================= */
+  @media (max-width: 920px){
+    .hero-grid{ grid-template-columns: 1fr; }
+    .hero .photo{ order: -1; }
+    .problema-grid{ grid-template-columns: 1fr; }
+    .mirada-grid{ grid-template-columns: 1fr; }
+    .mirada .photo{ order: -1; }
+    .pilares-grid{ grid-template-columns: repeat(2, 1fr); }
+    .siempre-grid{ grid-template-columns: repeat(2, 1fr); }
+    .rotacional-body{ grid-template-columns: 1fr; }
+    .cookies-grid{ grid-template-columns: repeat(2, 1fr); }
+    .pasos{ grid-template-columns: 1fr; }
+    .teaser{ grid-template-columns: 1fr; }
+    .teaser.reverse .photo{ order: -1; }
+    .contacto{ grid-template-columns: 1fr; }
+  }
+
+  @media (max-width: 600px){
+    .nav-row{ justify-content: center; text-align: center; }
+    nav ul{ justify-content: center; gap: 12px 18px; }
+    .pilares-grid{ grid-template-columns: 1fr; }
+    .siempre-grid{ grid-template-columns: 1fr; }
+    .cookies-grid{ grid-template-columns: 1fr; }
+    .journal-cats{ grid-template-columns: 1fr; }
+    .foot-legal{ justify-content: center; text-align: center; }
+    .linea-label{ flex-direction: column; align-items: flex-start; gap: 6px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav-row">
+    <a href="#top" class="logo">ARREL</a>
+    <nav aria-label="Navegación principal">
+      <ul>
+        <li><a href="#catalogo">Repostería</a></li>
+        <li><a href="#mirada">Nuestra forma de ver el mundo</a></li>
+        <li><a href="#journal">Mood Journal</a></li>
+        <li><a href="#moments">Mood Moments</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <span class="eyebrow">Conectar con lo que nos alimenta.</span>
+        <h1>Hoy sale algo del horno que no esperabas.</h1>
+        <p class="sub">Temporada, proximidad y una combinación que te hace mirar dos veces. Para comer solo, o repartir en la mesa.</p>
+        <div class="cta-row">
+          <a href="#catalogo" class="btn">Descubre lo de hoy</a>
+        </div>
+      </div>
+      <div class="photo wide">
+        <span>[foto: lo que sale del horno hoy, en la mesa]</span>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- EL PROBLEMA -->
+  <section class="problema">
+    <div class="wrap">
+      <span class="eyebrow">El problema</span>
+      <div class="problema-grid">
+        <p>La mayoría de las veces comemos sin mirar. De pie, deprisa, sin preguntarnos de dónde viene lo que nos llevamos a la boca, si es su temporada, si de verdad nos está nutriendo — o con quién lo estamos compartiendo.</p>
+        <div>
+          <p>No es que falte comida. Es que falta la pausa: pararse a apreciar el origen, la estación, el momento. Comer se ha vuelto un trámite entre una cosa y la siguiente.</p>
+          <p class="closing">Arrel existe para lo contrario: recuperar esa pausa. Que un ingrediente de temporada, una pieza recién horneada o una mesa compartida vuelvan a ser un momento que se nota, no uno que pasa sin darse cuenta.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- NUESTRA MIRADA CREATIVA -->
+  <section class="mirada">
+    <div class="wrap mirada-grid">
+      <div>
+        <span class="eyebrow">Nuestra mirada creativa</span>
+        <blockquote>No buscamos inventar por inventar. Nos interesa reinterpretar elaboraciones que conocemos de toda la vida y darles una nueva mirada a través de la creatividad: explorar combinaciones de sabores, ingredientes locales y de proximidad, y productos de temporada. Partimos de lo familiar para descubrir nuevas formas de disfrutarlo.</blockquote>
+        <p class="alma">Comer no es solo ingerir alimentos: es recibir, agradecer, compartir, cuidar, conectar.</p>
+      </div>
+      <div class="photo square">
+        <span>[foto: manos trabajando una receta en el obrador]</span>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- NUESTROS PILARES -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Nuestros pilares</span>
+        <h2>Lo que no cambia en ninguna receta.</h2>
+      </div>
+      <div class="pilares-grid">
+        <div class="pilar">
+          <span class="num">01</span>
+          <h3>Origen</h3>
+          <p>Ingredientes y productores del entorno, con procedencia transparente.</p>
+        </div>
+        <div class="pilar">
+          <span class="num">02</span>
+          <h3>Temporalidad</h3>
+          <p>Una oferta que evoluciona con las estaciones.</p>
+        </div>
+        <div class="pilar">
+          <span class="num">03</span>
+          <h3>Creatividad</h3>
+          <p>Reinterpretamos recetas y formatos familiares con combinaciones originales y una mirada gastronómica propia.</p>
+        </div>
+        <div class="pilar">
+          <span class="num">04</span>
+          <h3>Experiencia</h3>
+          <p>Cada producto invita a descubrir, apreciar y saborear; la experiencia se completa al compartirlo y conectar con lo que nos rodea.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- CATALOGO -->
+  <section id="catalogo">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Catálogo</span>
+        <h2>Tres formas distintas de estar en la carta.</h2>
+      </div>
+
+      <!-- SIEMPRE -->
+      <div class="catalogo-linea">
+        <div class="linea-label">
+          <h3>Siempre</h3>
+          <span class="linea-note">la base fija del obrador</span>
+        </div>
+        <div class="siempre-grid">
+          <div class="producto-card">
+            <div class="photo square"><span>[foto: brownie de chocolate y AOVE, en la mesa]</span></div>
+            <h4>Brownie de chocolate y AOVE</h4>
+            <p>Nueces de Tarragona, cacao 85% de tostador local. Para partir y repartir, o para comértelo entero sin que nadie te juzgue.</p>
+          </div>
+          <div class="producto-card">
+            <div class="photo square"><span>[foto: bizcocho de calabacín, queso de oveja y aceitunas, en la mesa]</span></div>
+            <h4>Bizcocho de calabacín, queso de oveja, aceitunas y AOVE</h4>
+            <p>No es el bizcocho dulce que esperas, y esa es la idea.</p>
+          </div>
+          <div class="producto-card">
+            <div class="photo square"><span>[foto: bizcocho de pera, romero y avellanas, en la mesa]</span></div>
+            <h4>Bizcocho de pera, romero, avellanas de Reus y chocolate</h4>
+            <p>El romero no es un error de receta: es la firma.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- ROTACIONAL -->
+      <div class="catalogo-linea">
+        <div class="linea-label">
+          <h3>Rotacional</h3>
+          <span class="linea-note">cambia con la temporada</span>
+        </div>
+        <div class="temporadas-tabs">
+          <span class="temporada-tab activa">Otoño · ahora</span>
+          <span class="temporada-tab">Invierno</span>
+          <span class="temporada-tab">Primavera</span>
+          <span class="temporada-tab">Verano</span>
+        </div>
+        <div class="rotacional-body">
+          <div class="photo tall"><span>[foto: tartaleta de temporada, en la mesa]</span></div>
+          <ul class="rotacional-lista">
+            <li><strong>Otoño</strong> — tartaleta de calabaza, queso y avellanas; tartaleta de aceitunas y hierbas.</li>
+            <li><strong>Invierno</strong> — tartaleta de calçots y romesco; tarta de queso de cabra con remolachas de invierno; elaboraciones de cítricos y almendra.</li>
+            <li><strong>Primavera</strong> — tartaletas de fresas y almendra; propuestas con verduras y hierbas.</li>
+            <li><strong>Verano</strong> — tartaletas de fruta de hueso, melocotón, albaricoque, cerezas e higos.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- COOKIES -->
+      <div class="catalogo-linea">
+        <div class="linea-label">
+          <h3>Cookies</h3>
+          <span class="linea-note">línea propia · en desarrollo</span>
+        </div>
+        <div class="cookies-box">
+          <p style="margin:0; max-width:52ch; color:var(--ink-55); font-style:italic;">Todavía en obrador — llegan pronto con su propia foto y ficha.</p>
+          <div class="cookies-grid">
+            <div class="cookie-item"><strong>Chocolate, avellana y sal marina</strong></div>
+            <div class="cookie-item"><strong>AOVE, almendra y cítricos</strong></div>
+            <div class="cookie-item"><strong>Trigo sarraceno, tahini y semillas</strong></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- COMO FUNCIONA -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Cómo funciona</span>
+        <h2>Sin complicarlo.</h2>
+      </div>
+      <div class="pasos">
+        <div class="paso">
+          <span class="num">01</span>
+          <h3>Qué hay hoy</h3>
+          <p>El horno cambia con la temporada. Mira qué sale hoy.</p>
+        </div>
+        <div class="paso">
+          <span class="num">02</span>
+          <h3>Pide tu pieza</h3>
+          <p>Elige y listo.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- MOOD MOMENTS TEASER -->
+  <section id="moments">
+    <div class="wrap teaser">
+      <div class="photo wide"><span>[foto: mesa compartida en un encuentro Mood Moments]</span></div>
+      <div class="teaser-text">
+        <span class="eyebrow">Mood Moments</span>
+        <h2>Momentos para vivir con otros, más allá de la mesa.</h2>
+        <p>Cenas en reflexión, yoga y pilates, talleres de belleza — encuentros de comunidad que no dependen de comprar nada en concreto. Es la parte de Arrel que no se envuelve ni se hornea: se vive.</p>
+        <a href="#contacto" class="link-arrow">Descubre los próximos encuentros →</a>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- MOOD JOURNAL TEASER -->
+  <section id="journal">
+    <div class="wrap teaser reverse">
+      <div class="teaser-text">
+        <span class="eyebrow">Mood Journal</span>
+        <h2>Para quien quiere profundizar un poco más.</h2>
+        <p>Ingredientes, temporada, presencia en la mesa y las voces de quienes están detrás de lo que comemos.</p>
+        <div class="journal-cats">
+          <div class="journal-cat"><strong>Alimentación</strong>Ingredientes · Recetas · Temporada · Mercados</div>
+          <div class="journal-cat"><strong>Ritualizar</strong>Presencia y conexión en la mesa</div>
+          <div class="journal-cat"><strong>Perspectiva</strong>Reflexiones breves</div>
+          <div class="journal-cat"><strong>Conversaciones</strong>Chefs y productores locales</div>
+        </div>
+        <a href="#contacto" class="link-arrow">Entra al Journal →</a>
+      </div>
+      <div class="photo square"><span>[foto: libreta y café, mesa de trabajo editorial]</span></div>
+    </div>
+  </section>
+
+  <!-- NEWSLETTER + CONTACTO + FOOTER -->
+  <footer class="pie" id="contacto">
+    <div class="wrap newsletter">
+      <span class="eyebrow">Newsletter</span>
+      <h2>Lo de cada temporada, antes que nadie.</h2>
+      <form class="newsletter-form" onsubmit="return false;">
+        <input type="email" placeholder="Tu email" aria-label="Tu email" required>
+        <button type="submit" class="btn on-dark">Suscríbete</button>
+      </form>
+    </div>
+
+    <div class="wrap contacto">
+      <div>
+        <span class="eyebrow">Contacto</span>
+        <h2>¿Hablamos? Estamos aquí.</h2>
+      </div>
+      <ul class="contacto-list">
+        <li><a href="#">Formulario de contacto →</a></li>
+        <li><a href="#">WhatsApp</a></li>
+        <li><a href="#">Email</a></li>
+        <li><a href="#">Redes sociales</a></li>
+        <li>Barcelona · Obrador</li>
+      </ul>
+    </div>
+
+    <div class="wrap foot-legal">
+      <span>© 2026 Arrel. Barcelona · Obrador.</span>
+      <ul>
+        <li><a href="#">Aviso legal</a></li>
+        <li><a href="#">Política de privacidad</a></li>
+        <li><a href="#">Términos y condiciones</a></li>
+        <li><a href="#top">Volver arriba</a></li>
+      </ul>
+    </div>
+  </footer>
+
+</main>
+
+</body>
+</html>

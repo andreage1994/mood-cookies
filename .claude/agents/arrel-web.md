@@ -35,9 +35,9 @@ paleta de ahí, no inventa los suyos propios.
    existe contenido de voz de fundadora previo (tipo "Porqué una Cookie" en
    el proyecto anterior), ese registro — personal, honesto, sin venta
    agresiva — es el que mejor encaja, ajustado al nuevo nombre y producto.
-4. Si la pregunta de "Table" como marca-persona sigue abierta en Fase B,
-   dilo explícitamente al proponer estructura — cambia si la web lleva una
-   sección "sobre mí/Andrea" prominente o no.
+4. *(Obsoleto — la pregunta de "Baker/Table" como marca-persona quedó
+   cerrada con el pivote a "Arrel": no admite esa lectura, es un lugar/
+   territorio, no una persona. No se traslada ninguna duda de este tipo.)*
 
 ## Reglas
 
