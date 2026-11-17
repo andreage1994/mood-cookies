@@ -1,5 +1,25 @@
 # Identidad visual — Arrel
 
+**Actualizado (2026-11-17, tercera pasada): paleta de 5 colores
+rechazada, va a minimalismo.** Andrea: "no me gustan los colores...
+buscaba algo más minimalista y sencillo. veo mucho color." La paleta de
+la segunda pasada (Almond Cream/Fig Jam/Toasted Wheat/Honey Gold/Warm
+Ink) queda descartada por exceso de color, no por ser fría esta vez —
+el problema ahora es cantidad, no temperatura. Nueva dirección: **2-3
+colores como máximo**, dejando que el color real lo aporte la fotografía
+de producto, no la paleta gráfica. Dos opciones, ver muestras:
+
+- **Opción 1 — monocromo puro** (`minimal-opcion-1.png`): Almond Cream
+  `#F3EAD9` + Warm Ink `#3B2E28`. Dos colores en total, en todo el
+  sistema — logo, texto, líneas, sellos.
+- **Opción 2 — monocromo + un acento puntual** (`minimal-opcion-2.png`):
+  los mismos dos, más Fig Jam `#9A2E3A` usado solo en detalles mínimos
+  (línea bajo el lockup, Nº de ficha) — nunca como bloque de color.
+
+Pendiente de que Andrea elija entre las dos (o pida ajustar cuál acento).
+
+---
+
 **Actualizado (2026-11-17, segunda pasada): revisión de agencia.** Andrea
 pidió "algo más pulido en general" y convocó, con mis palabras, a una
 dirección de diseño gráfico y una dirección de estrategia de marca —

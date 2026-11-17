@@ -88,9 +88,11 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
 
 ## Próximo paso
 
-1. Que Andrea confirme o ajuste la nueva dirección de identidad visual
-   (paleta Fig Jam/Toasted Wheat/Honey Gold/Warm Ink, Lora para cuerpo,
-   fotografía de mesa en vez de especimen) — `identidad-visual/README.md`.
+1. Que Andrea elija entre las dos opciones de paleta minimalista (2026-11-17,
+   tercera pasada: rechazó la de 5 colores por "ver mucho color") —
+   Opción 1 monocromo puro vs. Opción 2 monocromo + un acento puntual,
+   ver `identidad-visual/README.md`. Lora para cuerpo y fotografía de
+   mesa en vez de especimen siguen vigentes de la segunda pasada.
 2. Que responda: estado del B2B, si los sub-nombres de ecosistema pierden
    "Mood", y si confirma o cambia el cuarto verbo propuesto ("Compartir").
 3. Con eso, `arrel-direccion-arte`/`arrel-diseno-identidad` desarrollan
