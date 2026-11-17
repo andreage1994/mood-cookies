@@ -91,10 +91,18 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    claude.ai; copia de trabajo en `manual-de-marca/manual-de-marca.md` y
    `tokens.json`). Es privado — hay que compartirlo desde el propio enlace
    si alguien más (ej. un diseñador externo) necesita abrirlo.
-2. **Home de la web, en diseño (2026-11-17):** convocado un diseñador web
-   para construir el Home visual completo (HTML/CSS real, no solo copy)
-   sobre `web-copy-v5.md` + el sistema de identidad — en marcha,
-   resultado pendiente.
+2. **Home publicado (2026-11-17)** —
+   https://claude.ai/artifact/Gbyciaj2i2xJsoUA3JHquZ (también en
+   `web/home.html`). HTML/CSS real, con Libre Caslon Display + Lora +
+   Special Elite cargadas, los 3 colores del sistema, copy literal de
+   `web-copy-v5.md`, y distinción visual entre Siempre/Rotacional/Cookies.
+   Corregido antes de publicar: usaba botones y pestañas en píldora
+   (`border-radius: 999px`), contradecía "sin círculos ni nada" — ya en
+   ángulo recto. **3 dudas reales del diseñador, sin resolver:** (a) si el
+   catálogo vive entero en el Home o pasa a tener página propia; (b) si
+   "El problema" (bloque invertido) pesa visualmente más de lo que debería
+   frente a "Nuestra mirada creativa"; (c) newsletter sin copy de marca
+   todavía (solo rótulo funcional, no hay texto decidido en Fase B).
 3. Que Andrea responda: estado del B2B, si los sub-nombres de ecosistema
    pierden "Mood", y si confirma o cambia el cuarto verbo propuesto
    ("Compartir") — los tres únicos puntos de Fase B que siguen abiertos.
