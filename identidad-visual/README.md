@@ -1,123 +1,119 @@
 # Identidad visual — Arrel
 
-**Fuente:** moodboard de Andrea (2026-11-17), tras sesión de brainstorming
-con el equipo. Nombre y dirección visual, en sus palabras: **"confirmado"**
-— no es una propuesta a validar, sustituye la dirección de identidad visual
-que traía `fase-b-plataforma-marca.md` sección 09 (Mood Table/avena-verde
-oliva-terracota, DM Serif Display + DM Sans).
+**Actualizado (2026-11-17, segunda pasada): revisión de agencia.** Andrea
+pidió "algo más pulido en general" y convocó, con mis palabras, a una
+dirección de diseño gráfico y una dirección de estrategia de marca —
+dos informes independientes, cada uno sin ver el del otro, que llegaron a
+**el mismo diagnóstico por caminos distintos**: el moodboard original
+(sección "Historial" más abajo) venía calcado casi literal de las
+referencias de perfumería/skincare que Andrea dio como inspiración de
+tono — y esa estética de "especimen de laboratorio" (ficha numerada fría,
+fotografía de ingrediente aislado como muestra) no solo no es
+diferenciadora, **reproduce visualmente el villano de la marca**
+(desconexión, mirar el ingrediente como objeto de análisis en vez de
+sentarse a disfrutarlo — ver `story-brand-arrel.md`) en vez de resolverlo.
+Esta es la dirección vigente, recomendada por los dos directores,
+**pendiente de que Andrea la confirme** — no es un hecho consumado como sí
+lo fue el moodboard original.
 
-**Archivos:**
-- `01-moodboard-arrel.webp` — el moodboard real de identidad (logo, paleta,
-  tipografía, fotografía, packaging). Es la referencia primaria.
-- `referencias-inspiracion/` — 3 imágenes que Andrea envió junto al
-  moodboard, de otras categorías (perfumería, skincare): no son contenido
-  de Arrel, son referencia de tono/estética que alimentó el moodboard
-  (tipografía de máquina de escribir, fichas de "especimen" con número y
-  peso, fotografía botánica de resinas/hierbas/raíces/maderas). Las
-  documento para que `arrel-direccion-arte` entienda de dónde sale el
-  lenguaje visual, no para copiar contenido de otra categoría.
+## Qué se mantiene del moodboard original
+
+- El nombre **Arrel** y el lockup "Barcelona · Obrador" — intactos.
+- El tagline **"Conectar con lo que nos alimenta."** — intacto.
+- **Fraunces** para logo y titulares — se queda, ambos directores lo dieron
+  por acertado.
+- La **idea** de ficha de producto numerada (conecta con los 6 criterios de
+  desarrollo de Fase B y con el valor de Honestidad y cuidado) — se queda
+  la idea, cambia la piel (ver abajo).
+- El foco fotográfico macro en textura/corte/miga del producto — se queda,
+  ya lo pedía Fase B antes del moodboard.
+
+## Qué cambia
+
+**Logotipo:** Fraunces se queda, pero **vectorial limpio por defecto**, sin
+la textura de sello aplicada a todas las versiones digitales (web, redes,
+favicon) — el desgaste de tampón se reserva como detalle físico real
+(un sello de tinta de verdad sobre el envoltorio de packaging), no como
+textura gráfica omnipresente. Razón de ambos informes: la textura por
+defecto hacía perder nitidez al logo en pantalla/tamaño pequeño, y el
+gesto artesanal gana valor por ser puntual, no constante.
+
+**Paleta — cambia del todo**, por decisión explícita de Andrea
+("cuestiona los colores también si hace falta") y recomendación coincidente
+de los dos directores: la paleta anterior (Almond Cream/Golden Chamomile/
+Mahogany Jam/Charcoal Grey) es fría y de alto contraste — lee como
+apotecario/perfumería de nicho, no como "placer y disfrute, alegre"
+(Fase B, sección 06-07).
+
+| Color | HEX | Sustituye a | Por qué |
+|---|---|---|---|
+| Almond Cream | `#F3EAD9` | Almond Cream (casi igual) | Base cálida y neutra — funcionaba, se mantiene. |
+| Fig Jam | `#9A2E3A` | Mahogany Jam `#4C0000` | Rojo-vino profundo pero vivo, de mermelada real — no de sangre seca o cuero viejo. Mismo peso/seriedad, sin cruzar a lo fúnebre. |
+| Toasted Wheat | `#C98A4B` | *(nuevo, no existía)* | Calidez de costra horneada — lo que la paleta anterior no tenía en absoluto: ningún color olía a horno. |
+| Honey Gold | `#D9B35C` | Golden Chamomile `#D2BF81` | Más saturado — lee a miel/dulzura, no a caqui apagado. |
+| Warm Ink | `#3B2E28` | Charcoal Grey `#343434` | Tinta cálida (marrón-negro) para texto y sellos, no gris de acero técnico — la diferencia entre "tinta de imprenta" y "gris de laboratorio". |
+
+**Tipografía de cuerpo — cambia:** Courier Prime (monoespaciada) queda
+retirada para párrafos largos — cansa de leer y comunica "informe
+técnico/terminal", lo contrario de "cercana y alegre" (sección 07). La
+sustituye **Lora** (Google Fonts, licencia libre, verificada glifo a glifo
+— soporta el punt volat català y el resto de acentos ES/CAT) — serif
+cálida y legible en párrafo, mejor compañera de Fraunces que una
+monoespaciada. **Special Elite** no desaparece, pero baja de "voz
+tipográfica principal" a **detalle mínimo** — número de lote, fecha — no
+más fichas ni párrafos enteros en esa tipografía.
+
+**Fotografía — cambia la composición, no el foco:** se retira el encuadre
+"especimen" (ingrediente aislado sobre fondo neutro, como muestra pinchada
+con alfiler — ver referencias de perfumería). El mismo foco macro en
+corte/miga/textura se mantiene, pero mostrado en contexto de uso — junto al
+producto, en la mesa, con luz cálida — nunca como materia prima aislada a
+analizar.
+
+**Packaging — misma idea, piel distinta:** la ficha numerada se queda (es
+útil y conecta con Fase B), pero deja de leerse como tarjeta de
+herbario/perfumista sobre fondo gris con clip — pasa a leerse como tarjeta
+de receta de cocina: papel cálido, la paleta nueva, Fraunces + Lora.
+
+**Muestra real de la dirección corregida** — `muestra-identidad-corregida.png`:
+logo limpio en Fig Jam, ficha de producto con fondo Toasted Wheat (no gris),
+texto en Lora con una frase en catalán real para comprobar el punt volat,
+paleta de 5 colores al lado.
 
 ---
 
-## Nombre
+## Historial — moodboard original (2026-11-17, primera pasada, superseded)
 
-**Arrel** — "raíz" en catalán. Sustituye a Mood Table (y, antes, Mood
-Baker y Mood Cookies). Corta el hilo de "Mood" (estado de ánimo) a
-propósito — ver nota en `fase-b-plataforma-marca.md`, sección 01. El
-nombre conecta directo con el pilar de Origen/Temporalidad de la marca:
-una raíz es, literalmente, lo que conecta con la tierra.
+Lo de más abajo es lo que Andrea mandó primero, antes de la revisión de
+agencia. Se mantiene por trazabilidad, no es la dirección vigente.
 
-**Tagline — sin cambios:** "Conectar con lo que nos alimenta."
-**Ubicación/categoría, como aparece en el lockup:** "Barcelona · Obrador."
+**Archivos:**
+- `01-moodboard-arrel.webp` — el moodboard original (logo, paleta,
+  tipografía, fotografía, packaging).
+- `referencias-inspiracion/` — 3 imágenes de perfumería/skincare que
+  alimentaron ese moodboard — confirmado por Andrea: solo referencia de
+  tono, nunca contenido de Arrel.
+- `muestra-tipografia-opcion-a.png` / `muestra-logo-opcion-b.png` — las
+  muestras de la primera pasada, con la paleta y tipografía de cuerpo
+  antiguas (Mahogany Jam/Charcoal Grey, Courier Prime).
 
-## Logotipo
+**Logotipo original:** wordmark **ARREL**, con tratamiento de sello/tampón
+desgastado aplicado por defecto, color Mahogany Jam.
 
-Wordmark tipográfico, **ARREL** en versalitas, con tratamiento de sello/
-tampón desgastado (textura de estampado, no una tipografía limpia
-vectorial) — transmite artesanía y trazabilidad ("marcado", no "impreso").
-Color del logotipo: Mahogany Jam (burdeos oscuro, ver paleta).
+**Paleta original:** Almond Cream `#F0EAD8` · Golden Chamomile `#D2BF81` ·
+Mahogany Jam `#4C0000` · Charcoal Grey `#343434`.
 
-Aplicaciones vistas en el moodboard: estampado directo sobre tela/papel
-kraft (funda de producto), y en fichas de producto tipo "especimen" (ver
-Packaging).
+**Tipografías originales:** Fraunces (logo) + Special Elite (etiquetas) +
+Courier Prime (cuerpo) — las tres verificadas glifo a glifo para el punt
+volat català, eso sigue siendo válido, solo cambia cuál lleva el cuerpo de
+texto.
 
-## Paleta cromática (sustituye a la de Mood Table en Fase B sección 09)
+**Fotografía y packaging originales:** "especimen botánico" — ingrediente
+aislado sobre fondo neutro, ficha de producto tipo ficha de laboratorio
+con Nº de referencia y peso.
 
-| Color | HEX | Uso |
-|---|---|---|
-| Almond Cream | `#F0EAD8` | Base — fondo principal, cálido y neutro. |
-| Golden Chamomile | `#D2BF81` | Acento cálido — bloques de color, detalles. |
-| Mahogany Jam | `#4C0000` | Color de marca — logotipo, acentos de máximo contraste. |
-| Charcoal Grey | `#343434` | Texto secundario, contraste frío. |
+**Resuelto en su momento, sigue vigente:** "Cake de llimona i llavors de
+rosella" era solo ejemplo de maquetación, no producto real.
 
-Nota: la paleta anterior (avena/verde oliva/terracota/avellana/salvia/
-vino, 6 colores) queda retirada — esta es más reducida (4 colores), más
-contrastada (Almond Cream casi blanco roto contra Mahogany Jam muy oscuro)
-y sin el verde oliva como protagonista.
-
-## Tipografías — resuelto (2026-11-17), fuentes reales de producción
-
-Andrea confirmó: mantener el toque de máquina de escribir/sello, con
-tipografías de verdad (no solo dirección de mood). Elegí 3 familias reales,
-las descargué y verifiqué glifo a glifo (no por descripción de catálogo) —
-incluido el **punt volat català** (l·l), que necesita el carácter MIDDLE DOT
-(U+00B7): las tres lo soportan sin problema, igual que ñ/ç/í/ó. Todas son
-de Google Fonts, licencia libre para uso comercial (SIL OFL / Apache 2.0).
-
-| Uso | Tipografía | Por qué |
-|---|---|---|
-| Logotipo y titulares | **Fraunces** (eje Wonky activado) | Serif con carácter/irregularidad a tamaños grandes sin perder nitidez — el estándar actual en branding gastronómico/editorial para un look "con alma, no perfecto". El desgaste de tampón del moodboard se añade como textura gráfica sobre el lockup, no en la fuente — así el logo escala sin perder nitidez en ningún soporte. |
-| Sellos, etiquetas cortas, Nº de ficha | **Special Elite** | Textura de máquina de escribir desgastada ya incorporada en el dibujo de la letra — el efecto "auténtico" sin tratamiento aparte. Solo en strings cortos (se vuelve menos legible en párrafos largos). |
-| Texto de cuerpo, fichas largas, web | **Courier Prime** | Monoespaciada tipo máquina de escribir, limpia y cómoda de leer en párrafos (FAQ, Journal, descripciones). |
-
-**Muestra real, no boceto** — `muestra-tipografia-opcion-a.png`: las tres
-tipografías aplicadas tal cual (logo, tagline, ficha de producto con texto
-en catalán real para probar el punt volat, y la paleta al lado).
-
-**Alternativa de logotipo, para comparar** — `muestra-logo-opcion-b.png`:
-ARREL compuesto directamente en Special Elite a tamaño de logo. Es más
-fiel al desgaste literal del moodboard (nada de tratamiento aparte, lo
-lleva ya incorporado), pero al ser la misma fuente que las etiquetas
-pequeñas, el logotipo y los sellos cortos pierden algo de jerarquía entre
-sí — y a tamaños muy grandes el trazo se ve menos pulido que con Fraunces.
-
-**Pendiente, última pieza:** que Andrea elija entre Opción A (Fraunces +
-textura de sello aplicada = más jerarquía y más seguro para escalar) y
-Opción B (Special Elite directo = más fiel al desgaste literal, más
-simple). Con eso, `arrel-diseno-identidad` ya puede construir el sistema
-de identidad completo.
-
-## Dirección fotográfica
-
-- **Producto, con lente de "especimen" botánico:** foco macro en cortes,
-  migas, texturas — con el mismo tratamiento casi científico que las
-  referencias de perfumería (semillas, raíces, resinas fotografiadas como
-  muestras, no como "food photography" de catálogo).
-- **Ingredientes aislados** sobre fondo neutro (ver la pera con semillas
-  negras) — composición limpia, una pieza protagonista, sombra marcada.
-- **Packaging real** fotografiado en uso (funda de papel/tela estampada).
-
-Esto es coherente con, pero más específico que, la dirección fotográfica
-que ya daba Fase B sección 09 (primeros planos, texturas, luz natural) —
-añade el ángulo "especimen"/ficha de catálogo que no estaba.
-
-## Packaging y fichas de producto
-
-**Elemento nuevo, no estaba en Fase B:** cada producto lleva una ficha
-tipo "especimen de herbario o perfumería" — nombre, descripción breve,
-**Nº de referencia** (ej. "Nº 006") y **peso** (ej. "450 g"). Encaja con
-la dirección fotográfica de especimen de arriba — es el mismo lenguaje
-aplicado al packaging.
-
-**Resuelto (2026-11-17):** "Cake de llimona i llavors de rosella" es solo
-ejemplo de maquetación de la ficha, confirmado por Andrea — no es un
-producto real, no se suma al catálogo de la sección 10 de Fase B.
-
-**Sigue sin confirmar — idioma de las fichas:** el ejemplo mezclaba catalán
-(nombre de producto) y español (peso). Fase B no especifica idioma de
-catálogo — antes de que `arrel-diseno-aplicado` produzca packaging real,
-falta confirmar si las fichas van en catalán, español, o bilingüe.
-
-**Confirmado (2026-11-17):** las 3 imágenes de `referencias-inspiracion/`
-son solo referencia de tono/estética (perfumería, skincare) — no contenido
-de Arrel, tal como entendí.
+**Sigue sin confirmar — idioma de las fichas:** catalán, español, o
+bilingüe. No resuelto por la revisión de agencia tampoco.

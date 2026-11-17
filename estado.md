@@ -19,27 +19,31 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
   valores, voz y tagline ("Conectar con lo que nos alimenta") siguen
   igual. Único punto real sin cerrar: el **B2B** ("Organiza una experiencia
   Mood").
-- **Identidad visual real, con moodboard propio (2026-11-17):** Andrea
-  mandó el moodboard de Arrel — logo (wordmark con tratamiento de sello/
-  máquina de escribir), paleta nueva (Almond Cream, Golden Chamomile,
-  Mahogany Jam, Charcoal Grey — sustituye la de 6 colores del documento
-  oficial), dirección fotográfica tipo "especimen botánico", packaging con
-  fichas de producto numeradas (Nº + peso). Ver `identidad-visual/README.md`
-  — sustituye la sección 09 de Fase B.
+- **Identidad visual, revisión de agencia (2026-11-17):** Andrea mandó un
+  primer moodboard (logo sello/máquina de escribir, paleta fría tipo
+  apotecario, fotografía "especimen botánico") y luego pidió "algo más
+  pulido... cuestiona los colores también si hace falta". Convoqué
+  dirección de diseño gráfico + dirección de estrategia de marca (dos
+  informes independientes) — ambos llegaron, por caminos distintos, al
+  mismo diagnóstico: la estética de especimen/laboratorio venía calcada de
+  las referencias de perfumería y **reproducía el villano de la marca**
+  (distancia/catalogación) en vez de resolverlo (calidez/mesa compartida).
+  **Nueva dirección recomendada**, pendiente de confirmación de Andrea —
+  ver `identidad-visual/README.md`: paleta nueva (Almond Cream, **Fig
+  Jam**, **Toasted Wheat**, **Honey Gold**, **Warm Ink** — sustituye
+  Mahogany Jam/Charcoal Grey), Fraunces limpio sin textura por defecto
+  (el sello pasa a ser detalle físico de packaging, no digital), cuerpo de
+  texto en **Lora** en vez de Courier Prime, fotografía en contexto de
+  mesa en vez de ingrediente aislado. El moodboard original queda en el
+  documento como historial, no como vigente.
 - **Resuelto (2026-11-17):** las referencias de perfumería/skincare eran
   solo inspiración de tono, confirmado. "Cake de llimona i llavors de
   rosella" era solo ejemplo de maquetación, no producto real — confirmado,
   no se suma al catálogo.
-- **Tipografías de producción, elegidas y verificadas (2026-11-17):**
-  Fraunces (logo/titulares) + Special Elite (sellos/etiquetas cortas) +
-  Courier Prime (texto de cuerpo) — las tres, descargadas y comprobadas
-  glifo a glifo, soportan el punt volat català (l·l) y el resto de
-  acentos ES/CAT. Ver muestras reales en `identidad-visual/`. Queda una
-  sola elección pendiente: Opción A (Fraunces + textura de sello aplicada)
-  vs. Opción B (Special Elite directo como logotipo).
 - **Sigue sin cerrar:** si los sub-nombres del ecosistema (Mood Journal,
   Mood Moments, Mood Kitchen, Mood Goods, Mood Table Experiences) pierden
-  "Mood" también o lo mantienen.
+  "Mood" también o lo mantienen, y si Andrea confirma la nueva dirección
+  de identidad visual o prefiere ajustarla.
 - **`web-copy-v5.md`** ya renombrado a Arrel en el cambio masivo de hoy —
   sigue siendo el copy vigente de la web, con Hero reescrito (menos
   robótico) y "El problema" reescrito con StoryBrand real (ver
@@ -84,10 +88,10 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
 
 ## Próximo paso
 
-1. Que Andrea responda: estado del B2B, si los sub-nombres de ecosistema
-   pierden "Mood", y si elige Opción A o B de logotipo
-   (`identidad-visual/README.md`).
-2. Que confirme o cambie el cuarto verbo propuesto ("Compartir").
+1. Que Andrea confirme o ajuste la nueva dirección de identidad visual
+   (paleta Fig Jam/Toasted Wheat/Honey Gold/Warm Ink, Lora para cuerpo,
+   fotografía de mesa en vez de especimen) — `identidad-visual/README.md`.
+2. Que responda: estado del B2B, si los sub-nombres de ecosistema pierden
+   "Mood", y si confirma o cambia el cuarto verbo propuesto ("Compartir").
 3. Con eso, `arrel-direccion-arte`/`arrel-diseno-identidad` desarrollan
-   sistema de identidad concreto (logo, aplicaciones) sobre
-   `identidad-visual/README.md` — ya con tipografías reales elegidas.
+   sistema de identidad concreto (logo, aplicaciones).
