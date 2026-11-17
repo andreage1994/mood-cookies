@@ -154,6 +154,26 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    de oveja del Pirineu català, peras DOP de Lleida, sal marina del Delta
    de l'Ebre, almendra de Lleida, cítricos de les Terres de l'Ebre
    (Versión 7 del Artifact).
+   **Dirección editorial aplicada al Home (2026-11-17):** Andrea compartió
+   5 imágenes de referencia nuevas (mercado, recolección, obrador) pidiendo
+   analizar "la dirección editorial y estética mezclada con lo cotidiano"
+   para que la web deje de sentirse "aburrida y poco vinculada a la
+   repostería". Análisis: son fotos de vida real alrededor de la comida
+   (volver del mercado, recolectar, el obrador visto de reojo) — no fichas
+   de producto — y eso es justo lo que le faltaba al Home, que hasta ahora
+   solo tenía placeholders de "producto en mesa". Aplicadas a los 6 huecos
+   de foto que quedaban en `web/home.html`: Hero (cookie recién horneada,
+   ya teníamos la foto), Mirada (cesta de recolección con manzanas y
+   flores), Catálogo teaser (cesta de peras de invierno para el bizcocho
+   de pera; obrador visto por ventana con tartaletas, para la tartaleta),
+   La Mesa (bolsa de red con verduras del mercado) y Journal (bolsa de
+   tela con cebolletas, en el mercado). Guardadas en
+   `referencias-visuales/editorial/` y `web/images/` (Versión 9 del
+   Artifact). **No toqué** la foto de "especimen cálido" de
+   `web/mundo.html` — estas 5 imágenes son de otro registro (vida
+   cotidiana/editorial), no encajan con esa dirección específica
+   (ingrediente aislado sobre Soft Paper), así que ese hueco sigue
+   pendiente de su propia sesión de foto.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por

@@ -125,6 +125,13 @@
     padding: 0.3em 0.7em;
     line-height: 1.4;
   }
+  .photo.has-img{ overflow: hidden; padding: 0; }
+  .photo.has-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
 
   /* ---------- header ---------- */
   header{
@@ -423,8 +430,8 @@
           <a href="#catalogo" class="btn">Descubre lo de hoy</a>
         </div>
       </div>
-      <div class="photo wide">
-        <span>[foto: lo que sale del horno hoy, en la mesa]</span>
+      <div class="photo wide has-img">
+        <img src="images/004-cookie-chocolate-avellana.webp" alt="Cookie de chocolate, avellana y sal marina, recién horneada">
       </div>
     </div>
   </section>
@@ -453,8 +460,8 @@
         <blockquote>No buscamos inventar por inventar. Nos apasiona reinterpretar elaboraciones que conocemos de toda la vida y darles una nueva mirada a través de la creatividad: explorar combinaciones de sabores, ingredientes locales y de proximidad, y productos de temporada. Partimos de lo familiar para descubrir nuevas formas de disfrutarlo.</blockquote>
         <p class="alma">Comer no es solo ingerir alimentos: es recibir, agradecer, compartir, cuidar, conectar.</p>
       </div>
-      <div class="photo square">
-        <span>[foto: manos trabajando una receta en el obrador]</span>
+      <div class="photo square has-img">
+        <img src="images/editorial-mirada.webp" alt="Cesta de recolección con flores silvestres y manzanas, al atardecer">
       </div>
     </div>
   </section>
@@ -503,9 +510,9 @@
         <h2>Lo que siempre está, y lo que cambia con la temporada.</h2>
       </div>
       <div class="catalogo-teaser-grid">
-        <div class="photo square"><span>[foto: brownie de chocolate y AOVE, en la mesa]</span></div>
-        <div class="photo square"><span>[foto: bizcocho de pera, romero y avellanas, en la mesa]</span></div>
-        <div class="photo square"><span>[foto: tartaleta de temporada, en la mesa]</span></div>
+        <div class="photo square has-img"><img src="images/001-brownie.webp" alt="Brownie de chocolate y AOVE"></div>
+        <div class="photo square has-img"><img src="images/editorial-pera.webp" alt="Cesta de peras de invierno con ramas de pino y tijeras antiguas"></div>
+        <div class="photo square has-img"><img src="images/editorial-tartaleta.webp" alt="Preparando tartaletas en el obrador, vistas a través de una ventana"></div>
         <div class="catalogo-teaser-text">
           <p>Una base fija de piezas reconocibles, y una carta que rota con el
           calendario para traer frescura. Cookies incluidas: una siempre
@@ -545,7 +552,7 @@
   <!-- LA MESA TEASER -->
   <section id="moments">
     <div class="wrap teaser">
-      <div class="photo wide"><span>[foto: mesa compartida en un encuentro de La Mesa]</span></div>
+      <div class="photo wide has-img"><img src="images/editorial-mesa.webp" alt="Volviendo del mercado con una bolsa de red llena de verduras de temporada"></div>
       <div class="teaser-text">
         <span class="eyebrow">La Mesa</span>
         <h2>Momentos para vivir con otros, más allá de la mesa.</h2>
@@ -572,7 +579,7 @@
         </div>
         <a href="#contacto" class="link-arrow">Entra al Journal →</a>
       </div>
-      <div class="photo square"><span>[foto: libreta y café, mesa de trabajo editorial]</span></div>
+      <div class="photo square has-img"><img src="images/editorial-journal.webp" alt="En el mercado, bolsa de tela y cebolletas recién compradas"></div>
     </div>
   </section>
 
