@@ -1,10 +1,29 @@
 # Identidad visual — Arrel
 
-**Paleta oficial (confirmada 2026-11-17): Opción 2 — monocromo + un
-acento puntual.** Almond Cream `#F3EAD9` (base) + Warm Ink `#3B2E28`
-(logo, texto, líneas) + Fig Jam `#9A2E3A` (acento puntual — nunca bloque
-de color, solo detalles mínimos: una línea, el Nº de ficha). Ver
-`minimal-opcion-2.png`.
+## Sistema vigente (cerrado 2026-11-17) — resumen de una pantalla
+
+- **Nombre:** Arrel. **Tagline:** "Conectar con lo que nos alimenta."
+  **Lockup de ubicación:** "Barcelona · Obrador."
+- **Paleta — Opción 2, monocromo + un acento puntual:** Almond Cream
+  `#F3EAD9` (base) + Warm Ink `#3B2E28` (logo, texto, líneas) + Fig Jam
+  `#9A2E3A` (acento puntual — nunca bloque de color, solo detalles
+  mínimos: una línea, el Nº de ficha). Ver `minimal-opcion-2.png`.
+- **Tipografía — una sola familia de display en todo el sistema:**
+  **Libre Caslon Display** para logo Y titulares de web/editorial (sin
+  Fraunces) + **Lora** para cuerpo de texto/fichas largas + **Special
+  Elite** solo como detalle mínimo (lote, fecha), nunca como voz
+  principal. Las tres, verificadas glifo a glifo para el punt volat
+  català y acentos ES/CAT.
+- **Logo, 4 formatos, sin círculos ni cajas:** wordmark horizontal
+  (uso primario) · monograma "A" suelto (favicon, redes) · lockup
+  vertical con tagline + ubicación · la "A" como sello puntual de
+  esquina (ficha/packaging). Ver `formatos-logo-v2.png`.
+- **Fotografía:** macro de producto (corte, miga, textura) en contexto
+  de mesa — nunca ingrediente aislado tipo especimen de laboratorio.
+
+El resto de este documento es el historial de cómo se llegó hasta aquí
+(5 pasadas de corrección), por trazabilidad — no hace falta leerlo para
+trabajar con el sistema vigente.
 
 ---
 
@@ -50,15 +69,11 @@ ejemplo de uso en el propio documento:
    ficha o packaging (ver el ejemplo con la ficha del Bizcocho de pera en
    `formatos-logo-v2.png`), nunca como elemento central ni enmarcada.
 
-**Para simplificar el sistema** (coherente con pedir minimalismo):
-propongo que Libre Caslon Display sustituya a Fraunces también en
-titulares de web/editorial, no solo en el logo — así queda una sola
-familia de display en todo el sistema en vez de dos. Lora se mantiene
-para cuerpo de texto.
-
-**Pendiente:** que Andrea confirme si Libre Caslon Display sustituye
-también a Fraunces en titulares de web, además del logo. Con eso, el
-sistema de identidad queda cerrado para pasar a arte final.
+**Resuelto (2026-11-17): Libre Caslon Display sustituye a Fraunces
+también en titulares de web/editorial, no solo en el logo.** Una sola
+familia de display en todo el sistema. Lora se mantiene para cuerpo de
+texto. **Con esto, el sistema de identidad queda cerrado** — ver
+"Sistema vigente" al principio del documento.
 
 ---
 

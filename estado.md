@@ -19,31 +19,27 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
   valores, voz y tagline ("Conectar con lo que nos alimenta") siguen
   igual. Único punto real sin cerrar: el **B2B** ("Organiza una experiencia
   Mood").
-- **Identidad visual, revisión de agencia (2026-11-17):** Andrea mandó un
-  primer moodboard (logo sello/máquina de escribir, paleta fría tipo
-  apotecario, fotografía "especimen botánico") y luego pidió "algo más
-  pulido... cuestiona los colores también si hace falta". Convoqué
-  dirección de diseño gráfico + dirección de estrategia de marca (dos
-  informes independientes) — ambos llegaron, por caminos distintos, al
-  mismo diagnóstico: la estética de especimen/laboratorio venía calcada de
-  las referencias de perfumería y **reproducía el villano de la marca**
-  (distancia/catalogación) en vez de resolverlo (calidez/mesa compartida).
-  **Nueva dirección recomendada**, pendiente de confirmación de Andrea —
-  ver `identidad-visual/README.md`: paleta nueva (Almond Cream, **Fig
-  Jam**, **Toasted Wheat**, **Honey Gold**, **Warm Ink** — sustituye
-  Mahogany Jam/Charcoal Grey), Fraunces limpio sin textura por defecto
-  (el sello pasa a ser detalle físico de packaging, no digital), cuerpo de
-  texto en **Lora** en vez de Courier Prime, fotografía en contexto de
-  mesa en vez de ingrediente aislado. El moodboard original queda en el
-  documento como historial, no como vigente.
+- **Identidad visual — sistema cerrado (2026-11-17), ver
+  `identidad-visual/README.md` sección "Sistema vigente".** Pasó por 5
+  rondas de corrección el mismo día: moodboard original de Andrea
+  (estética sello/máquina de escribir + paleta fría tipo apotecario) →
+  revisión de agencia (dirección de diseño gráfico + estrategia de marca,
+  independientes, mismo diagnóstico: esa estética reproducía el villano
+  de la marca en vez de resolverlo) → paleta de 5 colores rechazada por
+  Andrea ("veo mucho color") → logo con Fraunces rechazado ("no me
+  convence la tipografía") → formatos sin círculos, confirmados. Estado
+  final: paleta Almond Cream + Warm Ink + Fig Jam (acento puntual); una
+  sola familia de display, **Libre Caslon Display** (logo y titulares de
+  web), + Lora (cuerpo); 4 formatos de logo sin círculos ni cajas
+  (wordmark, monograma suelto, lockup vertical, sello puntual de esquina
+  con la "A"); fotografía de mesa, no especimen aislado.
 - **Resuelto (2026-11-17):** las referencias de perfumería/skincare eran
   solo inspiración de tono, confirmado. "Cake de llimona i llavors de
   rosella" era solo ejemplo de maquetación, no producto real — confirmado,
   no se suma al catálogo.
 - **Sigue sin cerrar:** si los sub-nombres del ecosistema (Mood Journal,
   Mood Moments, Mood Kitchen, Mood Goods, Mood Table Experiences) pierden
-  "Mood" también o lo mantienen, y si Andrea confirma la nueva dirección
-  de identidad visual o prefiere ajustarla.
+  "Mood" también o lo mantienen.
 - **`web-copy-v5.md`** ya renombrado a Arrel en el cambio masivo de hoy —
   sigue siendo el copy vigente de la web, con Hero reescrito (menos
   robótico) y "El problema" reescrito con StoryBrand real (ver
@@ -68,12 +64,13 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
 - [~] **GATE 2 · ¿Es esta la plataforma de marca que Andrea quiere?** —
       prácticamente sí; falta solo el B2B.
 - [~] **Fase C · Diseño del ecosistema** — pilar web: `web-copy-v1.md` →
-      `v5` (vigente, ya renombrado a Arrel). Identidad visual: ya no
-      arranca de cero — `identidad-visual/README.md` da logo, paleta,
-      dirección fotográfica y packaging reales del moodboard de Andrea;
-      falta que `arrel-direccion-arte`/`arrel-diseno-identidad` lo
-      desarrollen en sistema concreto (tipografías de producción sin
-      confirmar todavía, ver pendiente en ese documento).
+      `v5` (vigente, ya renombrado a Arrel, pendiente de una pasada que
+      aplique Libre Caslon Display/Lora en vez de las tipografías viejas
+      de Fase B). Identidad visual: **sistema cerrado** —
+      `identidad-visual/README.md` da logo, paleta, tipografía,
+      dirección fotográfica y packaging ya confirmados; falta que
+      `arrel-direccion-arte`/`arrel-diseno-identidad` lo desarrollen en
+      arte final (archivos vectoriales, aplicaciones reales).
 
 ## Equipo de agentes
 
@@ -88,17 +85,12 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
 
 ## Próximo paso
 
-1. **Paleta confirmada (2026-11-17): Opción 2**, monocromo + acento
-   puntual (Almond Cream + Warm Ink + Fig Jam). Lora para cuerpo y
-   fotografía de mesa en vez de especimen siguen vigentes.
-2. **Logotipo confirmado (2026-11-17): Libre Caslon Display.** Formatos
-   ajustados en quinta pasada tras feedback de Andrea ("sin círculos ni
-   nada... sellos con la A de forma puntual"): se retira el sello/badge
-   circular, el monograma "A" queda como letra sola sin contenedor, usada
-   puntualmente como marca de esquina (no como badge central) — ver
-   `formatos-logo-v2.png`. Pendiente solo: si Libre Caslon Display
-   sustituye también a Fraunces en titulares de web, no solo en el logo.
-3. Que responda: estado del B2B, si los sub-nombres de ecosistema pierden
-   "Mood", y si confirma o cambia el cuarto verbo propuesto ("Compartir").
-4. Con eso, `arrel-direccion-arte`/`arrel-diseno-identidad` desarrollan
-   sistema de identidad concreto (logo, aplicaciones).
+1. **Identidad visual cerrada (2026-11-17)** — ver
+   `identidad-visual/README.md`. No queda nada pendiente de decisión en
+   este frente; lo que sigue es ejecución: `arrel-direccion-arte`/
+   `arrel-diseno-identidad` pasan esto a arte final (logo vectorial,
+   aplicaciones), y `web-copy-v5.md` necesita una pasada para aplicar
+   Libre Caslon Display/Lora en vez de las tipografías viejas.
+2. Que Andrea responda: estado del B2B, si los sub-nombres de ecosistema
+   pierden "Mood", y si confirma o cambia el cuarto verbo propuesto
+   ("Compartir") — los tres únicos puntos de Fase B que siguen abiertos.
