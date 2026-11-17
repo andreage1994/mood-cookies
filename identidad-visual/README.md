@@ -29,16 +29,26 @@ se había fijado en la paleta). Probé 6 tipografías reales — ver
   confiada que D.
 - F. Newsreader — correcta pero más neutra, sin personalidad propia.
 
-**Formatos de logo** (`formatos-logo.png`, con Libre Caslon Display,
-paleta oficial) — boceto de concepto, no arte final:
+**Tipografía de logo confirmada (2026-11-17): Opción D, Libre Caslon
+Display.**
+
+**Formatos de logo — ajustados (2026-11-17, quinta pasada), ver
+`formatos-logo-v2.png`.** Andrea: "lo mantenemos simple sin círculos ni
+nada. podemos hacer sellos con la A de forma puntual." El sello/badge
+circular (formato 4 de la primera pasada, `formatos-logo.png`) queda
+**retirado** — nada de círculos ni cajas. El monograma "A" se mantiene
+pero como **letra sola, sin contenedor**, usada de forma puntual (una
+esquina de ficha o packaging, no como badge protagonista) — ver el
+ejemplo de uso en el propio documento:
 
 1. **Wordmark horizontal** — uso primario (web, packaging grande).
-2. **Monograma "A"** — favicon, sellos pequeños, redes.
+2. **Monograma "A"** — solo la letra, sin caja ni círculo. Favicon,
+   redes, sellos pequeños.
 3. **Lockup vertical** con tagline + "Barcelona · Obrador" — portadas,
    packaging grande.
-4. **Sello/badge circular** — packaging, stickers, redes — recupera el
-   gesto de "sello" del moodboard original, pero en versión limpia y
-   minimal, no con la textura desgastada que se retiró.
+4. **El sello puntual** — la "A" colocada como marca de esquina en una
+   ficha o packaging (ver el ejemplo con la ficha del Bizcocho de pera en
+   `formatos-logo-v2.png`), nunca como elemento central ni enmarcada.
 
 **Para simplificar el sistema** (coherente con pedir minimalismo):
 propongo que Libre Caslon Display sustituya a Fraunces también en
@@ -46,9 +56,9 @@ titulares de web/editorial, no solo en el logo — así queda una sola
 familia de display en todo el sistema en vez de dos. Lora se mantiene
 para cuerpo de texto.
 
-**Pendiente:** que Andrea confirme la tipografía D (o elija otra de las
-6), y dé el visto bueno a los 4 formatos de logo antes de pasar a arte
-final.
+**Pendiente:** que Andrea confirme si Libre Caslon Display sustituye
+también a Fraunces en titulares de web, además del logo. Con eso, el
+sistema de identidad queda cerrado para pasar a arte final.
 
 ---
 

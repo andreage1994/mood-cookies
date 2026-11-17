@@ -91,13 +91,13 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
 1. **Paleta confirmada (2026-11-17): Opción 2**, monocromo + acento
    puntual (Almond Cream + Warm Ink + Fig Jam). Lora para cuerpo y
    fotografía de mesa en vez de especimen siguen vigentes.
-2. **Logotipo en trabajo (2026-11-17, cuarta pasada):** Andrea rechazó
-   Fraunces para el logo ("no me convence la tipografía"). Probadas 6
-   tipografías reales, recomendada **Libre Caslon Display** — ver
-   `identidad-visual/README.md` y `comparativa-logotipo.png`. Generados 4
-   formatos de logo (wordmark, monograma, lockup vertical, sello
-   circular) como boceto de concepto — ver `formatos-logo.png`. Pendiente
-   de que Andrea confirme tipografía y formatos.
+2. **Logotipo confirmado (2026-11-17): Libre Caslon Display.** Formatos
+   ajustados en quinta pasada tras feedback de Andrea ("sin círculos ni
+   nada... sellos con la A de forma puntual"): se retira el sello/badge
+   circular, el monograma "A" queda como letra sola sin contenedor, usada
+   puntualmente como marca de esquina (no como badge central) — ver
+   `formatos-logo-v2.png`. Pendiente solo: si Libre Caslon Display
+   sustituye también a Fraunces en titulares de web, no solo en el logo.
 3. Que responda: estado del B2B, si los sub-nombres de ecosistema pierden
    "Mood", y si confirma o cambia el cuarto verbo propuesto ("Compartir").
 4. Con eso, `arrel-direccion-arte`/`arrel-diseno-identidad` desarrollan
