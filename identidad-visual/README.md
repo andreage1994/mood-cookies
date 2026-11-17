@@ -4,10 +4,17 @@
 
 - **Nombre:** Arrel. **Tagline:** "Conectar con lo que nos alimenta."
   **Lockup de ubicación:** "Barcelona · Obrador."
-- **Paleta — Opción 2, monocromo + un acento puntual:** Almond Cream
-  `#F3EAD9` (base) + Warm Ink `#3B2E28` (logo, texto, líneas) + Fig Jam
-  `#9A2E3A` (acento puntual — nunca bloque de color, solo detalles
-  mínimos: una línea, el Nº de ficha). Ver `minimal-opcion-2.png`.
+- **Paleta — Opción 2, monocromo + un acento puntual:** base + Warm Ink
+  `#3B2E28` (logo, texto, líneas) + Fig Jam `#9A2E3A` (acento puntual —
+  nunca bloque de color, solo detalles mínimos: una línea, el Nº de
+  ficha). Ver `minimal-opcion-2.png`.
+  **Base en revisión (sexta pasada, 2026-11-17):** Andrea ve Almond
+  Cream `#F3EAD9` demasiado oscuro. Comparativa real en
+  `comparativa-base-clara.png` — tres alternativas más claras:
+  **B. Warm Ivory** `#F8F2E6` · **C. Soft Paper** `#FBF8F2` (casi
+  blanco, conserva algo de calidez) · **D. Pure White** `#FFFFFF`
+  (referencia, blanco puro — más frío/genérico que B o C). Pendiente de
+  que Andrea elija.
 - **Tipografía — una sola familia de display en todo el sistema:**
   **Libre Caslon Display** para logo Y titulares de web/editorial (sin
   Fraunces) + **Lora** para cuerpo de texto/fichas largas + **Special
