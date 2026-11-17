@@ -32,11 +32,18 @@
     vectorial limpio.
   - **Físico estampado** (packaging real): Special Elite, Fig Jam,
     con la textura de tampón.
+- **Aplicado a la web (2026-11-17, octava pasada):** la regla de sello
+  (Special Elite + Fig Jam) se extiende a los códigos de referencia de
+  producto en `web/catalogo.html` — cada pieza de "Siempre" y cada sabor
+  de cookie rotacional lleva su **Nº** (001-006) con ese tratamiento,
+  junto a la etiqueta de categoría (Cake/Cookie). Es la misma lógica que
+  ya usaban los números de "Nuestros pilares" y "Cómo funciona" en el
+  Home — ahora también en producto.
 - **Fotografía:** macro de producto (corte, miga, textura) en contexto
   de mesa — nunca ingrediente aislado tipo especimen de laboratorio.
 
 El resto de este documento es el historial de cómo se llegó hasta aquí
-(7 pasadas de corrección), por trazabilidad — no hace falta leerlo para
+(8 pasadas de corrección), por trazabilidad — no hace falta leerlo para
 trabajar con el sistema vigente.
 
 ---

@@ -76,6 +76,13 @@
     letter-spacing: 0.03em;
   }
 
+  .card-codes{
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
   .link-arrow{
     font-size: 0.95rem;
     border-bottom: 1px solid var(--fig);
@@ -217,6 +224,7 @@
     border-top: 1px dashed var(--ink-18);
     font-size: 0.98rem;
   }
+  .cookie-rot-list .num{ margin-right: 10px; }
 
   footer.pie{ background: var(--ink); color: var(--paper); margin-top: clamp(40px, 6vw, 72px); }
   .foot-inner{ padding: clamp(32px, 5vw, 56px) 0; display:flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; align-items: center; }
@@ -239,7 +247,7 @@
 
 <header>
   <div class="wrap nav-row">
-    <a href="index.html" class="logo">ARREL</a>
+    <a href="home.html" class="logo">ARREL</a>
     <nav aria-label="Navegación principal">
       <ul>
         <li><a href="catalogo.html" class="is-active">Repostería</a></li>
@@ -274,25 +282,25 @@
       <div class="siempre-grid">
         <div class="producto-card">
           <div class="photo square"><span>[foto: brownie de chocolate y AOVE]</span></div>
-          <span class="tag">Cake</span>
+          <div class="card-codes"><span class="num">Nº 001</span><span class="tag">Cake</span></div>
           <h4>Brownie de chocolate y AOVE</h4>
           <p>Nueces de Tarragona, cacao 85% de tostador local. Para partir y repartir, o para comértelo entero sin que nadie te juzgue.</p>
         </div>
         <div class="producto-card">
           <div class="photo square"><span>[foto: bizcocho de calabacín, queso de oveja y aceitunas]</span></div>
-          <span class="tag">Cake salado</span>
+          <div class="card-codes"><span class="num">Nº 002</span><span class="tag">Cake salado</span></div>
           <h4>Bizcocho de calabacín, queso de oveja, aceitunas y AOVE</h4>
           <p>No es el bizcocho dulce que esperas, y esa es la idea.</p>
         </div>
         <div class="producto-card">
           <div class="photo square"><span>[foto: bizcocho de pera, romero y avellanas]</span></div>
-          <span class="tag">Cake</span>
+          <div class="card-codes"><span class="num">Nº 003</span><span class="tag">Cake</span></div>
           <h4>Bizcocho de pera, romero, avellanas de Reus y chocolate</h4>
           <p>El romero no es un error de receta: es la firma.</p>
         </div>
         <div class="producto-card">
           <div class="photo square"><span>[foto: cookie de chocolate, avellana y sal marina]</span></div>
-          <span class="tag">Cookie</span>
+          <div class="card-codes"><span class="num">Nº 004</span><span class="tag">Cookie</span></div>
           <h4>Chocolate, avellana y sal marina</h4>
           <p>La única cookie que no cambia nunca — el resto rota con la temporada.</p>
         </div>
@@ -321,8 +329,8 @@
           <p><strong>Tartaletas de fruta y verdura de temporada.</strong> La carta cambia con el calendario — lo que toca hoy no es lo que tocaba hace un mes, ni lo que tocará el siguiente. Ven a descubrirlo, o pregúntanos qué hay esta semana.</p>
           <p>Las cookies de temporada rotan con la misma lógica:</p>
           <ul class="cookie-rot-list">
-            <li>AOVE, almendra y cítricos</li>
-            <li>Trigo sarraceno, tahini y semillas</li>
+            <li><span class="num">Nº 005</span> AOVE, almendra y cítricos</li>
+            <li><span class="num">Nº 006</span> Trigo sarraceno, tahini y semillas</li>
           </ul>
         </div>
       </div>

@@ -147,20 +147,22 @@ Macro de producto (corte, miga, textura, glaseado) **en contexto de mesa** — n
 
 La primera dirección de identidad (dada por Andrea tras un moodboard propio) usaba una estética de "especimen botánico/laboratorio" — fichas numeradas frías, ingrediente fotografiado como muestra aislada, paleta de apotecario (burdeos casi negro + gris carbón) — prestada casi literal de referencias de perfumería y skincare. Una revisión de agencia (dirección de diseño gráfico + dirección de estrategia de marca, de forma independiente) encontró que esa estética **reproducía visualmente el villano de la marca** (distancia, catalogación) en vez de resolverlo (calidez, mesa compartida) — en tensión directa con una personalidad que se define como alegre y cercana. Por eso el sistema vigente es minimalista y cálido, no clínico: el color lo pone la comida, no el envase.
 
+**Matiz (2026-11-17):** lo rechazado era la ficha de laboratorio entera (fotografía clínica + tarjeta fría con clip) — no el número de referencia en sí. El código **Nº**, con mesura (solo en Special Elite + Fig Jam, nunca como protagonista de la pieza), sí se mantiene como detalle de catálogo en la web — ver sección 6.
+
 ---
 
 ## 6. Catálogo
 
-Dos líneas, con funciones distintas — no se aplanan en una sola lista. Las cookies ya no son una tercera línea: se reparten entre las dos (resuelto 2026-11-17).
+Dos líneas, con funciones distintas — no se aplanan en una sola lista. Las cookies ya no son una tercera línea: se reparten entre las dos (resuelto 2026-11-17). En la web, cada pieza lleva su código **Nº** (001-006) en Special Elite + Fig Jam, junto a la categoría (Cake/Cookie) — ver `web/catalogo.html`.
 
 - **Siempre** — reconocibles, disponibles todo el año: el ancla estable de la marca.
-  - Brownie de chocolate y AOVE, con nueces de Tarragona y cacao 85% de tostador local.
-  - Bizcocho de calabacín, queso de oveja, aceitunas y AOVE.
-  - Bizcocho de pera, romero, avellanas de Reus y chocolate.
-  - Cookie de chocolate, avellana y sal marina — la única que no cambia nunca.
+  - Nº 001 · Brownie de chocolate y AOVE, con nueces de Tarragona y cacao 85% de tostador local.
+  - Nº 002 · Bizcocho de calabacín, queso de oveja, aceitunas y AOVE.
+  - Nº 003 · Bizcocho de pera, romero, avellanas de Reus y chocolate.
+  - Nº 004 · Cookie de chocolate, avellana y sal marina — la única que no cambia nunca.
 - **Rotacional** — cambia con el calendario estacional (Otoño/Invierno/Primavera/Verano), aporta frescura. **No se publica qué producto concreto toca en cada estación** — es información de desarrollo interno, no contenido de cara al cliente.
   - Tartaletas de fruta y verdura de temporada.
-  - Cookies de temporada: AOVE con almendra y cítricos · trigo sarraceno con tahini y semillas.
+  - Cookies de temporada: Nº 005 · AOVE con almendra y cítricos · Nº 006 · trigo sarraceno con tahini y semillas.
 
 ### Los 6 criterios de desarrollo de cada receta
 
