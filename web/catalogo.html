@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arrel — Repostería</title>
+<meta name="description" content="Catálogo de Arrel: lo que siempre está, y lo que cambia con la temporada.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Special+Elite&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --paper: #FBF8F2;
+    --ink: #3B2E28;
+    --fig: #9A2E3A;
+
+    --ink-10: rgba(59,46,40,.1);
+    --ink-18: rgba(59,46,40,.18);
+    --ink-55: rgba(59,46,40,.55);
+    --paper-70: rgba(251,248,242,.7);
+    --paper-50: rgba(251,248,242,.5);
+
+    --display: "Libre Caslon Display", "Georgia", serif;
+    --body: "Lora", "Georgia", serif;
+    --mono: "Special Elite", "Courier New", monospace;
+
+    --gutter: clamp(20px, 6vw, 72px);
+    --max: 1180px;
+  }
+
+  *{ box-sizing: border-box; }
+  html{ scroll-behavior: smooth; }
+  body{
+    margin:0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--body);
+    font-size: 17px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+  img{ max-width:100%; display:block; }
+  a{ color: inherit; text-decoration: none; }
+
+  .wrap{
+    max-width: var(--max);
+    margin: 0 auto;
+    padding-left: var(--gutter);
+    padding-right: var(--gutter);
+  }
+
+  h1, h2, h3{
+    font-family: var(--display);
+    font-weight: 400;
+    margin: 0;
+    letter-spacing: 0.01em;
+  }
+
+  .eyebrow{
+    font-family: var(--body);
+    font-style: italic;
+    font-size: 0.92rem;
+    letter-spacing: 0.06em;
+    color: var(--fig);
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 1.1em;
+  }
+
+  .num{
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    color: var(--fig);
+    letter-spacing: 0.03em;
+  }
+
+  .link-arrow{
+    font-size: 0.95rem;
+    border-bottom: 1px solid var(--fig);
+    color: var(--fig);
+    padding-bottom: 2px;
+  }
+
+  /* ---------- placeholder de foto ---------- */
+  .photo{
+    position: relative;
+    background:
+      repeating-linear-gradient(135deg, var(--ink-10) 0 1px, transparent 1px 22px),
+      var(--paper-50);
+    border: 1px solid var(--ink-18);
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 18px;
+    min-height: 220px;
+  }
+  .photo.square{ aspect-ratio: 4/5; }
+  .photo.wide{ aspect-ratio: 16/10; }
+  .photo span{
+    font-family: var(--body);
+    font-style: italic;
+    font-size: 0.82rem;
+    color: var(--ink-55);
+    background: var(--paper-70);
+    padding: 0.3em 0.7em;
+    line-height: 1.4;
+  }
+
+  /* ---------- header ---------- */
+  header{
+    position: sticky; top: 0; z-index: 20;
+    background: var(--paper-70);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--ink-10);
+  }
+  .nav-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 0;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  .logo{
+    font-family: var(--display);
+    font-size: 1.5rem;
+    letter-spacing: 0.08em;
+    color: var(--ink);
+  }
+  nav ul{
+    list-style: none;
+    display: flex;
+    gap: clamp(14px, 2.4vw, 32px);
+    margin: 0; padding: 0;
+    flex-wrap: wrap;
+  }
+  nav a{
+    font-size: 0.88rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 3px;
+    transition: border-color .2s ease, color .2s ease;
+  }
+  nav a:hover{ color: var(--fig); border-color: var(--fig); }
+  nav a.is-active{ color: var(--fig); border-color: var(--fig); }
+
+  /* ---------- page intro ---------- */
+  .intro{ padding: clamp(48px, 9vw, 96px) 0 clamp(32px, 5vw, 56px); }
+  .intro h1{ font-size: clamp(2rem, 4.6vw, 3.1rem); max-width: 16ch; line-height: 1.15; }
+  .intro p{ margin-top: 1.1em; max-width: 54ch; font-size: 1.05rem; }
+
+  section{ padding: clamp(48px, 8vw, 96px) 0; }
+  .rule{ border: none; height: 1px; background: var(--ink-10); margin: 0; }
+
+  .section-head{ max-width: 62ch; margin-bottom: clamp(28px, 4.5vw, 48px); }
+  .section-head h2{ font-size: clamp(1.5rem, 3vw, 2.1rem); line-height: 1.25; }
+
+  .linea-label{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    border-bottom: 1px solid var(--ink-18);
+    padding-bottom: 0.7em;
+    margin-bottom: clamp(24px, 4vw, 40px);
+    flex-wrap: wrap;
+  }
+  .linea-label h3{ font-size: clamp(1.2rem, 2vw, 1.5rem); }
+  .linea-note{ font-size: 0.86rem; font-style: italic; color: var(--ink-55); }
+
+  /* Siempre */
+  .siempre-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: clamp(20px, 3vw, 28px);
+  }
+  .producto-card{ display:flex; flex-direction:column; gap: 14px; }
+  .producto-card h4{ font-family: var(--display); font-weight: 400; font-size: 1.08rem; margin:0; }
+  .producto-card p{ font-size: 0.93rem; margin:0; color: var(--ink); }
+  .producto-card .tag{
+    font-family: var(--mono); font-size: 0.68rem; color: var(--fig);
+    letter-spacing: 0.03em; text-transform: uppercase;
+  }
+
+  /* Rotacional — concepto de temporada, sin productos pinned */
+  .temporadas-tabs{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 28px;
+  }
+  .temporada-tab{
+    font-size: 0.85rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    padding: 0.5em 1.1em;
+    border: 1px dashed var(--ink-18);
+    color: var(--ink-55);
+  }
+  .temporada-tab.activa{ border: 1px solid var(--fig); color: var(--fig); border-style: solid; }
+
+  .rotacional-body{
+    display: grid;
+    grid-template-columns: 0.95fr 1.05fr;
+    gap: clamp(24px, 4vw, 40px);
+    align-items: start;
+  }
+  .rotacional-body p{ margin: 0 0 1em; max-width: 48ch; }
+  .rotacional-body p:last-child{ margin-bottom: 0; }
+
+  .cookie-rot-list{ list-style:none; margin: 1.2em 0 0; padding:0; }
+  .cookie-rot-list li{
+    padding: 0.7em 0;
+    border-top: 1px dashed var(--ink-18);
+    font-size: 0.98rem;
+  }
+
+  footer.pie{ background: var(--ink); color: var(--paper); margin-top: clamp(40px, 6vw, 72px); }
+  .foot-inner{ padding: clamp(32px, 5vw, 56px) 0; display:flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; align-items: center; }
+  .foot-inner a:hover{ color: var(--fig); }
+
+  @media (max-width: 920px){
+    .siempre-grid{ grid-template-columns: repeat(2, 1fr); }
+    .rotacional-body{ grid-template-columns: 1fr; }
+  }
+  @media (max-width: 600px){
+    .nav-row{ justify-content: center; text-align: center; }
+    nav ul{ justify-content: center; gap: 12px 18px; }
+    .siempre-grid{ grid-template-columns: 1fr; }
+    .linea-label{ flex-direction: column; align-items: flex-start; gap: 6px; }
+    .foot-inner{ justify-content: center; text-align: center; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav-row">
+    <a href="index.html" class="logo">ARREL</a>
+    <nav aria-label="Navegación principal">
+      <ul>
+        <li><a href="catalogo.html" class="is-active">Repostería</a></li>
+        <li><a href="home.html#mirada">Nuestra forma de ver el mundo</a></li>
+        <li><a href="home.html#journal">Journal</a></li>
+        <li><a href="home.html#moments">La Mesa</a></li>
+        <li><a href="home.html#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <section class="intro">
+    <div class="wrap">
+      <span class="eyebrow">Repostería</span>
+      <h1>Lo que siempre está, y lo que cambia con la temporada.</h1>
+      <p>Una base fija de piezas reconocibles — el ancla del obrador — y una carta que rota con el calendario para traer frescura. Las cookies también se reparten entre las dos lógicas: una que no cambia nunca, las demás que sí.</p>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- SIEMPRE -->
+  <section>
+    <div class="wrap">
+      <div class="linea-label">
+        <h3>Siempre</h3>
+        <span class="linea-note">disponibles todo el año</span>
+      </div>
+      <div class="siempre-grid">
+        <div class="producto-card">
+          <div class="photo square"><span>[foto: brownie de chocolate y AOVE]</span></div>
+          <span class="tag">Cake</span>
+          <h4>Brownie de chocolate y AOVE</h4>
+          <p>Nueces de Tarragona, cacao 85% de tostador local. Para partir y repartir, o para comértelo entero sin que nadie te juzgue.</p>
+        </div>
+        <div class="producto-card">
+          <div class="photo square"><span>[foto: bizcocho de calabacín, queso de oveja y aceitunas]</span></div>
+          <span class="tag">Cake salado</span>
+          <h4>Bizcocho de calabacín, queso de oveja, aceitunas y AOVE</h4>
+          <p>No es el bizcocho dulce que esperas, y esa es la idea.</p>
+        </div>
+        <div class="producto-card">
+          <div class="photo square"><span>[foto: bizcocho de pera, romero y avellanas]</span></div>
+          <span class="tag">Cake</span>
+          <h4>Bizcocho de pera, romero, avellanas de Reus y chocolate</h4>
+          <p>El romero no es un error de receta: es la firma.</p>
+        </div>
+        <div class="producto-card">
+          <div class="photo square"><span>[foto: cookie de chocolate, avellana y sal marina]</span></div>
+          <span class="tag">Cookie</span>
+          <h4>Chocolate, avellana y sal marina</h4>
+          <p>La única cookie que no cambia nunca — el resto rota con la temporada.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- ROTACIONAL -->
+  <section>
+    <div class="wrap">
+      <div class="linea-label">
+        <h3>Rotacional</h3>
+        <span class="linea-note">cambia con la temporada</span>
+      </div>
+      <div class="temporadas-tabs">
+        <span class="temporada-tab activa">Otoño · ahora</span>
+        <span class="temporada-tab">Invierno</span>
+        <span class="temporada-tab">Primavera</span>
+        <span class="temporada-tab">Verano</span>
+      </div>
+      <div class="rotacional-body">
+        <div class="photo square"><span>[foto: tartaleta de temporada, la de ahora]</span></div>
+        <div>
+          <p><strong>Tartaletas de fruta y verdura de temporada.</strong> La carta cambia con el calendario — lo que toca hoy no es lo que tocaba hace un mes, ni lo que tocará el siguiente. Ven a descubrirlo, o pregúntanos qué hay esta semana.</p>
+          <p>Las cookies de temporada rotan con la misma lógica:</p>
+          <ul class="cookie-rot-list">
+            <li>AOVE, almendra y cítricos</li>
+            <li>Trigo sarraceno, tahini y semillas</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="pie">
+  <div class="wrap foot-inner">
+    <span>© 2026 Arrel. Barcelona · Obrador.</span>
+    <a href="home.html#contacto" class="link-arrow" style="color:var(--paper); border-color:var(--paper);">Contacto →</a>
+  </div>
+</footer>
+
+</body>
+</html>

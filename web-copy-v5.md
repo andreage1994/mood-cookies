@@ -3,7 +3,7 @@
 **Qué dispara esta versión:** el documento oficial de marca
 (`fase-b-plataforma-marca.md` v3) y las resoluciones de hoy: eslogan único
 en español, tarta de queso de cabra confirmada, 6 criterios, cuarto verbo
-("Compartir"), y la vuelta de Mood Moments **solo como eventos de
+("Compartir"), y la vuelta de La Mesa **solo como eventos de
 comunidad** — nada de QR ni de ritual por producto.
 
 **Qué cambia respecto a v4:** el eslogan, la arquitectura de navegación
@@ -11,7 +11,7 @@ comunidad** — nada de QR ni de ritual por producto.
 Manifiesto real en vez de mi redacción), el catálogo (6º producto de
 invierno, cookies como línea propia con 3 sabores nuevos), "Cómo funciona"
 (limpio del todo, sin el "paso 3" que llevaba abierto desde v1), y una
-sección nueva de Mood Moments. **Lo que NO cambia:** la regla de separación
+sección nueva de La Mesa. **Lo que NO cambia:** la regla de separación
 marca/producto (`direccion-editorial-voz.md` v3), que sigue aplicando y es
 coherente con la voz oficial (sección 07 de Fase B).
 
@@ -28,32 +28,32 @@ origen/temporada/nutrición/el momento de compartir). Ver
 
 ## Arquitectura del sitio — propuesta, a confirmar
 
-El documento oficial da 5 piezas de ecosistema (Mood Kitchen, Mood Journal,
-Mood Table Experiences, Mood Goods, Mood Moments). No las mapeo 1:1 a nav —
-sería fragmentar demasiado un sitio que todavía es pequeño. Propongo:
+El documento oficial da 5 piezas de ecosistema (Mood Kitchen, Journal,
+La Mesa, Mood Goods — La Mesa ya reúne lo que antes eran "Mood Moments" y
+"Mood Table Experiences", renombradas y fusionadas el 2026-11-17). No las
+mapeo 1:1 a nav — sería fragmentar demasiado un sitio que todavía es
+pequeño. Propongo:
 
 1. **Inicio**
-2. **Repostería** (la tienda — Siempre / Rotacional / Cookies, + un rincón
-   de **Mood Goods**: ediciones y colaboraciones, cuando existan)
+2. **Repostería** — página propia de catálogo (`web/catalogo.html`,
+   resuelto 2026-11-17), Siempre / Rotacional, + un rincón de **Mood
+   Goods**: ediciones y colaboraciones, cuando existan.
 3. **Nuestra forma de ver el mundo** (propósito, manifiesto, los 4 verbos —
    aquí vive el espíritu de **Mood Kitchen** como historia, no como página
    propia: cómo nace una receta, no un escaparate de R&D)
-4. **Mood Journal**
-5. **Mood Moments** (eventos de comunidad — cenas, yoga/pilates, talleres —
-   con **Mood Table Experiences** como su cara más gastronómica: desayunos,
-   catas, colaboraciones)
+4. **Journal**
+5. **La Mesa** — eventos de comunidad y gastronómicos juntos (cenas en
+   reflexión, yoga/pilates, talleres de belleza, desayunos, catas,
+   colaboraciones), sin distinguir ya entre "cara social" y "cara
+   gastronómica" — una sola sección.
 6. **Contacto**
-
-*(Fusiono Experiences dentro de Moments como dos caras de la misma sección
-de eventos, en vez de dos páginas casi iguales — es mi propuesta, dilo si
-prefieres separarlas.)*
 
 ---
 
 ## 1. Inicio
 
 Hero → El problema → Nuestra mirada creativa → Nuestros pilares → Catálogo
-→ Cómo funciona → Mood Moments (teaser) → Journal (teaser) → Newsletter
+→ Cómo funciona → La Mesa (teaser) → Journal (teaser) → Newsletter
 
 ### Hero
 
@@ -171,6 +171,14 @@ experiencia se completa al compartirlo y conectar con lo que nos rodea.
 
 ### Catálogo
 
+**Resuelto (2026-11-17): el catálogo tiene página propia** (ver
+`web/catalogo.html`) — en el Home solo va un teaser corto con enlace,
+no el listado completo. **También resuelto: las cookies ya no son una
+tercera línea** — se reparten entre Siempre (un sabor fijo) y Rotacional
+(los demás, estacionales). Y **ya no se publica qué producto concreto
+toca en cada estación** — eso era un ejemplo de Andrea para que yo
+entendiera el concepto, no contenido para la web (ver Fase B sección 10).
+
 **Siempre**
 - **Brownie de chocolate y AOVE** — nueces de Tarragona, cacao 85% de
   tostador local. Para partir y repartir, o para comértelo entero sin que
@@ -179,22 +187,14 @@ experiencia se completa al compartirlo y conectar con lo que nos rodea.
   bizcocho dulce que esperas, y esa es la idea.
 - **Bizcocho de pera, romero, avellanas de Reus y chocolate** — el romero
   no es un error de receta: es la firma.
+- **Cookie de chocolate, avellana y sal marina** — la única que no cambia
+  nunca.
 
-**Rotacional** *(cambia con la temporada)*
-- **Otoño:** tartaleta de calabaza, queso y avellanas; tartaleta de
-  aceitunas y hierbas.
-- **Invierno:** tartaleta de calçots y romesco; **tarta de queso de cabra
-  con remolachas de invierno**; elaboraciones de cítricos y almendra.
-- **Primavera:** tartaletas de fresas y almendra; propuestas con verduras y
-  hierbas.
-- **Verano:** tartaletas de fruta de hueso, melocotón, albaricoque, cerezas
-  e higos.
-
-**Cookies** *(línea propia — confirmado 2026-11-16, ya no "en estudio" sin
-categoría)*, en desarrollo:
-- Chocolate, avellana y sal marina.
-- AOVE, almendra y cítricos.
-- Trigo sarraceno, tahini y semillas.
+**Rotacional** *(cambia con la temporada — cuatro estaciones, sin
+especificar en la web qué pieza concreta toca en cada una)*
+- Tartaletas de fruta y verdura de temporada.
+- Cookies de temporada: AOVE con almendra y cítricos · trigo sarraceno con
+  tahini y semillas.
 
 **Mood Goods** *(próximamente)* — colecciones estacionales, colaboraciones
 y ediciones limitadas.
@@ -208,7 +208,7 @@ y ediciones limitadas.
 
 **Resuelto del todo (2026-11-16):** ya no queda ningún "paso 3" pendiente.
 El QR por producto se descarta — Andrea lo confirmó explícitamente hoy:
-"por lo del QR lo eliminamos". Mood Moments existe, pero como eventos de
+"por lo del QR lo eliminamos". La Mesa existe, pero como eventos de
 comunidad aparte, no como parte de comprar una pieza — ver sección nueva
 más abajo.
 
@@ -223,7 +223,7 @@ más abajo.
 
 **Retirado (2026-11-16): el test "¿qué momento necesitas hoy?".** Llevaba
 abierto desde v1 porque dependía de las 4 familias de mood de Mood Cookies,
-que ya no existen. Con Mood Moments confirmado como eventos de comunidad y
+que ya no existen. Con La Mesa confirmado como eventos de comunidad y
 no como mecánica ligada al producto, la premisa entera del test desaparece
 — no hace falta inventarle un criterio nuevo (por ingrediente, dulce/salado
 o cualquier otro). Se retira, no se sustituye.
@@ -308,18 +308,17 @@ el centro, y llevarlo a la mesa con los demás.
 
 ---
 
-## 4. Mood Moments *(sección nueva — eventos de comunidad, resuelto 2026-11-16)*
+## 4. La Mesa *(antes "Mood Moments" + "Mood Table Experiences",
+renombrada y fusionada 2026-11-17 — eventos de comunidad, resuelto
+2026-11-16)*
 
 > Momentos para vivir con otros, más allá de la mesa.
 
-Cenas en reflexión, yoga y pilates, talleres de belleza — encuentros de
-comunidad que no dependen de comprar nada en concreto. Es la parte de Mood
-Table que no se envuelve ni se hornea: se vive.
-
-- **Mood Table Experiences** — su cara más gastronómica: desayunos, catas,
-  colaboraciones alrededor de la comida.
-- **Mood Moments** — el resto: cenas de reflexión, movimiento (yoga,
-  pilates), talleres de belleza y cualquier otro encuentro de comunidad.
+Cenas en reflexión, yoga y pilates, talleres de belleza, desayunos, catas
+y colaboraciones alrededor de la comida — encuentros de comunidad que no
+dependen de comprar nada en concreto. Es la parte de Arrel que no se
+envuelve ni se hornea: se vive. Ya no se distingue entre "cara
+gastronómica" y "resto" — es una sola sección.
 
 **Sigue ABIERTO:** el B2B ("Organiza una experiencia Mood") no está
 confirmado ni descartado — encaja de forma natural aquí (empresas que
@@ -328,7 +327,7 @@ lo doy por hecho sin que Andrea lo diga.
 
 ---
 
-## 5. Mood Journal
+## 5. Journal
 
 - **Alimentación** — Ingredientes · Recetas · Temporada · Mercados.
 - **Ritualizar** — contenido sobre presencia y conexión en la mesa.
@@ -357,7 +356,7 @@ enlaces a redes, enlace al menú principal.
 
 ## Lo que sigue sin resolver, de verdad
 
-Solo dos cosas, ambas en Mood Moments: **el B2B**, y si **prefieres
-separar Experiences de Moments en dos secciones de nav en vez de una** (mi
-propuesta las junta). Todo lo demás de esta versión ya tiene respaldo en
+Solo el **B2B** dentro de La Mesa. La fusión Experiences/Moments ya no es
+una pregunta — Andrea renombró directamente a "La Mesa" como una sola
+sección (2026-11-17). Todo lo demás de esta versión ya tiene respaldo en
 el documento oficial o en las resoluciones de hoy.

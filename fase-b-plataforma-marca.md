@@ -38,11 +38,11 @@ cuenta.
 
 ### La comida como forma de conectar con la vida
 
-MOOD TABLE nace en Barcelona como una marca gastronómica que une
+ARREL nace en Barcelona como una marca gastronómica que une
 creatividad culinaria, productos de obrador y una mirada contemporánea
 sobre la cultura de la comida.
 
-MOOD TABLE crea productos de obrador dulces y salados, recetas de temporada
+ARREL crea productos de obrador dulces y salados, recetas de temporada
 y propuestas gastronómicas. Reinterpreta con creatividad elaboraciones que
 conocemos de toda la vida, explorando nuevas combinaciones de sabores e
 ingredientes, con especial atención a los productos locales, de proximidad
@@ -79,7 +79,7 @@ recetas, pero siempre al servicio del sabor, la calidad y la experiencia.
 
 ### La conexión como idea rectora
 
-En MOOD TABLE, conectar tiene cuatro dimensiones que conviven y se
+En ARREL, conectar tiene cuatro dimensiones que conviven y se
 enriquecen entre sí:
 
 - **Con lo que comemos:** observar, apreciar, descubrir ingredientes,
@@ -95,9 +95,9 @@ enriquecen entre sí:
 
 ## 02 · Esencia de marca
 
-### Qué es MOOD TABLE
+### Qué es ARREL
 
-MOOD TABLE es una marca gastronómica nacida en Barcelona que crea productos
+ARREL es una marca gastronómica nacida en Barcelona que crea productos
 de obrador dulces y salados, recetas de temporada y propuestas
 gastronómicas desde una mirada creativa y contemporánea.
 
@@ -202,7 +202,7 @@ como parte de una manera más conectada de alimentarnos y vivir.
 
 ### Un territorio propio: conectar con lo que nos alimenta
 
-MOOD TABLE se sitúa en el territorio de la creatividad gastronómica
+ARREL se sitúa en el territorio de la creatividad gastronómica
 cotidiana. No es una pastelería tradicional ni una marca de repostería
 saludable basada en dietas o restricciones. Su diferencial está en
 reinterpretar productos y recetas reconocibles con una mirada creativa,
@@ -218,7 +218,7 @@ placer, la presencia y los vínculos que nacen alrededor de la mesa.
 ### Declaración de posicionamiento
 
 > Para personas curiosas que disfrutan de la gastronomía y quieren
-> descubrir nuevas formas de disfrutar recetas conocidas, MOOD TABLE es una
+> descubrir nuevas formas de disfrutar recetas conocidas, ARREL es una
 > marca de Barcelona que crea productos de obrador dulces y salados, recetas
 > de temporada y propuestas gastronómicas, reinterpretando preparaciones
 > familiares con creatividad, ingredientes seleccionados y combinaciones
@@ -290,9 +290,9 @@ los ingredientes y el producto está presente en cada decisión.
 
 ## 07 · Personalidad y tono de voz
 
-### Cómo se siente y cómo habla MOOD TABLE
+### Cómo se siente y cómo habla ARREL
 
-MOOD TABLE debe sentirse como alguien con curiosidad gastronómica,
+ARREL debe sentirse como alguien con curiosidad gastronómica,
 sensibilidad y criterio, que disfruta conectando con la comida y
 compartiendo lo que descubre. Es cercana, pero no infantil; sabe de comida,
 pero no da lecciones; es consciente, pero no moralista. Invita a mirar,
@@ -347,7 +347,7 @@ dentro de Propósito/Visión/Valores.)*
 
 ### Una idea que guía todo lo que hacemos
 
-El eslogan definitivo de MOOD TABLE es **«Conectar con lo que nos
+El eslogan definitivo de ARREL es **«Conectar con lo que nos
 alimenta»**. Resume nuestra convicción de que la comida nos conecta con
 nosotros mismos, con los demás, con lo que tenemos delante y con nuestro
 entorno. La creatividad gastronómica es la forma en que llevamos esta idea
@@ -418,7 +418,7 @@ mediterránea: ni rústica tradicional ni minimalismo beige de bienestar.
 
 ### Logotipo
 
-Logotipo tipográfico con MOOD TABLE como elemento principal. Puede convivir
+Logotipo tipográfico con ARREL como elemento principal. Puede convivir
 con una versión compacta MOOD y un sello secundario MT para etiquetas,
 packaging y aplicaciones pequeñas. Evitar iconos literales como hojas,
 espigas, cupcakes o corazones.
@@ -498,21 +498,40 @@ Andrea no especifica a este nivel de detalle; ver "Reconciliación".)*
 
 ### El proyecto de cookies
 
-Categoría por desarrollar, con recetas propias y una identidad
-diferenciada — **línea propia, no parte de "Siempre"** (resuelve la
-pregunta abierta que llevaba el v1/v2 de este documento). Líneas de
-exploración:
-- Chocolate, avellana y sal marina.
-- AOVE, almendra y cítricos.
-- Trigo sarraceno, tahini y semillas.
+**Resuelto (2026-11-17): las cookies se reparten entre Siempre y
+Rotacional, no son una tercera línea aparte.** Andrea: "las cookies
+también irían allí [en Siempre], pero irían cambiando los sabores, por lo
+que se puede incluir una que sea siempre la misma... y las otras las
+podemos dejar como estacionales." Esto corrige la resolución anterior
+("línea propia, no parte de Siempre") — queda así:
+
+- **Siempre (fija):** Chocolate, avellana y sal marina — se suma como
+  cuarto producto de la línea Siempre, junto al Brownie y los dos
+  bizcochos.
+- **Rotacional (estacional, sabores que cambian):** AOVE, almendra y
+  cítricos · Trigo sarraceno, tahini y semillas.
 
 ### La mesa de temporada
 
+Cuatro estaciones — Otoño, Invierno, Primavera, Verano — con tartaletas y
+cookies rotando dentro de cada una.
+
+**Importante (2026-11-17): los ejemplos de producto por estación que
+Andrea dio (calabaza/queso/avellanas en otoño, calçots/romesco y la tarta
+de queso de cabra en invierno, etc.) eran para que yo entendiera el
+concepto de Rotacional — no instrucción de publicarlos tal cual en la
+web.** Andrea: "eso te lo dije yo como ejemplo, pero no como para
+publicitarlo en la página web ni nada más." Se mantienen documentados aquí
+abajo como referencia de desarrollo interno (y calçots/romesco sigue
+resuelto como producto que se puede mantener, ver nota de La Cantonada),
+pero **la web solo muestra las 4 estaciones como concepto, nunca qué
+producto concreto toca en cada una** — ver `web-copy-v5.md` y
+`web/catalogo.html`.
+
 - **Otoño:** tartaleta de calabaza, queso y avellanas; tartaleta de
   aceitunas y hierbas.
-- **Invierno:** tartaleta de calçots y romesco; **tarta de queso de cabra
-  con remolachas de invierno** (confirmada 2026-11-16); elaboraciones de
-  cítricos y almendra.
+- **Invierno:** tartaleta de calçots y romesco; tarta de queso de cabra
+  con remolachas de invierno; elaboraciones de cítricos y almendra.
 - **Primavera:** tartaletas de fresas y almendra; propuestas con verduras y
   hierbas.
 - **Verano:** tartaletas de fruta de hueso, melocotón, albaricoque, cerezas
@@ -539,7 +558,7 @@ Creatividad como criterio nuevo — 6 criterios, no 5:
 3. **Temporada:** ¿es el momento adecuado para este ingrediente?
 4. **Sabor:** ¿la combinación funciona de verdad y apetece repetirla?
 5. **Identidad:** ¿la propuesta tiene una mirada reconocible y encaja con
-   MOOD TABLE?
+   ARREL?
 6. **Producción:** ¿podemos elaborarla de forma consistente, mantener su
    calidad y delegarla en el futuro?
 
@@ -549,7 +568,7 @@ Creatividad como criterio nuevo — 6 criterios, no 5:
 
 ### Una marca que conecta a las personas con todo lo que las alimenta
 
-MOOD TABLE reinterpreta con creatividad recetas y elaboraciones
+ARREL reinterpreta con creatividad recetas y elaboraciones
 reconocibles, explorando nuevas combinaciones de sabores e ingredientes. La
 selección de productos locales, de proximidad y de temporada aporta
 carácter a cada propuesta. Partimos de preparaciones familiares para
@@ -582,30 +601,33 @@ experiencia en el centro.
 
 ### Más allá del producto
 
+**Renombrado (2026-11-17):** Andrea — "Mood Moments y Mood Journal van a
+cambiar de nombre. Se puede llamar Journal simplemente, y Mood Moment se
+puede pasar a llamar La Mesa." Mood Kitchen y Mood Goods no se mencionan —
+**siguen con "Mood" por ahora**, sin confirmar si lo pierden también.
+
 - **Mood Kitchen** — el espacio de investigación y creación: desarrollo de
   recetas, experimentación, pruebas de sabor y nuevas combinaciones.
-- **Mood Journal** — contenido sobre ingredientes, productores, temporadas,
-  recetas, nutrición cotidiana y cultura gastronómica, explorando las
-  distintas formas en que la comida nos conecta.
-- **Mood Table Experiences** — encuentros, desayunos, talleres,
-  colaboraciones y experiencias alrededor de la comida.
+  *(nombre sin tocar, pendiente)*
+- **Journal** *(antes "Mood Journal")* — contenido sobre ingredientes,
+  productores, temporadas, recetas, nutrición cotidiana y cultura
+  gastronómica, explorando las distintas formas en que la comida nos
+  conecta.
 - **Mood Goods** — productos propios, colecciones estacionales,
-  colaboraciones y ediciones limitadas.
-- **Mood Moments** — **resuelto del todo (2026-11-16): eventos de
-  comunidad, sin QR ni mecánica por producto.** Primera versión de hoy:
-  Andrea dijo que volvía "de la misma forma que antes" (el QR de Mood
-  Cookies). Matizado en el mismo día: se mantiene, **pero sobre todo por
-  los eventos de comunidad, no tanto como mood moments relacionado con
-  cada producto**. El QR se elimina del todo. Lo que queda: cenas en
-  reflexión, eventos de deporte (yoga, pilates), talleres de belleza y
-  similares — encuentros de comunidad, no una capa digital sobre el
-  catálogo. Se solapa con "Mood Table Experiences" (ambas son eventos en
-  persona); las trato como dos caras de la misma sección — Experiences la
-  cara gastronómica, Moments el resto — ver `web-copy-v5.md`.
+  colaboraciones y ediciones limitadas. *(nombre sin tocar, pendiente)*
+- **La Mesa** *(antes "Mood Moments" + "Mood Table Experiences" —
+  sustituye a las dos, que ya se trataban como una sola sección de
+  eventos):* **eventos de comunidad y gastronómicos juntos, sin QR ni
+  mecánica por producto.** Cenas en reflexión, eventos de deporte (yoga,
+  pilates), talleres de belleza, desayunos, catas y colaboraciones
+  alrededor de la comida — encuentros de comunidad, no una capa digital
+  sobre el catálogo. El nombre encaja especialmente bien con el eje de la
+  marca: la mesa compartida es literalmente el éxito que persigue
+  `story-brand-arrel.md`.
 
 *(Resuelve la pregunta abierta sobre si "Experiencias Mood" sobrevivía al
-pivote: sí. El B2B "Organiza una experiencia Mood" sigue sin confirmarse —
-ver "Reconciliación".)*
+pivote: sí, como La Mesa. El B2B "Organiza una experiencia Mood" sigue sin
+confirmarse — ver "Reconciliación".)*
 
 ---
 
@@ -639,7 +661,7 @@ ver "Reconciliación".)*
 > Porque alimentarnos es parte de la vida. Y merece la pena vivirlo con
 > atención.
 >
-> **MOOD TABLE. El placer de comer bien. La conexión con lo que nos
+> **ARREL. El placer de comer bien. La conexión con lo que nos
 > alimenta.**
 
 ---
@@ -648,7 +670,7 @@ ver "Reconciliación".)*
 
 | | |
 |---|---|
-| **Marca** | MOOD TABLE · Conectar con lo que nos alimenta. |
+| **Marca** | ARREL · Conectar con lo que nos alimenta. |
 | **Origen** | Barcelona, Cataluña |
 | **Territorio** | Cultura gastronómica cotidiana |
 | **Categoría** | Productos de obrador dulces y salados, recetas de temporada y propuestas gastronómicas creativas. |
@@ -689,17 +711,14 @@ ser identitario de la marca, sino rotacional" — ver sección 10.
 comunidad, sin QR ni mecánica por producto** — ver sección 12.
 
 **Sigue abierto, único punto real — B2B / "Organiza una experiencia
-Mood":** no respondido todavía. Encaja de forma natural dentro de Mood
-Moments (empresas que reservan una sesión de yoga, cena o taller), pero no
-lo doy por confirmado sin que Andrea lo diga.
+Mood":** no respondido todavía. Encaja de forma natural dentro de La Mesa
+(empresas que reservan una sesión de yoga, cena o taller), pero no lo doy
+por confirmado sin que Andrea lo diga.
 
-**Nuevo (2026-11-17) — ¿los sub-nombres del ecosistema pierden "Mood"
-también?** El pivote de nombre a Arrel confirma el nombre de marca
-principal, pero no dice nada de Mood Journal / Mood Moments / Mood
-Kitchen / Mood Goods / Mood Table Experiences — los dejo tal cual (con
-"Mood") hasta que Andrea confirme si pasan a "Arrel Journal", "Arrel
-Moments", etc., o si "Mood" se mantiene como nombre de esa sub-colección
-con independencia del nombre de marca.
+~~¿Los sub-nombres del ecosistema pierden "Mood" también?~~ — **resuelto
+en parte (2026-11-17):** Mood Journal → **Journal**, Mood Moments/Mood
+Table Experiences → **La Mesa**. Mood Kitchen y Mood Goods **siguen sin
+confirmar** — no asumo que también pierdan "Mood".
 
 ~~Producto sin confirmar — "Cake de llimona i llavors de rosella"~~ —
 **resuelto (2026-11-17): solo ejemplo de maquetación, no es producto

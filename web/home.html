@@ -256,91 +256,15 @@
   .pilar h3{ font-size: 1.25rem; margin-bottom: 0.55em; }
   .pilar p{ font-size: 0.97rem; color: var(--ink); margin:0; }
 
-  /* ---------- catalogo ---------- */
-  .catalogo-linea{ margin-bottom: clamp(48px, 8vw, 88px); }
-  .catalogo-linea:last-child{ margin-bottom: 0; }
-
-  .linea-label{
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 16px;
-    border-bottom: 1px solid var(--ink-18);
-    padding-bottom: 0.7em;
-    margin-bottom: clamp(24px, 4vw, 40px);
-    flex-wrap: wrap;
-  }
-  .linea-label h3{ font-size: clamp(1.2rem, 2vw, 1.5rem); }
-  .linea-note{ font-size: 0.86rem; font-style: italic; color: var(--ink-55); }
-
-  /* Siempre — grid de tarjetas estables */
-  .siempre-grid{
+  /* ---------- catalogo (teaser) ---------- */
+  .catalogo-teaser-grid{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: clamp(20px, 3vw, 32px);
-  }
-  .producto-card{ display:flex; flex-direction:column; gap: 14px; }
-  .producto-card h4{
-    font-family: var(--display);
-    font-weight: 400;
-    font-size: 1.12rem;
-    margin:0;
-  }
-  .producto-card p{ font-size: 0.95rem; margin:0; color: var(--ink); }
-
-  /* Rotacional — pestañas de temporada, sensación de movimiento */
-  .temporadas-tabs{
-    display: flex;
-    gap: 10px;
-    flex-wrap: wrap;
-    margin-bottom: 24px;
-  }
-  .temporada-tab{
-    font-size: 0.85rem;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    padding: 0.5em 1.1em;
-    border: 1px dashed var(--ink-18);
-    color: var(--ink-55);
-  }
-  .temporada-tab.activa{
-    border: 1px solid var(--fig);
-    color: var(--fig);
-    border-style: solid;
-  }
-  .rotacional-body{
-    display: grid;
-    grid-template-columns: 0.9fr 1.1fr;
-    gap: clamp(24px, 4vw, 40px);
     align-items: start;
   }
-  .rotacional-lista{ list-style:none; margin:0; padding:0; }
-  .rotacional-lista li{
-    padding: 0.85em 0;
-    border-bottom: 1px dashed var(--ink-18);
-    font-size: 1rem;
-  }
-  .rotacional-lista li:first-child{ padding-top: 0; }
-  .rotacional-lista strong{ font-family: var(--display); font-weight:400; }
-
-  /* Cookies — en desarrollo, piel distinta y más ligera */
-  .cookies-box{
-    border: 1px dotted var(--ink-18);
-    padding: clamp(24px, 4vw, 40px);
-  }
-  .cookies-grid{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: clamp(16px, 2.5vw, 28px);
-    margin-top: 22px;
-  }
-  .cookie-item{
-    font-size: 0.95rem;
-    color: var(--ink-55);
-    border-top: 1px solid var(--ink-10);
-    padding-top: 12px;
-  }
-  .cookie-item strong{ color: var(--ink); font-weight: 600; }
+  .catalogo-teaser-text{ grid-column: 1 / -1; max-width: 56ch; margin-top: 8px; }
+  .catalogo-teaser-text p{ margin: 0 0 1em; }
 
   /* ---------- como funciona ---------- */
   .pasos{
@@ -452,9 +376,7 @@
     .mirada-grid{ grid-template-columns: 1fr; }
     .mirada .photo{ order: -1; }
     .pilares-grid{ grid-template-columns: repeat(2, 1fr); }
-    .siempre-grid{ grid-template-columns: repeat(2, 1fr); }
-    .rotacional-body{ grid-template-columns: 1fr; }
-    .cookies-grid{ grid-template-columns: repeat(2, 1fr); }
+    .catalogo-teaser-grid{ grid-template-columns: repeat(2, 1fr); }
     .pasos{ grid-template-columns: 1fr; }
     .teaser{ grid-template-columns: 1fr; }
     .teaser.reverse .photo{ order: -1; }
@@ -465,11 +387,9 @@
     .nav-row{ justify-content: center; text-align: center; }
     nav ul{ justify-content: center; gap: 12px 18px; }
     .pilares-grid{ grid-template-columns: 1fr; }
-    .siempre-grid{ grid-template-columns: 1fr; }
-    .cookies-grid{ grid-template-columns: 1fr; }
+    .catalogo-teaser-grid{ grid-template-columns: 1fr; }
     .journal-cats{ grid-template-columns: 1fr; }
     .foot-legal{ justify-content: center; text-align: center; }
-    .linea-label{ flex-direction: column; align-items: flex-start; gap: 6px; }
   }
 </style>
 </head>
@@ -480,10 +400,10 @@
     <a href="#top" class="logo">ARREL</a>
     <nav aria-label="Navegación principal">
       <ul>
-        <li><a href="#catalogo">Repostería</a></li>
+        <li><a href="catalogo.html">Repostería</a></li>
         <li><a href="#mirada">Nuestra forma de ver el mundo</a></li>
-        <li><a href="#journal">Mood Journal</a></li>
-        <li><a href="#moments">Mood Moments</a></li>
+        <li><a href="#journal">Journal</a></li>
+        <li><a href="#moments">La Mesa</a></li>
         <li><a href="#contacto">Contacto</a></li>
       </ul>
     </nav>
@@ -575,78 +495,24 @@
 
   <hr class="rule">
 
-  <!-- CATALOGO -->
+  <!-- CATALOGO (teaser — el listado completo vive en catalogo.html) -->
   <section id="catalogo">
     <div class="wrap">
       <div class="section-head">
         <span class="eyebrow">Catálogo</span>
-        <h2>Tres formas distintas de estar en la carta.</h2>
+        <h2>Lo que siempre está, y lo que cambia con la temporada.</h2>
       </div>
-
-      <!-- SIEMPRE -->
-      <div class="catalogo-linea">
-        <div class="linea-label">
-          <h3>Siempre</h3>
-          <span class="linea-note">la base fija del obrador</span>
-        </div>
-        <div class="siempre-grid">
-          <div class="producto-card">
-            <div class="photo square"><span>[foto: brownie de chocolate y AOVE, en la mesa]</span></div>
-            <h4>Brownie de chocolate y AOVE</h4>
-            <p>Nueces de Tarragona, cacao 85% de tostador local. Para partir y repartir, o para comértelo entero sin que nadie te juzgue.</p>
-          </div>
-          <div class="producto-card">
-            <div class="photo square"><span>[foto: bizcocho de calabacín, queso de oveja y aceitunas, en la mesa]</span></div>
-            <h4>Bizcocho de calabacín, queso de oveja, aceitunas y AOVE</h4>
-            <p>No es el bizcocho dulce que esperas, y esa es la idea.</p>
-          </div>
-          <div class="producto-card">
-            <div class="photo square"><span>[foto: bizcocho de pera, romero y avellanas, en la mesa]</span></div>
-            <h4>Bizcocho de pera, romero, avellanas de Reus y chocolate</h4>
-            <p>El romero no es un error de receta: es la firma.</p>
-          </div>
+      <div class="catalogo-teaser-grid">
+        <div class="photo square"><span>[foto: brownie de chocolate y AOVE, en la mesa]</span></div>
+        <div class="photo square"><span>[foto: bizcocho de pera, romero y avellanas, en la mesa]</span></div>
+        <div class="photo square"><span>[foto: tartaleta de temporada, en la mesa]</span></div>
+        <div class="catalogo-teaser-text">
+          <p>Una base fija de piezas reconocibles, y una carta que rota con el
+          calendario para traer frescura. Cookies incluidas: una siempre
+          igual, las demás cambian de temporada.</p>
+          <a href="catalogo.html" class="link-arrow">Ver todo el catálogo →</a>
         </div>
       </div>
-
-      <!-- ROTACIONAL -->
-      <div class="catalogo-linea">
-        <div class="linea-label">
-          <h3>Rotacional</h3>
-          <span class="linea-note">cambia con la temporada</span>
-        </div>
-        <div class="temporadas-tabs">
-          <span class="temporada-tab activa">Otoño · ahora</span>
-          <span class="temporada-tab">Invierno</span>
-          <span class="temporada-tab">Primavera</span>
-          <span class="temporada-tab">Verano</span>
-        </div>
-        <div class="rotacional-body">
-          <div class="photo tall"><span>[foto: tartaleta de temporada, en la mesa]</span></div>
-          <ul class="rotacional-lista">
-            <li><strong>Otoño</strong> — tartaleta de calabaza, queso y avellanas; tartaleta de aceitunas y hierbas.</li>
-            <li><strong>Invierno</strong> — tartaleta de calçots y romesco; tarta de queso de cabra con remolachas de invierno; elaboraciones de cítricos y almendra.</li>
-            <li><strong>Primavera</strong> — tartaletas de fresas y almendra; propuestas con verduras y hierbas.</li>
-            <li><strong>Verano</strong> — tartaletas de fruta de hueso, melocotón, albaricoque, cerezas e higos.</li>
-          </ul>
-        </div>
-      </div>
-
-      <!-- COOKIES -->
-      <div class="catalogo-linea">
-        <div class="linea-label">
-          <h3>Cookies</h3>
-          <span class="linea-note">línea propia · en desarrollo</span>
-        </div>
-        <div class="cookies-box">
-          <p style="margin:0; max-width:52ch; color:var(--ink-55); font-style:italic;">Todavía en obrador — llegan pronto con su propia foto y ficha.</p>
-          <div class="cookies-grid">
-            <div class="cookie-item"><strong>Chocolate, avellana y sal marina</strong></div>
-            <div class="cookie-item"><strong>AOVE, almendra y cítricos</strong></div>
-            <div class="cookie-item"><strong>Trigo sarraceno, tahini y semillas</strong></div>
-          </div>
-        </div>
-      </div>
-
     </div>
   </section>
 
@@ -676,14 +542,14 @@
 
   <hr class="rule">
 
-  <!-- MOOD MOMENTS TEASER -->
+  <!-- LA MESA TEASER -->
   <section id="moments">
     <div class="wrap teaser">
-      <div class="photo wide"><span>[foto: mesa compartida en un encuentro Mood Moments]</span></div>
+      <div class="photo wide"><span>[foto: mesa compartida en un encuentro de La Mesa]</span></div>
       <div class="teaser-text">
-        <span class="eyebrow">Mood Moments</span>
+        <span class="eyebrow">La Mesa</span>
         <h2>Momentos para vivir con otros, más allá de la mesa.</h2>
-        <p>Cenas en reflexión, yoga y pilates, talleres de belleza — encuentros de comunidad que no dependen de comprar nada en concreto. Es la parte de Arrel que no se envuelve ni se hornea: se vive.</p>
+        <p>Cenas en reflexión, yoga y pilates, talleres de belleza, desayunos, catas y colaboraciones — encuentros de comunidad que no dependen de comprar nada en concreto. Es la parte de Arrel que no se envuelve ni se hornea: se vive.</p>
         <a href="#contacto" class="link-arrow">Descubre los próximos encuentros →</a>
       </div>
     </div>
@@ -691,11 +557,11 @@
 
   <hr class="rule">
 
-  <!-- MOOD JOURNAL TEASER -->
+  <!-- JOURNAL TEASER -->
   <section id="journal">
     <div class="wrap teaser reverse">
       <div class="teaser-text">
-        <span class="eyebrow">Mood Journal</span>
+        <span class="eyebrow">Journal</span>
         <h2>Para quien quiere profundizar un poco más.</h2>
         <p>Ingredientes, temporada, presencia en la mesa y las voces de quienes están detrás de lo que comemos.</p>
         <div class="journal-cats">

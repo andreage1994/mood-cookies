@@ -37,9 +37,16 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
   solo inspiración de tono, confirmado. "Cake de llimona i llavors de
   rosella" era solo ejemplo de maquetación, no producto real — confirmado,
   no se suma al catálogo.
-- **Sigue sin cerrar:** si los sub-nombres del ecosistema (Mood Journal,
-  Mood Moments, Mood Kitchen, Mood Goods, Mood Table Experiences) pierden
-  "Mood" también o lo mantienen.
+- **Resuelto (2026-11-17) — catálogo y ecosistema:** las cookies ya no son
+  tercera línea — una (chocolate, avellana y sal marina) se suma a
+  **Siempre**; las otras dos rotan dentro de **Rotacional**. Los ejemplos
+  de qué producto va en cada estación (calabaza en otoño, calçots en
+  invierno, etc.) eran solo para que yo entendiera el concepto — **no se
+  publican en la web**, solo las 4 estaciones como estructura. Mood
+  Journal → **Journal**; Mood Moments + Mood Table Experiences → **La
+  Mesa** (fusionadas en una sola sección). Mood Kitchen y Mood Goods
+  siguen sin renombrar — no asumido. El catálogo pasa a tener **página
+  propia** (`web/catalogo.html`), el Home solo lleva un teaser con enlace.
 - **`web-copy-v5.md`** ya renombrado a Arrel en el cambio masivo de hoy —
   sigue siendo el copy vigente de la web, con Hero reescrito (menos
   robótico) y "El problema" reescrito con StoryBrand real (ver
@@ -91,18 +98,19 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    claude.ai; copia de trabajo en `manual-de-marca/manual-de-marca.md` y
    `tokens.json`). Es privado — hay que compartirlo desde el propio enlace
    si alguien más (ej. un diseñador externo) necesita abrirlo.
-2. **Home publicado (2026-11-17)** —
-   https://claude.ai/artifact/Gbyciaj2i2xJsoUA3JHquZ (también en
-   `web/home.html`). HTML/CSS real, con Libre Caslon Display + Lora +
-   Special Elite cargadas, los 3 colores del sistema, copy literal de
-   `web-copy-v5.md`, y distinción visual entre Siempre/Rotacional/Cookies.
-   Corregido antes de publicar: usaba botones y pestañas en píldora
-   (`border-radius: 999px`), contradecía "sin círculos ni nada" — ya en
-   ángulo recto. **3 dudas reales del diseñador, sin resolver:** (a) si el
-   catálogo vive entero en el Home o pasa a tener página propia; (b) si
-   "El problema" (bloque invertido) pesa visualmente más de lo que debería
-   frente a "Nuestra mirada creativa"; (c) newsletter sin copy de marca
-   todavía (solo rótulo funcional, no hay texto decidido en Fase B).
-3. Que Andrea responda: estado del B2B, si los sub-nombres de ecosistema
-   pierden "Mood", y si confirma o cambia el cuarto verbo propuesto
+2. **Home + Repostería publicados (2026-11-17)** —
+   https://claude.ai/artifact/Gbyciaj2i2xJsoUA3JHquZ (`web/home.html` +
+   `web/catalogo.html`, dos páginas del mismo Artifact, enlazadas entre
+   sí). El catálogo pasó a tener su propia página (pedido de Andrea), el
+   Home ahora solo lleva un teaser con enlace. Corregido antes de publicar
+   la primera versión: botones/pestañas en píldora que contradecían "sin
+   círculos ni nada", ya en ángulo recto. Aplicadas las correcciones de
+   catálogo (cookies repartidas Siempre/Rotacional, sin productos pinned
+   por estación) y de nomenclatura (Journal, La Mesa).
+   **2 dudas reales del diseñador, sin resolver:** (a) si "El problema"
+   (bloque invertido) pesa visualmente más de lo que debería frente a
+   "Nuestra mirada creativa"; (b) newsletter sin copy de marca todavía
+   (solo rótulo funcional, no hay texto decidido en Fase B).
+3. Que Andrea responda: estado del B2B, si Mood Kitchen/Mood Goods pierden
+   "Mood" también, y si confirma o cambia el cuarto verbo propuesto
    ("Compartir") — los tres únicos puntos de Fase B que siguen abiertos.
