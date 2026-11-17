@@ -174,6 +174,15 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    cotidiana/editorial), no encajan con esa dirección específica
    (ingrediente aislado sobre Soft Paper), así que ese hueco sigue
    pendiente de su propia sesión de foto.
+   **Corrección (2026-11-17):** Andrea señaló que el reparto iba al
+   revés — el Hero (lo más grande, la primera impresión) llevaba la
+   cookie de producto, y el teaser de Catálogo (que debería mostrar
+   piezas reales) llevaba la cesta de peras y el obrador por ventana.
+   Cambiado: **Hero** → obrador por ventana con tartaletas (la foto
+   editorial más fuerte, abre con más impacto). **Catálogo teaser** →
+   las 3 ahora son foto de producto real: brownie, bizcocho de pera,
+   tarta de queso de cabra (la misma que usa `web/catalogo.html` en
+   Rotacional). Versión 10 del Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por
