@@ -85,13 +85,11 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
 
 ## Próximo paso
 
-1. **Identidad visual, un solo detalle reabierto (2026-11-17, sexta
-   pasada):** Andrea ve el color base (Almond Cream) demasiado oscuro —
-   tres alternativas más claras en `identidad-visual/README.md`
-   (`comparativa-base-clara.png`), pendiente de que elija. Todo lo demás
-   del sistema sigue cerrado. Después de esto: `arrel-direccion-arte`/
-   `arrel-diseno-identidad` pasan a arte final, y `web-copy-v5.md`
-   necesita una pasada para aplicar Libre Caslon Display/Lora.
+1. **Identidad visual cerrada del todo (2026-11-17):** color base final
+   Soft Paper `#FBF8F2` (sustituye a Almond Cream, que Andrea veía
+   oscuro). Nada pendiente de decisión — sigue `arrel-direccion-arte`/
+   `arrel-diseno-identidad` pasando esto a arte final, y una pasada de
+   `web-copy-v5.md` para aplicar Libre Caslon Display/Lora.
 2. Que Andrea responda: estado del B2B, si los sub-nombres de ecosistema
    pierden "Mood", y si confirma o cambia el cuarto verbo propuesto
    ("Compartir") — los tres únicos puntos de Fase B que siguen abiertos.
