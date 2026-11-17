@@ -114,6 +114,13 @@
     padding: 0.3em 0.7em;
     line-height: 1.4;
   }
+  .photo.has-img{ overflow: hidden; padding: 0; }
+  .photo.has-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
 
   /* ---------- header ---------- */
   header{
@@ -281,25 +288,25 @@
       </div>
       <div class="siempre-grid">
         <div class="producto-card">
-          <div class="photo square"><span>[foto: brownie de chocolate y AOVE]</span></div>
+          <div class="photo square has-img"><img src="images/001-brownie.webp" alt="Brownie de chocolate y AOVE"></div>
           <div class="card-codes"><span class="num">Nº 001</span><span class="tag">Cake</span></div>
           <h4>Brownie de chocolate y AOVE</h4>
           <p>Nueces de Tarragona, cacao 85% de tostador local. Para partir y repartir, o para comértelo entero sin que nadie te juzgue.</p>
         </div>
         <div class="producto-card">
-          <div class="photo square"><span>[foto: bizcocho de calabacín, queso de oveja y aceitunas]</span></div>
+          <div class="photo square has-img"><img src="images/002-bizcocho-calabacin.webp" alt="Bizcocho de calabacín, queso de oveja y aceitunas"></div>
           <div class="card-codes"><span class="num">Nº 002</span><span class="tag">Cake salado</span></div>
           <h4>Bizcocho de calabacín, queso de oveja, aceitunas y AOVE</h4>
           <p>No es el bizcocho dulce que esperas, y esa es la idea.</p>
         </div>
         <div class="producto-card">
-          <div class="photo square"><span>[foto: bizcocho de pera, romero y avellanas]</span></div>
+          <div class="photo square has-img"><img src="images/003-bizcocho-pera.webp" alt="Bizcocho de pera, romero y avellanas"></div>
           <div class="card-codes"><span class="num">Nº 003</span><span class="tag">Cake</span></div>
           <h4>Bizcocho de pera, romero, avellanas de Reus y chocolate</h4>
           <p>El romero no es un error de receta: es la firma.</p>
         </div>
         <div class="producto-card">
-          <div class="photo square"><span>[foto: cookie de chocolate, avellana y sal marina]</span></div>
+          <div class="photo square has-img"><img src="images/004-cookie-chocolate-avellana.webp" alt="Cookie de chocolate, avellana y sal marina"></div>
           <div class="card-codes"><span class="num">Nº 004</span><span class="tag">Cookie</span></div>
           <h4>Chocolate, avellana y sal marina</h4>
           <p>La única cookie que no cambia nunca — el resto rota con la temporada.</p>
@@ -324,7 +331,7 @@
         <span class="temporada-tab">Verano</span>
       </div>
       <div class="rotacional-body">
-        <div class="photo square"><span>[foto: tartaleta de temporada, la de ahora]</span></div>
+        <div class="photo square has-img"><img src="images/rotacional-tartaleta.webp" alt="Tartaleta de fruta y verdura de temporada"></div>
         <div>
           <p><strong>Tartaletas de fruta y verdura de temporada.</strong> La carta cambia con el calendario — lo que toca hoy no es lo que tocaba hace un mes, ni lo que tocará el siguiente. Ven a descubrirlo, o pregúntanos qué hay esta semana.</p>
           <p>Las cookies de temporada rotan con la misma lógica:</p>
