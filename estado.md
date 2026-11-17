@@ -88,12 +88,17 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
 
 ## Próximo paso
 
-1. Que Andrea elija entre las dos opciones de paleta minimalista (2026-11-17,
-   tercera pasada: rechazó la de 5 colores por "ver mucho color") —
-   Opción 1 monocromo puro vs. Opción 2 monocromo + un acento puntual,
-   ver `identidad-visual/README.md`. Lora para cuerpo y fotografía de
-   mesa en vez de especimen siguen vigentes de la segunda pasada.
-2. Que responda: estado del B2B, si los sub-nombres de ecosistema pierden
+1. **Paleta confirmada (2026-11-17): Opción 2**, monocromo + acento
+   puntual (Almond Cream + Warm Ink + Fig Jam). Lora para cuerpo y
+   fotografía de mesa en vez de especimen siguen vigentes.
+2. **Logotipo en trabajo (2026-11-17, cuarta pasada):** Andrea rechazó
+   Fraunces para el logo ("no me convence la tipografía"). Probadas 6
+   tipografías reales, recomendada **Libre Caslon Display** — ver
+   `identidad-visual/README.md` y `comparativa-logotipo.png`. Generados 4
+   formatos de logo (wordmark, monograma, lockup vertical, sello
+   circular) como boceto de concepto — ver `formatos-logo.png`. Pendiente
+   de que Andrea confirme tipografía y formatos.
+3. Que responda: estado del B2B, si los sub-nombres de ecosistema pierden
    "Mood", y si confirma o cambia el cuarto verbo propuesto ("Compartir").
-3. Con eso, `arrel-direccion-arte`/`arrel-diseno-identidad` desarrollan
+4. Con eso, `arrel-direccion-arte`/`arrel-diseno-identidad` desarrollan
    sistema de identidad concreto (logo, aplicaciones).

@@ -1,22 +1,54 @@
 # Identidad visual — Arrel
 
-**Actualizado (2026-11-17, tercera pasada): paleta de 5 colores
-rechazada, va a minimalismo.** Andrea: "no me gustan los colores...
-buscaba algo más minimalista y sencillo. veo mucho color." La paleta de
-la segunda pasada (Almond Cream/Fig Jam/Toasted Wheat/Honey Gold/Warm
-Ink) queda descartada por exceso de color, no por ser fría esta vez —
-el problema ahora es cantidad, no temperatura. Nueva dirección: **2-3
-colores como máximo**, dejando que el color real lo aporte la fotografía
-de producto, no la paleta gráfica. Dos opciones, ver muestras:
+**Paleta oficial (confirmada 2026-11-17): Opción 2 — monocromo + un
+acento puntual.** Almond Cream `#F3EAD9` (base) + Warm Ink `#3B2E28`
+(logo, texto, líneas) + Fig Jam `#9A2E3A` (acento puntual — nunca bloque
+de color, solo detalles mínimos: una línea, el Nº de ficha). Ver
+`minimal-opcion-2.png`.
 
-- **Opción 1 — monocromo puro** (`minimal-opcion-1.png`): Almond Cream
-  `#F3EAD9` + Warm Ink `#3B2E28`. Dos colores en total, en todo el
-  sistema — logo, texto, líneas, sellos.
-- **Opción 2 — monocromo + un acento puntual** (`minimal-opcion-2.png`):
-  los mismos dos, más Fig Jam `#9A2E3A` usado solo en detalles mínimos
-  (línea bajo el lockup, Nº de ficha) — nunca como bloque de color.
+---
 
-Pendiente de que Andrea elija entre las dos (o pida ajustar cuál acento).
+**Actualizado (2026-11-17, cuarta pasada): trabajo de logotipo.** Andrea:
+"no me convence la tipografía [del logo]. hagamos también diferentes
+formatos de logo." Fraunces queda retirada como logotipo (seguía
+pareciendo demasiado "con carácter" para la dirección minimalista que ya
+se había fijado en la paleta). Probé 6 tipografías reales — ver
+`comparativa-logotipo.png`:
+
+- A. Fraunces wonky (la rechazada).
+- B. Fraunces limpia, sin wonk (más sobria, pero conserva los remates
+  curiosos que no convencían).
+- C. Instrument Serif — fina, contemporánea, pero el trazo puede perder
+  presencia a tamaño pequeño (packaging, favicon).
+- **D. Libre Caslon Display — recomendada.** Serif clásica de alto
+  contraste, confiada y editorial sin ser decorativa; encaja con
+  "mesa mediterránea contemporánea" y con el minimalismo que ya pediste en
+  la paleta. Verificada glifo a glifo (punt volat y acentos ES/CAT, igual
+  que las anteriores).
+- E. Cormorant (peso alto) — elegante pero más ornamental/romántica, menos
+  confiada que D.
+- F. Newsreader — correcta pero más neutra, sin personalidad propia.
+
+**Formatos de logo** (`formatos-logo.png`, con Libre Caslon Display,
+paleta oficial) — boceto de concepto, no arte final:
+
+1. **Wordmark horizontal** — uso primario (web, packaging grande).
+2. **Monograma "A"** — favicon, sellos pequeños, redes.
+3. **Lockup vertical** con tagline + "Barcelona · Obrador" — portadas,
+   packaging grande.
+4. **Sello/badge circular** — packaging, stickers, redes — recupera el
+   gesto de "sello" del moodboard original, pero en versión limpia y
+   minimal, no con la textura desgastada que se retiró.
+
+**Para simplificar el sistema** (coherente con pedir minimalismo):
+propongo que Libre Caslon Display sustituya a Fraunces también en
+titulares de web/editorial, no solo en el logo — así queda una sola
+familia de display en todo el sistema en vez de dos. Lora se mantiene
+para cuerpo de texto.
+
+**Pendiente:** que Andrea confirme la tipografía D (o elija otra de las
+6), y dé el visto bueno a los 4 formatos de logo antes de pasar a arte
+final.
 
 ---
 
