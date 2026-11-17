@@ -1,4 +1,4 @@
-# Dirección editorial — la voz de Mood Table
+# Dirección editorial — la voz de Arrel
 
 > **Superseded (2026-11-16, noche):** la sección 07 de
 > `fase-b-plataforma-marca.md` ("Personalidad y tono de voz", del documento
@@ -15,7 +15,7 @@ secciones de construcción de marca (Propósito, Valores, Por qué existimos).
 **Eso no construye marca, es contenido de la ficha de producto.** La v2 de
 este documento (más abajo) incluso lo pedía explícitamente como regla
 ("el producto aparece como ejemplo concreto de la idea" en Hero/Problema/Por
-qué Mood Table/Nuestra forma de ver el mundo) — esa instrucción queda
+qué Arrel/Nuestra forma de ver el mundo) — esa instrucción queda
 **corregida**, ver la nueva regla al final de "Proporción sustancia/
 reflexión". Ver aplicación en `web-copy-v4.md`.
 
@@ -75,12 +75,12 @@ en proporción distinta:
 
 ### Regla de separación marca/producto (nueva, v3, 2026-11-16)
 **Corrige la regla anterior de este mismo documento** ("el producto aparece
-como ejemplo concreto de la idea" en Hero/Problema/Por qué Mood Table/
+como ejemplo concreto de la idea" en Hero/Problema/Por qué Arrel/
 Nuestra forma de ver el mundo). Andrea aclaró que eso mezcla dos trabajos
 distintos: construir marca y describir producto.
 
 - **Secciones de construcción de marca** — Hero, "El problema", "Por qué
-  Mood Table", "Nuestra forma de ver el mundo" (Propósito, Misión, Visión,
+  Arrel", "Nuestra forma de ver el mundo" (Propósito, Misión, Visión,
   Valores, Pilares, Principios/Criterios) — **se quedan en el lenguaje del
   brief**: recibir, agradecer, compartir, cuidar, conectar, nutrirse,
   cuidarse, Ritualizar, "hacer de lo ordinario algo significativo", los 5

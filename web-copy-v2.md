@@ -1,6 +1,6 @@
-# Web de Mood Table — borrador v2 (giro de voz-de-oficio)
+# Web de Arrel — borrador v2 (giro de voz-de-oficio)
 
-**Encargo:** `mood-table-redaccion`, a partir de la corrección de Andrea sobre
+**Encargo:** `arrel-redaccion`, a partir de la corrección de Andrea sobre
 `web-copy-v1.md` (seguía sonando a Mood Cookies: registro de
 wellness/autocuidado, no léxico de producto) y de `direccion-editorial-voz.md`
 (el giro exacto a aplicar).
@@ -41,7 +41,7 @@ persona y la propuesta B2B se mantienen o no — ver nota final del documento.
 
 ## 1. Inicio
 
-Hero → El problema → Por qué Mood Table → Nuestros pilares → Catálogo → Cómo
+Hero → El problema → Por qué Arrel → Nuestros pilares → Catálogo → Cómo
 funciona (nota) → Journal (teaser) → Newsletter
 
 ### Hero
@@ -49,7 +49,7 @@ funciona (nota) → Journal (teaser) → Newsletter
 **TAGLINE — ABIERTO**, igual que en v1: dos opciones sobre la mesa, ninguna
 wellness-coded en sí misma, es una decisión de cuál usar, no de reescribir
 ninguna:
-- *"A little more pleasure in the everyday"* (brief de Andrea para Mood Table).
+- *"A little more pleasure in the everyday"* (brief de Andrea para Arrel).
 - *"Small moments. Better moods."* (tagline original, como línea de apoyo si
   se quiere sostener el hilo con el origen).
 
@@ -99,7 +99,7 @@ producto. El título nuevo dice qué vas a encontrar.)*
 
 ---
 
-### Por qué Mood Table
+### Por qué Arrel
 
 > Siempre me ha gustado ese momento en el que te preparas un café y coges
 > algo recién horneado.
@@ -140,7 +140,7 @@ producto. El título nuevo dice qué vas a encontrar.)*
 
 **Ritualizar**
 > No hace falta más tiempo. Hace falta estar presente en el que ya tienes.
-> Cada receta de Mood Table está pensada para convertir un momento
+> Cada receta de Arrel está pensada para convertir un momento
 > cualquiera en una pausa con intención.
 
 **Sabor sin concesiones**
@@ -221,7 +221,7 @@ Ritualizar no vive aquí como mecánica. Vive como mensaje de marca en
 > B. FAQ
 
 **El test "¿qué momento necesitas hoy?" sigue ABIERTO** — en Mood Cookies
-filtraba por mood/ritual (4 familias que no existen en Mood Table). Sin un
+filtraba por mood/ritual (4 familias que no existen en Arrel). Sin un
 criterio nuevo confirmado (¿por ingrediente? ¿dulce/salado? ¿se quita
 directamente?), no lo construyo ni le invento un criterio. Lo señalo igual
 que v1, sin resolverlo.
@@ -263,7 +263,7 @@ literalmente su sitio.
 > convertir un momento cualquiera en una pausa con intención. No hace falta
 > más tiempo para eso — hace falta notar el momento que ya tienes.
 >
-> Mood Table no vende un ritual con pasos. Es repostería real, hecha para
+> Arrel no vende un ritual con pasos. Es repostería real, hecha para
 > que la pausa pase sola, sin que tengas que montar nada para conseguirla.
 
 > **Tensión real con Fase B, no solo pregunta abierta:** v1 cerraba esta
@@ -300,7 +300,7 @@ dejo visible el borrador propuesto en Fase B, marcado como propuesta, no
 como texto final:
 
 > *Propuesta, sin confirmar:* Convertirse en la referencia de cómo
-> ritualizar lo dulce de cada temporada — que pedir algo de Mood Table sea,
+> ritualizar lo dulce de cada temporada — que pedir algo de Arrel sea,
 > en sí mismo, una forma de pararse a disfrutar.
 
 ### Lo que nunca cambia
@@ -340,7 +340,7 @@ como texto final:
 - **Alimentación** — Ingredientes · Recetas · Temporada · Mercados.
 - **Ritualizar** *(antes "Rituales")* — **ABIERTO**: las subcategorías
   originales (Morning / Reset / Focus / Evening) venían de las 4 familias de
-  Mood Cookies, no confirmadas para Mood Table. Sigue en pie la propuesta
+  Mood Cookies, no confirmadas para Arrel. Sigue en pie la propuesta
   alternativa de v1, sin decidir: subcategorías por estación (Otoño /
   Invierno / Primavera / Verano), que además sostiene la tesis de
   temporada-como-cuidado de Fase B.

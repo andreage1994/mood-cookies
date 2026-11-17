@@ -1,11 +1,11 @@
-# StoryBrand de Mood Table
+# StoryBrand de Arrel
 
 **Por qué existe este documento:** Andrea señaló (2026-11-16) que "El
 problema" en `web-copy-v5.md` seguía "muy cerrado a lo que era antes" —
 heredaba casi literal el ángulo de Mood Cookies (reglas, dietas, permiso
 para disfrutar). Pidió aplicar el framework de *Building a StoryBrand*
 (Donald Miller) de verdad, empezando por nombrar el villano con precisión.
-Este documento fija los 7 elementos del método para Mood Table, para que
+Este documento fija los 7 elementos del método para Arrel, para que
 cualquier página nueva (no solo el Hero) parta de la misma estructura.
 
 ## Los 7 elementos
@@ -30,7 +30,7 @@ cualquier página nueva (no solo el Hero) parta de la misma estructura.
      ingrediente, con la temporada, con uno mismo, con los demás — no un
      trámite.
 
-3. **Guía** — Mood Table. Empatía: entendemos la prisa, no juzgamos a nadie
+3. **Guía** — Arrel. Empatía: entendemos la prisa, no juzgamos a nadie
    por comer rápido alguna vez. Autoridad: criterio real detrás de cada
    receta (los 6 criterios de desarrollo — creatividad, proximidad,
    temporada, sabor, identidad, producción — sección 10 de Fase B), no

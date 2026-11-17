@@ -1,10 +1,10 @@
 # Referencias visuales — estética "obrador", no "pastelería de autor"
 
 Cinco imágenes dadas por Andrea (2026-11-16) para fijar la dirección estética
-de Mood Table frente a la lectura equivocada de Fase A ("pastelería de autor
+de Arrel frente a la lectura equivocada de Fase A ("pastelería de autor
 de temporada"). Son referencias de estilo/formato, no fotos de producto de
-Mood Table ni material con derechos propios — uso interno para briefear
-`mood-table-direccion-arte`, no para publicar tal cual.
+Arrel ni material con derechos propios — uso interno para briefear
+`arrel-direccion-arte`, no para publicar tal cual.
 
 **Lectura de Andrea sobre por qué estas imágenes y no otras:** rústico,
 ingrediente reconocible a simple vista, nada de montajes con crema, mousse o

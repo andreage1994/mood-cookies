@@ -1,4 +1,4 @@
-# Web de Mood Table — v5 (alineado al documento oficial de Fase B)
+# Web de Arrel — v5 (alineado al documento oficial de Fase B)
 
 **Qué dispara esta versión:** el documento oficial de marca
 (`fase-b-plataforma-marca.md` v3) y las resoluciones de hoy: eslogan único
@@ -17,8 +17,8 @@ coherente con la voz oficial (sección 07 de Fase B).
 
 **Actualización misma noche (segunda pasada):** Andrea pidió dos
 correcciones sobre esta misma v5 — (1) el Hero sonaba robótico, sin
-personalidad ni gancho comercial, corregido con `mood-table-estrategia-marca`
-+ `mood-table-direccion-creativa`; (2) "El problema" seguía demasiado
+personalidad ni gancho comercial, corregido con `arrel-estrategia-marca`
++ `arrel-direccion-creativa`; (2) "El problema" seguía demasiado
 cerrado al ángulo de Mood Cookies — aplico StoryBrand de verdad, con el
 villano que ella misma nombró (comer por comer, sin pararse a apreciar
 origen/temporada/nutrición/el momento de compartir). Ver
@@ -63,7 +63,7 @@ inglés):
 
 **TÍTULO Y SUBTÍTULO — reescritos (2026-11-16):** Andrea señaló que la
 versión anterior sonaba "robótica, con poca personalidad" — diagnóstico
-confirmado por `mood-table-estrategia-marca` + `mood-table-direccion-creativa`:
+confirmado por `arrel-estrategia-marca` + `arrel-direccion-creativa`:
 el título era casi literal una frase de la lista "sí diríamos" (pensada
 como ejemplo de tono, no como titular), y el subtítulo enumeraba atributos
 de posicionamiento en vez de crear una imagen — cualquier marca de
@@ -122,7 +122,7 @@ de verdad nutre, ni el momento de parar o de compartirlo.
 > origen, la estación, el momento. Comer se ha vuelto un trámite entre una
 > cosa y la siguiente.
 >
-> Mood Table existe para lo contrario: recuperar esa pausa. Que un
+> Arrel existe para lo contrario: recuperar esa pausa. Que un
 > ingrediente de temporada, una pieza recién horneada o una mesa
 > compartida vuelvan a ser un momento que se nota, no uno que pasa sin
 > darse cuenta.
@@ -133,7 +133,7 @@ por completo, no es un ajuste de tono.)*
 
 ---
 
-### Nuestra mirada creativa *(nuevo — sustituye a "Por qué Mood Table" como
+### Nuestra mirada creativa *(nuevo — sustituye a "Por qué Arrel" como
 historia de origen)*
 
 > No buscamos inventar por inventar. Nos interesa reinterpretar
@@ -275,7 +275,7 @@ casi sin tocar)*
 > Porque alimentarnos es parte de la vida. Y merece la pena vivirlo con
 > atención.
 
-### Los cuatro verbos de Mood Table
+### Los cuatro verbos de Arrel
 
 **Descubrir** · **Apreciar** · **Saborear** · **Compartir** — despertar
 curiosidad, reconocer el valor de lo que tenemos delante, poner el sabor en

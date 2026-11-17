@@ -1,4 +1,4 @@
-# Web de Mood Table — borrador v3 (voz corregida: recibir/agradecer/compartir/cuidar)
+# Web de Arrel — borrador v3 (voz corregida: recibir/agradecer/compartir/cuidar)
 
 **Qué cambia respecto a v2:** v2 aplicó un giro a "voz de oficio" (técnica,
 ingrediente, productor) que corregía el wellness de Mood Cookies pero se
@@ -11,7 +11,7 @@ de mecánica de wellness-app. Ver `direccion-editorial-voz.md` v2.
 **Qué NO cambia respecto a v2:** estructura, catálogo, preguntas abiertas,
 la resolución de que no hay QR/ritual mecánico. Solo corrijo el registro de
 los bloques que se quedaron demasiado en "ficha técnica" sin la capa de
-sentido. Donde v2 ya acertaba (Por qué Mood Table, El problema, Pilares,
+sentido. Donde v2 ya acertaba (Por qué Arrel, El problema, Pilares,
 Cómo funciona, Journal, Contacto), lo dejo igual.
 
 ---
@@ -121,7 +121,7 @@ válidas.)*
 
 ## Secciones sin cambios respecto a v2
 
-El problema, Por qué Mood Table, Cómo funciona, Repostería/tienda y FAQ,
+El problema, Por qué Arrel, Cómo funciona, Repostería/tienda y FAQ,
 Mood Journal, Contacto y Footer, y la nota final sobre Mood Moments — v2 ya
 tenía el registro correcto en estos bloques (o eran casi todo información
 práctica, donde la voz pesa menos). No los repito aquí; siguen vigentes tal

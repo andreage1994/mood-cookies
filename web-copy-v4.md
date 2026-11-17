@@ -1,10 +1,10 @@
-# Web de Mood Table — borrador v4 (separación marca/producto)
+# Web de Arrel — borrador v4 (separación marca/producto)
 
 **Qué corrige respecto a v3:** Andrea señaló (2026-11-16) que la web mezclaba
 dos trabajos que no deben mezclarse — usaba ejemplos de producto e
 ingrediente concretos (el bizcocho de calabacín, la pera y el romero, las
 avellanas) dentro de secciones de **construcción de marca** (Pilares, "Por
-qué Mood Table"). Eso es contenido de ficha de producto, no de marca. Ver
+qué Arrel"). Eso es contenido de ficha de producto, no de marca. Ver
 `direccion-editorial-voz.md` v3, "Regla de separación marca/producto".
 
 **Qué NO cambia respecto a v3:** el registro de voz (recibir/agradecer/
@@ -21,8 +21,8 @@ Journal, Contacto, FAQ, Mood Moments).
 
 **TAGLINE — resuelto (2026-11-16):** v1/v2/v3 dejaban dos opciones sobre la
 mesa ("A little more pleasure in the everyday" vs. "Small moments. Better
-moods."). Con el pivote de nombre a Mood Table, Andrea dio una frase nueva
-que ya no es una opción entre varias — es el tagline oficial de Mood Table:
+moods."). Con el pivote de nombre a Arrel, Andrea dio una frase nueva
+que ya no es una opción entre varias — es el tagline oficial de Arrel:
 
 > **A little more connected to what we eat, where it comes from and the
 > moments we share around it.**
@@ -59,7 +59,7 @@ principio sin nombrar producto.
 (2026-11-16): los 5 criterios de receta como contenido público de marca,
 no solo herramienta interna*
 
-> Antes de que una receta lleve el nombre de Mood Table, pasa por cinco
+> Antes de que una receta lleve el nombre de Arrel, pasa por cinco
 > preguntas:
 >
 > **Proximity** — ¿Podemos conseguir esto de productores de Cataluña o de
@@ -91,7 +91,7 @@ criterios de arriba, pieza por pieza.
 
 ## 3. Nuestra forma de ver el mundo
 
-### Por qué Mood Table — *corregido: la historia de origen bajaba a
+### Por qué Arrel — *corregido: la historia de origen bajaba a
 producto*
 
 > Siempre me ha gustado ese momento en el que te preparas un café y coges

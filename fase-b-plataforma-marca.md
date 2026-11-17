@@ -1,4 +1,19 @@
-# Fase B · Plataforma de Marca — Mood Table
+# Fase B · Plataforma de Marca — Arrel
+
+**Tercer pivote de nombre (2026-11-17):** Mood Cookies → Mood Baker → Mood
+Table → **Arrel**, confirmado tras sesión de brainstorming del equipo.
+"Arrel" (raíz, en catalán) corta a propósito el hilo de "Mood" —
+deliberadamente, no por accidente: el concepto ya no gira en torno al
+estado de ánimo, sino al origen/territorio, que es justo el eje que la
+Fase B oficial (recibida 2026-11-16) ya tenía como pilar central
+(Origen y Temporalidad, sección 06/11). El resto de la plataforma de
+marca (propósito, misión, visión, valores, voz, tagline) **no cambia** —
+esto es un pivote de nombre e identidad visual, no una reapertura de
+estrategia. Ver `identidad-visual/README.md` para la nueva dirección
+visual (sustituye la sección 09 de este documento). Sustitución de texto
+mecánica aplicada en todo el documento: donde dice "Arrel" por debajo de
+esta nota, el texto original decía "Mood Table" salvo que se indique lo
+contrario.
 
 **Estado: v3 — documento oficial.** Sustituye el borrador anterior (v1/v2,
 construido turno a turno en esta conversación a partir del brief hablado de
@@ -359,7 +374,7 @@ alternativos a elegir):
 > nos alimenta» y «Comer, disfrutar, compartir». Cada una expresa una
 > dimensión diferente de la marca.
 
-### Los cuatro verbos que expresan la experiencia Mood Table
+### Los cuatro verbos que expresan la experiencia Arrel
 
 - **Descubrir:** despertar curiosidad por ingredientes, sabores,
   combinaciones y recetas.
@@ -385,6 +400,14 @@ pendiente de que lo confirme o lo cambie.)*
 ---
 
 ## 09 · Dirección de identidad visual
+
+> **Superseded (2026-11-17):** esta sección completa (logotipo, paleta,
+> tipografías, fotografía, packaging) queda sustituida por
+> `identidad-visual/README.md`, a partir del moodboard real que mandó
+> Andrea tras el brainstorming de equipo ("identidad visual... confirmado",
+> sus palabras). Se mantiene aquí solo como historial de la primera
+> dirección (la del documento oficial original, antes del moodboard) — no
+> es la vigente.
 
 ### La mesa mediterránea contemporánea
 
@@ -446,7 +469,7 @@ correctamente identificados y procedencia cuando esté verificada. El
 packaging debe transmitir cuidado sin artificios.
 
 *(Esta sección es, de hecho, el arranque real de Fase C — dirección de
-arte. Cuando se confirme esta Fase B, `mood-table-direccion-arte` parte de
+arte. Cuando se confirme esta Fase B, `arrel-direccion-arte` parte de
 aquí, no de cero.)*
 
 ---
@@ -670,12 +693,26 @@ Mood":** no respondido todavía. Encaja de forma natural dentro de Mood
 Moments (empresas que reservan una sesión de yoga, cena o taller), pero no
 lo doy por confirmado sin que Andrea lo diga.
 
+**Nuevo (2026-11-17) — ¿los sub-nombres del ecosistema pierden "Mood"
+también?** El pivote de nombre a Arrel confirma el nombre de marca
+principal, pero no dice nada de Mood Journal / Mood Moments / Mood
+Kitchen / Mood Goods / Mood Table Experiences — los dejo tal cual (con
+"Mood") hasta que Andrea confirme si pasan a "Arrel Journal", "Arrel
+Moments", etc., o si "Mood" se mantiene como nombre de esa sub-colección
+con independencia del nombre de marca.
+
+**Nuevo (2026-11-17) — producto sin confirmar:** "Cake de llimona i
+llavors de rosella" aparece en una ficha de ejemplo del moodboard de
+identidad visual — ver `identidad-visual/README.md` para el detalle y la
+pregunta de si es producto real o solo ejemplo de maquetación.
+
 ## Próximo paso
 
-1. Que Andrea responda el B2B — lo único que queda realmente abierto de
-   Fase B.
-2. `web-copy-v5.md` ya está escrito, alineado a este documento — pendiente
-   de que Andrea lo revise.
-3. Arrancar identidad visual de verdad — la sección 09 de este documento ya
-   da dirección de arte, paleta, tipografía y fotografía: `mood-table-
-   direccion-arte` parte de ahí, no de cero.
+1. Que Andrea responda el B2B, los sub-nombres de ecosistema, y si el
+   "Cake de llimona" es producto real.
+2. `web-copy-v5.md` ya quedó renombrado a Arrel en el mismo cambio masivo
+   de hoy — revisar que ningún hueco de voz/personalidad (el mismo
+   problema que tuvo el Hero) se haya colado con el nombre nuevo.
+3. Arrancar identidad visual de verdad con `arrel-direccion-arte` sobre
+   `identidad-visual/README.md` (no sobre la sección 09, retirada) —
+   primero hay que confirmar tipografías reales, ver pendiente ahí.
