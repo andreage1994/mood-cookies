@@ -71,11 +71,15 @@ proximidad/temporada podría firmarlo igual.
 
 > TÍTULO: Hoy sale algo del horno que no esperabas.
 >
-> SUBTÍTULO: Temporada, proximidad y una combinación que te hace mirar dos
-> veces. Para comer solo, o repartir en la mesa.
+> SUBTÍTULO: Temporada, proximidad y creatividad. Para disfrutar solo, o
+> compartir en la mesa.
 
 *(Recomendada de 4 alternativas que generó la dirección creativa — las
-otras 3 quedan abajo, por si prefieres otro registro.)*
+otras 3 quedan abajo, por si prefieres otro registro. Subtítulo pulido
+2026-11-17 a partir de dirección de Andrea — "una combinación que te hace
+mirar dos veces" no transmitía suficiente; mantiene la misma idea —
+temporada + proximidad + creatividad, hacia un momento que se puede vivir
+solo o en la mesa.)*
 
 **CTA:** Descubre lo de hoy
 

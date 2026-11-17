@@ -122,6 +122,13 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    (Special Elite + Fig Jam) también a la web — hecho en los códigos **Nº**
    de cada producto de `web/catalogo.html` (001-006), con la misma lógica
    que ya usaban los números de "Nuestros pilares" y "Cómo funciona".
+   **Novena pasada (2026-11-17) — dos retoques de tono de copy:** "Nos
+   interesa reinterpretar" → "**Nos apasiona** reinterpretar" (sección
+   "Nuestra mirada creativa"); subtítulo del Hero reescrito — "una
+   combinación que te hace mirar dos veces" no transmitía, Andrea propuso
+   la dirección y quedó pulido como "**Temporada, proximidad y
+   creatividad. Para disfrutar solo, o compartir en la mesa.**" Aplicado en
+   `web-copy-v5.md` y `web/home.html` (Versión 5 del Artifact).
 3. **Único punto de Fase B sin cerrar: el B2B.**
 4. Antes de construir Journal y La Mesa como páginas propias (como ya
    pasó con Repostería): decidir si de verdad necesitan página propia ya,
