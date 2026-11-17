@@ -105,7 +105,15 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    claude.ai; copia de trabajo en `manual-de-marca/manual-de-marca.md` y
    `tokens.json`). Es privado — hay que compartirlo desde el propio enlace
    si alguien más (ej. un diseñador externo) necesita abrirlo.
-2. **Home + Repostería publicados (2026-11-17)** —
+2. **Nuestra forma de ver el mundo — página propia publicada (2026-11-17,
+   `web/mundo.html`, Versión 8 del Artifact).** Reúne manifiesto, propósito
+   /misión/visión, los 4 verbos, nuestra mirada creativa (con foto de
+   origen/ingrediente, ver novena pasada de identidad), valores, Kitchen
+   como historia ("cómo nace una receta" + los 6 criterios de desarrollo)
+   y lo que nunca cambia. El enlace de nav a "Nuestra forma de ver el
+   mundo" apuntaba a una ancla `#mirada` que no existía en `home.html`
+   (bug de antes, corregido de paso) — ahora apunta aquí en las 3 páginas.
+3. **Home + Repostería publicados (2026-11-17)** —
    https://claude.ai/artifact/Gbyciaj2i2xJsoUA3JHquZ (`web/home.html` +
    `web/catalogo.html`, dos páginas del mismo Artifact, enlazadas entre
    sí). El catálogo pasó a tener su propia página (pedido de Andrea), el

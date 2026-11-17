@@ -1,0 +1,527 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arrel — Nuestra forma de ver el mundo</title>
+<meta name="description" content="Propósito, manifiesto y valores de Arrel: conectar con lo que nos alimenta.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Special+Elite&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --paper: #FBF8F2;
+    --ink: #3B2E28;
+    --fig: #9A2E3A;
+
+    --ink-10: rgba(59,46,40,.1);
+    --ink-18: rgba(59,46,40,.18);
+    --ink-55: rgba(59,46,40,.55);
+    --paper-70: rgba(251,248,242,.7);
+    --paper-50: rgba(251,248,242,.5);
+
+    --display: "Libre Caslon Display", "Georgia", serif;
+    --body: "Lora", "Georgia", serif;
+    --mono: "Special Elite", "Courier New", monospace;
+
+    --gutter: clamp(20px, 6vw, 72px);
+    --max: 1180px;
+  }
+
+  *{ box-sizing: border-box; }
+  html{ scroll-behavior: smooth; }
+  body{
+    margin:0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--body);
+    font-size: 17px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+  img{ max-width:100%; display:block; }
+  a{ color: inherit; text-decoration: none; }
+
+  .wrap{
+    max-width: var(--max);
+    margin: 0 auto;
+    padding-left: var(--gutter);
+    padding-right: var(--gutter);
+  }
+
+  h1, h2, h3{
+    font-family: var(--display);
+    font-weight: 400;
+    margin: 0;
+    letter-spacing: 0.01em;
+  }
+
+  .eyebrow{
+    font-family: var(--body);
+    font-style: italic;
+    font-size: 0.92rem;
+    letter-spacing: 0.06em;
+    color: var(--fig);
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 1.1em;
+  }
+
+  .num{
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    color: var(--fig);
+    letter-spacing: 0.03em;
+  }
+
+  .link-arrow{
+    font-size: 0.95rem;
+    border-bottom: 1px solid var(--fig);
+    color: var(--fig);
+    padding-bottom: 2px;
+  }
+
+  /* ---------- placeholder de foto ---------- */
+  .photo{
+    position: relative;
+    background:
+      repeating-linear-gradient(135deg, var(--ink-10) 0 1px, transparent 1px 22px),
+      var(--paper-50);
+    border: 1px solid var(--ink-18);
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 18px;
+    min-height: 220px;
+  }
+  .photo.square{ aspect-ratio: 4/5; }
+  .photo span{
+    font-family: var(--body);
+    font-style: italic;
+    font-size: 0.82rem;
+    color: var(--ink-55);
+    background: var(--paper-70);
+    padding: 0.3em 0.7em;
+    line-height: 1.4;
+  }
+
+  /* ---------- header ---------- */
+  header{
+    position: sticky; top: 0; z-index: 20;
+    background: var(--paper-70);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--ink-10);
+  }
+  .nav-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 0;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  .logo{
+    font-family: var(--display);
+    font-size: 1.5rem;
+    letter-spacing: 0.08em;
+    color: var(--ink);
+  }
+  nav ul{
+    list-style: none;
+    display: flex;
+    gap: clamp(14px, 2.4vw, 32px);
+    margin: 0; padding: 0;
+    flex-wrap: wrap;
+  }
+  nav a{
+    font-size: 0.88rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 3px;
+    transition: border-color .2s ease, color .2s ease;
+  }
+  nav a:hover{ color: var(--fig); border-color: var(--fig); }
+  nav a.is-active{ color: var(--fig); border-color: var(--fig); }
+
+  /* ---------- intro ---------- */
+  .intro{ padding: clamp(48px, 9vw, 96px) 0 clamp(32px, 5vw, 56px); }
+  .intro h1{ font-size: clamp(2rem, 4.6vw, 3.1rem); max-width: 18ch; line-height: 1.15; }
+  .intro p{ margin-top: 1.1em; max-width: 54ch; font-size: 1.05rem; }
+
+  section{ padding: clamp(48px, 8vw, 96px) 0; }
+  .rule{ border: none; height: 1px; background: var(--ink-10); margin: 0; }
+
+  .section-head{ max-width: 62ch; margin-bottom: clamp(28px, 4.5vw, 48px); }
+  .section-head h2{ font-size: clamp(1.5rem, 3vw, 2.1rem); line-height: 1.25; }
+
+  /* ---------- manifiesto ---------- */
+  .manifiesto{ max-width: 56ch; }
+  .manifiesto p{
+    font-family: var(--display);
+    font-size: clamp(1.15rem, 2vw, 1.4rem);
+    line-height: 1.6;
+    margin: 0 0 0.9em;
+  }
+  .manifiesto p:first-child{ color: var(--fig); }
+  .manifiesto p:last-child{ margin-bottom: 0; font-style: italic; }
+
+  /* ---------- fundamentos (propósito / misión / visión) ---------- */
+  .fundamentos-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: clamp(24px, 4vw, 40px);
+  }
+  .fundamento .num{ display:block; margin-bottom: 0.9em; }
+  .fundamento h3{ font-size: 1.2rem; margin-bottom: 0.6em; }
+  .fundamento p{ font-size: 0.97rem; margin: 0; color: var(--ink); }
+
+  /* ---------- verbos / pilares-type grid (4 cols) ---------- */
+  .pilares-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: clamp(24px, 4vw, 40px);
+  }
+  .pilar .num{ display:block; margin-bottom: 0.9em; font-size: 0.82rem; }
+  .pilar h3{ font-size: 1.25rem; margin-bottom: 0.55em; }
+  .pilar p{ font-size: 0.97rem; color: var(--ink); margin:0; }
+
+  /* ---------- mirada creativa ---------- */
+  .mirada-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(28px, 6vw, 72px);
+    align-items: center;
+  }
+  .mirada blockquote{
+    margin: 0;
+    font-family: var(--display);
+    font-size: clamp(1.4rem, 2.6vw, 1.9rem);
+    line-height: 1.4;
+    border-left: 2px solid var(--fig);
+    padding-left: 0.9em;
+  }
+  .mirada .alma{
+    margin-top: 1.4em;
+    font-style: italic;
+    color: var(--ink-55);
+    font-size: 1rem;
+    max-width: 38ch;
+  }
+
+  /* ---------- valores (2x2) ---------- */
+  .valores-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: clamp(24px, 4vw, 40px);
+  }
+  .valor{ border-top: 1px solid var(--ink-18); padding-top: 1.1em; }
+  .valor .num{ display:block; margin-bottom: 0.7em; }
+  .valor h3{ font-size: 1.15rem; margin-bottom: 0.5em; }
+  .valor p{ font-size: 0.96rem; margin: 0; color: var(--ink); }
+
+  /* ---------- kitchen / criterios ---------- */
+  .kitchen-intro{ max-width: 58ch; margin-bottom: clamp(24px, 4vw, 40px); }
+  .criterios-list{ list-style:none; margin:0; padding:0; display: grid; gap: 0; }
+  .criterio{
+    display: grid;
+    grid-template-columns: 56px 1fr;
+    gap: 18px;
+    padding: 1em 0;
+    border-top: 1px dashed var(--ink-18);
+    align-items: baseline;
+  }
+  .criterio:last-child{ border-bottom: 1px dashed var(--ink-18); }
+  .criterio h4{ font-family: var(--display); font-weight: 400; font-size: 1.05rem; margin: 0 0 0.3em; }
+  .criterio p{ margin: 0; font-size: 0.95rem; font-style: italic; color: var(--ink-55); }
+
+  /* ---------- lo que nunca cambia ---------- */
+  .nunca-list{ list-style:none; margin: 0; padding: 0; max-width: 54ch; }
+  .nunca-list li{
+    padding: 0.6em 0;
+    border-top: 1px solid var(--ink-18);
+    font-size: 1rem;
+  }
+  .nunca-list li:last-child{ border-bottom: 1px solid var(--ink-18); }
+  .nunca-list .check{ color: var(--fig); font-family: var(--mono); margin-right: 0.6em; }
+  .varia-note{
+    margin-top: clamp(24px, 4vw, 40px);
+    max-width: 54ch;
+    font-size: 0.93rem;
+    font-style: italic;
+    color: var(--ink-55);
+    border-left: 2px solid var(--fig);
+    padding-left: 1.1em;
+  }
+
+  footer.pie{ background: var(--ink); color: var(--paper); margin-top: clamp(40px, 6vw, 72px); }
+  .foot-inner{ padding: clamp(32px, 5vw, 56px) 0; display:flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; align-items: center; }
+  .foot-inner a:hover{ color: var(--fig); }
+
+  @media (max-width: 920px){
+    .fundamentos-grid{ grid-template-columns: 1fr; }
+    .pilares-grid{ grid-template-columns: repeat(2, 1fr); }
+    .mirada-grid{ grid-template-columns: 1fr; }
+    .mirada .photo{ order: -1; }
+    .valores-grid{ grid-template-columns: 1fr; }
+  }
+  @media (max-width: 600px){
+    .nav-row{ justify-content: center; text-align: center; }
+    nav ul{ justify-content: center; gap: 12px 18px; }
+    .pilares-grid{ grid-template-columns: 1fr; }
+    .criterio{ grid-template-columns: 1fr; gap: 4px; }
+    .foot-inner{ justify-content: center; text-align: center; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav-row">
+    <a href="home.html" class="logo">ARREL</a>
+    <nav aria-label="Navegación principal">
+      <ul>
+        <li><a href="catalogo.html">Repostería</a></li>
+        <li><a href="mundo.html" class="is-active">Nuestra forma de ver el mundo</a></li>
+        <li><a href="home.html#journal">Journal</a></li>
+        <li><a href="home.html#moments">La Mesa</a></li>
+        <li><a href="home.html#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <section class="intro">
+    <div class="wrap">
+      <span class="eyebrow">Nuestra forma de ver el mundo</span>
+      <h1>Conectar con lo que nos alimenta.</h1>
+      <p>No es un eslogan suelto — es el porqué de todo lo que hacemos. Aquí está lo que creemos, hacia dónde vamos y lo que no cambia en ninguna receta.</p>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- MANIFIESTO -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">El manifiesto</span>
+      </div>
+      <div class="manifiesto">
+        <p>Conectar con lo que nos alimenta.</p>
+        <p>Creemos que la comida es mucho más que lo que ponemos en el plato.</p>
+        <p>Es una forma de nutrirnos, de cuidarnos y de conectar con nosotros mismos.</p>
+        <p>Está en la tierra de donde vienen los ingredientes, en las manos que los trabajan y en el tiempo que dedicamos a prepararlos.</p>
+        <p>Está en las recetas que heredamos, en los sabores que descubrimos y en las estaciones que transforman nuestra despensa.</p>
+        <p>También está en las personas con las que compartimos la mesa, en las conversaciones que se alargan y en los pequeños momentos que merecen ser disfrutados.</p>
+        <p>Creemos que comer bien no significa renunciar al placer.</p>
+        <p>Queremos recuperar una relación con la comida más presente, más libre y más conectada con la tierra y con quienes nos rodean.</p>
+        <p>Porque alimentarnos es parte de la vida. Y merece la pena vivirlo con atención.</p>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- PROPÓSITO / MISIÓN / VISIÓN -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Por qué existimos</span>
+        <h2>Propósito, misión y visión.</h2>
+      </div>
+      <div class="fundamentos-grid">
+        <div class="fundamento">
+          <span class="num">Propósito</span>
+          <h3>Conectar con lo que nos alimenta.</h3>
+          <p>Hacer que los momentos cotidianos alrededor de la comida tengan más valor: apreciar lo que tenemos delante, escuchar lo que necesitamos, disfrutar de los sabores, compartir con los demás y reconocer el vínculo con la tierra.</p>
+        </div>
+        <div class="fundamento">
+          <span class="num">Misión</span>
+          <h3>Reinterpretar lo reconocible.</h3>
+          <p>Crear productos de obrador dulces y salados, recetas de temporada y propuestas gastronómicas con una mirada creativa, dando protagonismo a los productos locales, de proximidad y de temporada.</p>
+        </div>
+        <div class="fundamento">
+          <span class="num">Visión</span>
+          <h3>Hacia dónde queremos ir.</h3>
+          <p>Una cultura de la comida más consciente, placentera y conectada: con nuestro cuerpo, con las personas, con los ingredientes y con la tierra.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- LOS CUATRO VERBOS -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Los cuatro verbos de Arrel</span>
+        <h2>Cómo se vive la experiencia Arrel.</h2>
+      </div>
+      <div class="pilares-grid">
+        <div class="pilar">
+          <span class="num">01</span>
+          <h3>Descubrir</h3>
+          <p>Despertar curiosidad por lo que tenemos delante.</p>
+        </div>
+        <div class="pilar">
+          <span class="num">02</span>
+          <h3>Apreciar</h3>
+          <p>Reconocer el valor de un ingrediente, una receta, un momento.</p>
+        </div>
+        <div class="pilar">
+          <span class="num">03</span>
+          <h3>Saborear</h3>
+          <p>Poner el sabor en el centro de la experiencia.</p>
+        </div>
+        <div class="pilar">
+          <span class="num">04</span>
+          <h3>Compartir</h3>
+          <p>Llevarlo a la mesa con los demás.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- NUESTRA MIRADA CREATIVA -->
+  <section class="mirada">
+    <div class="wrap mirada-grid">
+      <div>
+        <span class="eyebrow">Nuestra mirada creativa</span>
+        <blockquote>No buscamos inventar por inventar. Nos apasiona reinterpretar elaboraciones que conocemos de toda la vida y darles una nueva mirada a través de la creatividad: explorar combinaciones de sabores, ingredientes locales y de proximidad, y productos de temporada. Partimos de lo familiar para descubrir nuevas formas de disfrutarlo.</blockquote>
+        <p class="alma">Comer no es solo ingerir alimentos: es recibir, agradecer, compartir, cuidar, conectar.</p>
+      </div>
+      <div class="photo square">
+        <span>[foto de origen: un ingrediente sobre Soft Paper, con su etiqueta — ej. "Avellanas · Reus"]</span>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- NUESTROS VALORES -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Nuestros valores</span>
+        <h2>Los principios que guían nuestras decisiones.</h2>
+      </div>
+      <div class="valores-grid">
+        <div class="valor">
+          <span class="num">01</span>
+          <h3>Placer y disfrute</h3>
+          <p>La comida tiene que estar rica. El placer no está reñido con el cuidado.</p>
+        </div>
+        <div class="valor">
+          <span class="num">02</span>
+          <h3>Conexión y presencia</h3>
+          <p>Damos valor al acto de comer: parar, apreciar, saborear, nutrirnos y compartir.</p>
+        </div>
+        <div class="valor">
+          <span class="num">03</span>
+          <h3>Origen y temporalidad</h3>
+          <p>Nos conectamos con la tierra a través de ingredientes de proximidad, productores y temporada.</p>
+        </div>
+        <div class="valor">
+          <span class="num">04</span>
+          <h3>Honestidad y cuidado</h3>
+          <p>Comunicamos con transparencia y evitamos promesas exageradas.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- KITCHEN — CÓMO NACE UNA RECETA -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Kitchen</span>
+        <h2>Cómo nace una receta.</h2>
+      </div>
+      <p class="kitchen-intro">Antes de que algo salga del horno, pasa por nuestra cocina de investigación: ideas, pruebas de sabor, combinaciones que no cuajan y otras que sí. Toda receta de Arrel pasa por los mismos seis filtros antes de llegar a la mesa:</p>
+      <ul class="criterios-list">
+        <li class="criterio">
+          <span class="num">01</span>
+          <div>
+            <h4>Creatividad</h4>
+            <p>¿Hay una idea propia detrás de esta combinación? ¿Aporta algo nuevo a una receta reconocible?</p>
+          </div>
+        </li>
+        <li class="criterio">
+          <span class="num">02</span>
+          <div>
+            <h4>Proximidad</h4>
+            <p>¿Podemos conseguir estos ingredientes de productores de Cataluña o de proximidad?</p>
+          </div>
+        </li>
+        <li class="criterio">
+          <span class="num">03</span>
+          <div>
+            <h4>Temporada</h4>
+            <p>¿Es el momento adecuado para este ingrediente?</p>
+          </div>
+        </li>
+        <li class="criterio">
+          <span class="num">04</span>
+          <div>
+            <h4>Sabor</h4>
+            <p>¿La combinación funciona de verdad y apetece repetirla?</p>
+          </div>
+        </li>
+        <li class="criterio">
+          <span class="num">05</span>
+          <div>
+            <h4>Identidad</h4>
+            <p>¿La propuesta tiene una mirada reconocible y encaja con Arrel?</p>
+          </div>
+        </li>
+        <li class="criterio">
+          <span class="num">06</span>
+          <div>
+            <h4>Producción</h4>
+            <p>¿Podemos elaborarla de forma consistente, mantener su calidad y delegarla en el futuro?</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- LO QUE NUNCA CAMBIA -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Lo que nunca cambia</span>
+        <h2>En cada receta.</h2>
+      </div>
+      <ul class="nunca-list">
+        <li><span class="check">✓</span>Ingredientes de temporada y de proximidad, siempre que sea posible.</li>
+        <li><span class="check">✓</span>Whole foods, sin procesados — nutritivo de verdad.</li>
+        <li><span class="check">✓</span>Sabor por encima de todo — nunca una receta mediocre por la narrativa.</li>
+        <li><span class="check">✓</span>Algo que la haga reconocible como Arrel.</li>
+      </ul>
+      <p class="varia-note">Lo que sí varía según la pieza — consultar siempre: si una receta concreta es vegana, vegetariana o lleva gluten depende del producto. Esto va en la ficha de cada producto, no como promesa general de marca.</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="pie">
+  <div class="wrap foot-inner">
+    <span>© 2026 Arrel. Barcelona · Obrador.</span>
+    <a href="home.html#contacto" class="link-arrow" style="color:var(--paper); border-color:var(--paper);">Contacto →</a>
+  </div>
+</footer>
+
+</body>
+</html>
