@@ -55,21 +55,37 @@ vino, 6 colores) queda retirada — esta es más reducida (4 colores), más
 contrastada (Almond Cream casi blanco roto contra Mahogany Jam muy oscuro)
 y sin el verde oliva como protagonista.
 
-## Tipografías
+## Tipografías — resuelto (2026-11-17), fuentes reales de producción
 
-El moodboard usa una **tipografía serif con tratamiento de sello/máquina de
-escribir** para el logotipo y titulares grandes (ver "ARREL", "AROMATICS")
-— efecto desgastado/estampado, no una serif editorial limpia. Para texto
-de apoyo (descripciones, fichas de producto) usa una **monoespaciada tipo
-máquina de escribir** (ver "CONECTAR CON LO QUE NOS ALIMENTA", "BARCELONA ·
-OBRADOR", los textos de ficha "Cake de llimona...").
+Andrea confirmó: mantener el toque de máquina de escribir/sello, con
+tipografías de verdad (no solo dirección de mood). Elegí 3 familias reales,
+las descargué y verifiqué glifo a glifo (no por descripción de catálogo) —
+incluido el **punt volat català** (l·l), que necesita el carácter MIDDLE DOT
+(U+00B7): las tres lo soportan sin problema, igual que ñ/ç/í/ó. Todas son
+de Google Fonts, licencia libre para uso comercial (SIL OFL / Apache 2.0).
 
-**Pendiente (no soy yo quien lo decide):** el moodboard no nombra las
-tipografías exactas (son fuentes de referencia visual, no una
-especificación con nombre como la tabla DM Serif Display/DM Sans que traía
-Fase B). Antes de que `arrel-diseno-identidad` elija fuentes reales para
-producción, hace falta que Andrea confirme si quiere exactamente este
-efecto de sello/máquina de escribir, o si es solo dirección de mood.
+| Uso | Tipografía | Por qué |
+|---|---|---|
+| Logotipo y titulares | **Fraunces** (eje Wonky activado) | Serif con carácter/irregularidad a tamaños grandes sin perder nitidez — el estándar actual en branding gastronómico/editorial para un look "con alma, no perfecto". El desgaste de tampón del moodboard se añade como textura gráfica sobre el lockup, no en la fuente — así el logo escala sin perder nitidez en ningún soporte. |
+| Sellos, etiquetas cortas, Nº de ficha | **Special Elite** | Textura de máquina de escribir desgastada ya incorporada en el dibujo de la letra — el efecto "auténtico" sin tratamiento aparte. Solo en strings cortos (se vuelve menos legible en párrafos largos). |
+| Texto de cuerpo, fichas largas, web | **Courier Prime** | Monoespaciada tipo máquina de escribir, limpia y cómoda de leer en párrafos (FAQ, Journal, descripciones). |
+
+**Muestra real, no boceto** — `muestra-tipografia-opcion-a.png`: las tres
+tipografías aplicadas tal cual (logo, tagline, ficha de producto con texto
+en catalán real para probar el punt volat, y la paleta al lado).
+
+**Alternativa de logotipo, para comparar** — `muestra-logo-opcion-b.png`:
+ARREL compuesto directamente en Special Elite a tamaño de logo. Es más
+fiel al desgaste literal del moodboard (nada de tratamiento aparte, lo
+lleva ya incorporado), pero al ser la misma fuente que las etiquetas
+pequeñas, el logotipo y los sellos cortos pierden algo de jerarquía entre
+sí — y a tamaños muy grandes el trazo se ve menos pulido que con Fraunces.
+
+**Pendiente, última pieza:** que Andrea elija entre Opción A (Fraunces +
+textura de sello aplicada = más jerarquía y más seguro para escalar) y
+Opción B (Special Elite directo = más fiel al desgaste literal, más
+simple). Con eso, `arrel-diseno-identidad` ya puede construir el sistema
+de identidad completo.
 
 ## Dirección fotográfica
 
@@ -93,16 +109,15 @@ tipo "especimen de herbario o perfumería" — nombre, descripción breve,
 la dirección fotográfica de especimen de arriba — es el mismo lenguaje
 aplicado al packaging.
 
-**Producto nuevo, sin confirmar — "Cake de llimona i llavors de
-rosella"** (cake de limón y semillas de amapola, en catalán): aparece en
-la ficha de ejemplo del moodboard (Nº 006, 450g). No está en el catálogo
-confirmado de `fase-b-plataforma-marca.md` sección 10. ¿Es un producto real
-a sumar al catálogo (encajaría en "Siempre" o como pieza de panificación,
-no bizcocho de molde), o es solo un ejemplo de maquetación para mostrar el
-formato de ficha?
+**Resuelto (2026-11-17):** "Cake de llimona i llavors de rosella" es solo
+ejemplo de maquetación de la ficha, confirmado por Andrea — no es un
+producto real, no se suma al catálogo de la sección 10 de Fase B.
 
-**Nota de idioma:** la ficha de ejemplo está en catalán ("Cake de llimona
-i llavors de rosella", "PESO"... en español pero el nombre de producto en
-catalán). ¿Las fichas de producto van en catalán, español, o bilingüe?
-Fase B (sección 07) no especifica idioma de catálogo — otra pieza a
-confirmar antes de que `arrel-diseno-aplicado` produzca packaging real.
+**Sigue sin confirmar — idioma de las fichas:** el ejemplo mezclaba catalán
+(nombre de producto) y español (peso). Fase B no especifica idioma de
+catálogo — antes de que `arrel-diseno-aplicado` produzca packaging real,
+falta confirmar si las fichas van en catalán, español, o bilingüe.
+
+**Confirmado (2026-11-17):** las 3 imágenes de `referencias-inspiracion/`
+son solo referencia de tono/estética (perfumería, skincare) — no contenido
+de Arrel, tal como entendí.

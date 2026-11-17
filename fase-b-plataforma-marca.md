@@ -701,15 +701,15 @@ Kitchen / Mood Goods / Mood Table Experiences — los dejo tal cual (con
 Moments", etc., o si "Mood" se mantiene como nombre de esa sub-colección
 con independencia del nombre de marca.
 
-**Nuevo (2026-11-17) — producto sin confirmar:** "Cake de llimona i
-llavors de rosella" aparece en una ficha de ejemplo del moodboard de
-identidad visual — ver `identidad-visual/README.md` para el detalle y la
-pregunta de si es producto real o solo ejemplo de maquetación.
+~~Producto sin confirmar — "Cake de llimona i llavors de rosella"~~ —
+**resuelto (2026-11-17): solo ejemplo de maquetación, no es producto
+real.** No se suma al catálogo.
 
 ## Próximo paso
 
-1. Que Andrea responda el B2B, los sub-nombres de ecosistema, y si el
-   "Cake de llimona" es producto real.
+1. Que Andrea responda el B2B y los sub-nombres de ecosistema (único real
+   pendiente de Fase B, junto con elegir Opción A/B de logotipo en
+   `identidad-visual/README.md`).
 2. `web-copy-v5.md` ya quedó renombrado a Arrel en el mismo cambio masivo
    de hoy — revisar que ningún hueco de voz/personalidad (el mismo
    problema que tuvo el Hero) se haya colado con el nombre nuevo.

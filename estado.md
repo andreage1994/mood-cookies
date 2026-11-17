@@ -26,11 +26,20 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
   oficial), dirección fotográfica tipo "especimen botánico", packaging con
   fichas de producto numeradas (Nº + peso). Ver `identidad-visual/README.md`
   — sustituye la sección 09 de Fase B.
-- **Dos preguntas nuevas sin cerrar (2026-11-17):** (1) si los sub-nombres
-  del ecosistema (Mood Journal, Mood Moments, Mood Kitchen, Mood Goods,
-  Mood Table Experiences) pierden "Mood" también o lo mantienen; (2) si
-  "Cake de llimona i llavors de rosella" (aparece en una ficha de ejemplo
-  del moodboard) es un producto real o solo un ejemplo de maquetación.
+- **Resuelto (2026-11-17):** las referencias de perfumería/skincare eran
+  solo inspiración de tono, confirmado. "Cake de llimona i llavors de
+  rosella" era solo ejemplo de maquetación, no producto real — confirmado,
+  no se suma al catálogo.
+- **Tipografías de producción, elegidas y verificadas (2026-11-17):**
+  Fraunces (logo/titulares) + Special Elite (sellos/etiquetas cortas) +
+  Courier Prime (texto de cuerpo) — las tres, descargadas y comprobadas
+  glifo a glifo, soportan el punt volat català (l·l) y el resto de
+  acentos ES/CAT. Ver muestras reales en `identidad-visual/`. Queda una
+  sola elección pendiente: Opción A (Fraunces + textura de sello aplicada)
+  vs. Opción B (Special Elite directo como logotipo).
+- **Sigue sin cerrar:** si los sub-nombres del ecosistema (Mood Journal,
+  Mood Moments, Mood Kitchen, Mood Goods, Mood Table Experiences) pierden
+  "Mood" también o lo mantienen.
 - **`web-copy-v5.md`** ya renombrado a Arrel en el cambio masivo de hoy —
   sigue siendo el copy vigente de la web, con Hero reescrito (menos
   robótico) y "El problema" reescrito con StoryBrand real (ver
@@ -76,11 +85,9 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
 ## Próximo paso
 
 1. Que Andrea responda: estado del B2B, si los sub-nombres de ecosistema
-   pierden "Mood", y si el "Cake de llimona" es producto real.
+   pierden "Mood", y si elige Opción A o B de logotipo
+   (`identidad-visual/README.md`).
 2. Que confirme o cambie el cuarto verbo propuesto ("Compartir").
-3. Que confirme si quiere exactamente el efecto de tipografía de sello/
-   máquina de escribir del moodboard, o si era solo dirección de mood —
-   antes de que `arrel-diseno-identidad` elija fuentes reales de
-   producción.
-4. Con eso, `arrel-direccion-arte` desarrolla sistema de identidad
-   concreto (logo, aplicaciones) sobre `identidad-visual/README.md`.
+3. Con eso, `arrel-direccion-arte`/`arrel-diseno-identidad` desarrollan
+   sistema de identidad concreto (logo, aplicaciones) sobre
+   `identidad-visual/README.md` — ya con tipografías reales elegidas.
