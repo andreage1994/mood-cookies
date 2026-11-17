@@ -382,9 +382,10 @@ alternativos a elegir):
   elaboración y sus ingredientes.
 - **Saborear:** poner el sabor y el disfrute en el centro de cada
   propuesta.
-- **Compartir** *(propuesto 2026-11-16, a petición de Andrea — "propón
-  estratégicamente un cuarto verbo"):* llevar lo descubierto, apreciado y
-  saboreado a la mesa con los demás.
+- **Compartir** *(confirmado por Andrea 2026-11-17 — propuesto el
+  2026-11-16 a petición suya, "propón estratégicamente un cuarto
+  verbo"):* llevar lo descubierto, apreciado y saboreado a la mesa con
+  los demás.
 
 *(Por qué este y no otro: los tres verbos originales cubren la relación
 individual con la comida — curiosidad, reconocimiento, disfrute — pero
@@ -394,8 +395,7 @@ el manifiesto cierra en la mesa compartida, y "Compartir lo que nos gusta"
 ya aparece como una de las variaciones de tagline (punto 08). Sin
 "Compartir", los cuatro verbos describirían solo la experiencia en
 solitario — con él, completan el arco real de la marca: Descubrir →
-Apreciar → Saborear → Compartir. Es mi propuesta, no texto de Andrea —
-pendiente de que lo confirme o lo cambie.)*
+Apreciar → Saborear → Compartir.)*
 
 ---
 
@@ -601,20 +601,22 @@ experiencia en el centro.
 
 ### Más allá del producto
 
-**Renombrado (2026-11-17):** Andrea — "Mood Moments y Mood Journal van a
-cambiar de nombre. Se puede llamar Journal simplemente, y Mood Moment se
-puede pasar a llamar La Mesa." Mood Kitchen y Mood Goods no se mencionan —
-**siguen con "Mood" por ahora**, sin confirmar si lo pierden también.
+**Renombrado (2026-11-17, en dos pasos):** primero Andrea — "Mood Moments
+y Mood Journal van a cambiar de nombre. Se puede llamar Journal
+simplemente, y Mood Moment se puede pasar a llamar La Mesa." Después,
+confirmó que **"todo pierde la palabra Mood"** — así que Kitchen y Goods
+también se quedan sin el prefijo. Las 4 piezas del ecosistema quedan
+renombradas del todo:
 
-- **Mood Kitchen** — el espacio de investigación y creación: desarrollo de
-  recetas, experimentación, pruebas de sabor y nuevas combinaciones.
-  *(nombre sin tocar, pendiente)*
+- **Kitchen** *(antes "Mood Kitchen")* — el espacio de investigación y
+  creación: desarrollo de recetas, experimentación, pruebas de sabor y
+  nuevas combinaciones.
 - **Journal** *(antes "Mood Journal")* — contenido sobre ingredientes,
   productores, temporadas, recetas, nutrición cotidiana y cultura
   gastronómica, explorando las distintas formas en que la comida nos
   conecta.
-- **Mood Goods** — productos propios, colecciones estacionales,
-  colaboraciones y ediciones limitadas. *(nombre sin tocar, pendiente)*
+- **Goods** *(antes "Mood Goods")* — productos propios, colecciones
+  estacionales, colaboraciones y ediciones limitadas.
 - **La Mesa** *(antes "Mood Moments" + "Mood Table Experiences" —
   sustituye a las dos, que ya se trataban como una sola sección de
   eventos):* **eventos de comunidad y gastronómicos juntos, sin QR ni
@@ -716,9 +718,11 @@ Mood":** no respondido todavía. Encaja de forma natural dentro de La Mesa
 por confirmado sin que Andrea lo diga.
 
 ~~¿Los sub-nombres del ecosistema pierden "Mood" también?~~ — **resuelto
-en parte (2026-11-17):** Mood Journal → **Journal**, Mood Moments/Mood
-Table Experiences → **La Mesa**. Mood Kitchen y Mood Goods **siguen sin
-confirmar** — no asumo que también pierdan "Mood".
+del todo (2026-11-17):** sí, los cuatro — Journal, La Mesa, Kitchen,
+Goods.
+
+~~Cuarto verbo propuesto ("Compartir")~~ — **confirmado (2026-11-17)**
+por Andrea. Descubrir → Apreciar → Saborear → **Compartir**, ya oficial.
 
 ~~Producto sin confirmar — "Cake de llimona i llavors de rosella"~~ —
 **resuelto (2026-11-17): solo ejemplo de maquetación, no es producto

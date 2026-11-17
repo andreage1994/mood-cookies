@@ -141,18 +141,16 @@ La primera dirección de identidad (dada por Andrea tras un moodboard propio) us
 
 ## 6. Catálogo
 
-Tres líneas, con funciones distintas — no se aplanan en una sola lista:
+Dos líneas, con funciones distintas — no se aplanan en una sola lista. Las cookies ya no son una tercera línea: se reparten entre las dos (resuelto 2026-11-17).
 
 - **Siempre** — reconocibles, disponibles todo el año: el ancla estable de la marca.
   - Brownie de chocolate y AOVE, con nueces de Tarragona y cacao 85% de tostador local.
   - Bizcocho de calabacín, queso de oveja, aceitunas y AOVE.
   - Bizcocho de pera, romero, avellanas de Reus y chocolate.
-- **Rotacional** — cambia con el calendario estacional, aporta frescura.
-  - Otoño: tartaleta de calabaza, queso y avellanas; tartaleta de aceitunas y hierbas.
-  - Invierno: tartaleta de calçots y romesco; tarta de queso de cabra con remolachas de invierno; elaboraciones de cítricos y almendra.
-  - Primavera: tartaletas de fresas y almendra; propuestas con verduras y hierbas.
-  - Verano: tartaletas de fruta de hueso, melocotón, albaricoque, cerezas e higos.
-- **Cookies** — línea propia en desarrollo: chocolate con avellana y sal marina · AOVE con almendra y cítricos · trigo sarraceno con tahini y semillas.
+  - Cookie de chocolate, avellana y sal marina — la única que no cambia nunca.
+- **Rotacional** — cambia con el calendario estacional (Otoño/Invierno/Primavera/Verano), aporta frescura. **No se publica qué producto concreto toca en cada estación** — es información de desarrollo interno, no contenido de cara al cliente.
+  - Tartaletas de fruta y verdura de temporada.
+  - Cookies de temporada: AOVE con almendra y cítricos · trigo sarraceno con tahini y semillas.
 
 ### Los 6 criterios de desarrollo de cada receta
 
@@ -164,12 +162,14 @@ La firma real de identidad: **ingrediente conocido + combinación o presentació
 
 ## 7. Ecosistema de marca
 
-- **Mood Kitchen** — el espacio de investigación y creación de recetas (vive como historia de marca, no como página propia del sitio).
-- **Mood Journal** — contenido sobre ingredientes, productores, temporadas, cultura gastronómica.
-- **Mood Table Experiences / Mood Moments** — encuentros en persona: su cara gastronómica (desayunos, catas, colaboraciones) y su cara de comunidad más amplia (cenas en reflexión, yoga/pilates, talleres de belleza). Sin mecánica de QR ni ritual por producto — eso quedó retirado del todo.
-- **Mood Goods** — colecciones estacionales, colaboraciones, ediciones limitadas.
+Cuatro piezas, todas renombradas (2026-11-17): perdieron "Mood" igual que la marca madre.
 
-*(Pendiente de decisión de Andrea: si estos sub-nombres pierden "Mood" también, igual que la marca madre.)*
+- **Kitchen** — el espacio de investigación y creación de recetas (vive como historia de marca, no como página propia del sitio).
+- **Journal** — contenido sobre ingredientes, productores, temporadas, cultura gastronómica.
+- **La Mesa** *(antes "Mood Moments" + "Mood Table Experiences", fusionadas en una sola sección)* — encuentros en persona, gastronómicos y de comunidad juntos: desayunos, catas, colaboraciones, cenas en reflexión, yoga/pilates, talleres de belleza. Sin mecánica de QR ni ritual por producto — eso quedó retirado del todo.
+- **Goods** — colecciones estacionales, colaboraciones, ediciones limitadas.
+
+*(Sigue abierto: el B2B, "Organiza una experiencia Mood" — encaja de forma natural en La Mesa, pero Andrea no lo ha confirmado.)*
 
 ---
 

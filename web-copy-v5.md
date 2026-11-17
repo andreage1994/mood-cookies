@@ -28,18 +28,18 @@ origen/temporada/nutrición/el momento de compartir). Ver
 
 ## Arquitectura del sitio — propuesta, a confirmar
 
-El documento oficial da 5 piezas de ecosistema (Mood Kitchen, Journal,
-La Mesa, Mood Goods — La Mesa ya reúne lo que antes eran "Mood Moments" y
+El documento oficial da 5 piezas de ecosistema (Kitchen, Journal,
+La Mesa, Goods — La Mesa ya reúne lo que antes eran "Mood Moments" y
 "Mood Table Experiences", renombradas y fusionadas el 2026-11-17). No las
 mapeo 1:1 a nav — sería fragmentar demasiado un sitio que todavía es
 pequeño. Propongo:
 
 1. **Inicio**
 2. **Repostería** — página propia de catálogo (`web/catalogo.html`,
-   resuelto 2026-11-17), Siempre / Rotacional, + un rincón de **Mood
-   Goods**: ediciones y colaboraciones, cuando existan.
+   resuelto 2026-11-17), Siempre / Rotacional, + un rincón de **Goods**:
+   ediciones y colaboraciones, cuando existan.
 3. **Nuestra forma de ver el mundo** (propósito, manifiesto, los 4 verbos —
-   aquí vive el espíritu de **Mood Kitchen** como historia, no como página
+   aquí vive el espíritu de **Kitchen** como historia, no como página
    propia: cómo nace una receta, no un escaparate de R&D)
 4. **Journal**
 5. **La Mesa** — eventos de comunidad y gastronómicos juntos (cenas en
@@ -196,7 +196,7 @@ especificar en la web qué pieza concreta toca en cada una)*
 - Cookies de temporada: AOVE con almendra y cítricos · trigo sarraceno con
   tahini y semillas.
 
-**Mood Goods** *(próximamente)* — colecciones estacionales, colaboraciones
+**Goods** *(próximamente)* — colecciones estacionales, colaboraciones
 y ediciones limitadas.
 
 ---
@@ -218,7 +218,7 @@ más abajo.
 
 > A. Catálogo — cada pieza con nombre, foto, ingredientes principales,
 >    precio, botón añadir al carrito.
-> B. Mood Goods — ediciones y colaboraciones, cuando existan.
+> B. Goods — ediciones y colaboraciones, cuando existan.
 > C. FAQ
 
 **Retirado (2026-11-16): el test "¿qué momento necesitas hoy?".** Llevaba
@@ -300,7 +300,7 @@ el centro, y llevarlo a la mesa con los demás.
 > ✓ Ingredientes de temporada y de proximidad, siempre que sea posible.
 > ✓ Whole foods, sin procesados — nutritivo de verdad.
 > ✓ Sabor por encima de todo — nunca una receta mediocre por la narrativa.
-> ✓ Algo que la haga reconocible como Mood.
+> ✓ Algo que la haga reconocible como Arrel.
 >
 > **Lo que SÍ varía según la pieza — consultar siempre:** si una receta
 > concreta es vegana, vegetariana o lleva gluten depende del producto. Esto

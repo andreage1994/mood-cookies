@@ -37,16 +37,19 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
   solo inspiración de tono, confirmado. "Cake de llimona i llavors de
   rosella" era solo ejemplo de maquetación, no producto real — confirmado,
   no se suma al catálogo.
-- **Resuelto (2026-11-17) — catálogo y ecosistema:** las cookies ya no son
-  tercera línea — una (chocolate, avellana y sal marina) se suma a
-  **Siempre**; las otras dos rotan dentro de **Rotacional**. Los ejemplos
-  de qué producto va en cada estación (calabaza en otoño, calçots en
-  invierno, etc.) eran solo para que yo entendiera el concepto — **no se
-  publican en la web**, solo las 4 estaciones como estructura. Mood
-  Journal → **Journal**; Mood Moments + Mood Table Experiences → **La
-  Mesa** (fusionadas en una sola sección). Mood Kitchen y Mood Goods
-  siguen sin renombrar — no asumido. El catálogo pasa a tener **página
-  propia** (`web/catalogo.html`), el Home solo lleva un teaser con enlace.
+- **Resuelto (2026-11-17) — catálogo y ecosistema, del todo:** las
+  cookies ya no son tercera línea — una (chocolate, avellana y sal
+  marina) se suma a **Siempre**; las otras dos rotan dentro de
+  **Rotacional**. Los ejemplos de qué producto va en cada estación
+  (calabaza en otoño, calçots en invierno, etc.) eran solo para que yo
+  entendiera el concepto — **no se publican en la web**, solo las 4
+  estaciones como estructura. El catálogo pasa a tener **página propia**
+  (`web/catalogo.html`), el Home solo lleva un teaser con enlace.
+  Ecosistema: **todo pierde "Mood"** — Kitchen, Journal, La Mesa (fusión
+  de Mood Moments + Mood Table Experiences), Goods. Cuarto verbo
+  **Compartir, confirmado**.
+- **Fase B queda cerrada salvo un único punto: el B2B** ("Organiza una
+  experiencia Mood") — encaja en La Mesa, sin confirmar todavía.
 - **`web-copy-v5.md`** ya renombrado a Arrel en el cambio masivo de hoy —
   sigue siendo el copy vigente de la web, con Hero reescrito (menos
   robótico) y "El problema" reescrito con StoryBrand real (ver
@@ -63,9 +66,7 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
       declaradas: sin visita física, sin precios de carta oficiales.
 - [x] **Fase B · Plataforma de marca** — **v3, documento oficial,
       prácticamente cerrado**, ver `fase-b-plataforma-marca.md`. Único
-      punto real sin responder: estado del B2B. El pivote de nombre a
-      Arrel no toca nada de esta fase salvo el nombre y la identidad
-      visual.
+      punto real sin responder en toda la fase: estado del B2B.
 - [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente de que
       Andrea confirme la Fase A (visita física pendiente).
 - [~] **GATE 2 · ¿Es esta la plataforma de marca que Andrea quiere?** —
@@ -111,6 +112,11 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    (bloque invertido) pesa visualmente más de lo que debería frente a
    "Nuestra mirada creativa"; (b) newsletter sin copy de marca todavía
    (solo rótulo funcional, no hay texto decidido en Fase B).
-3. Que Andrea responda: estado del B2B, si Mood Kitchen/Mood Goods pierden
-   "Mood" también, y si confirma o cambia el cuarto verbo propuesto
-   ("Compartir") — los tres únicos puntos de Fase B que siguen abiertos.
+3. **Único punto de Fase B sin cerrar: el B2B.**
+4. Antes de construir Journal y La Mesa como páginas propias (como ya
+   pasó con Repostería): decidir si de verdad necesitan página propia ya,
+   o si el teaser del Home basta por ahora.
+5. Idioma de las fichas de producto (catalán/español/bilingüe) — abierto
+   desde el moodboard, nunca respondido.
+6. Fase A (GATE 1) sigue sin el visto bueno formal de Andrea — visita
+   física pendiente.
