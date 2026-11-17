@@ -127,7 +127,7 @@ darles una nueva mirada a través de la creatividad culinaria.
 
 ### Nuestra mirada creativa
 
-No buscamos inventar por inventar. Nos interesa reinterpretar elaboraciones
+No buscamos inventar por inventar. Nos apasiona reinterpretar elaboraciones
 que conocemos de toda la vida y darles una nueva mirada a través de la
 creatividad: explorar combinaciones de sabores, ingredientes locales y de
 proximidad, y productos de temporada. Partimos de lo familiar para
