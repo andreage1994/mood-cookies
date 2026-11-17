@@ -183,6 +183,12 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    las 3 ahora son foto de producto real: brownie, bizcocho de pera,
    tarta de queso de cabra (la misma que usa `web/catalogo.html` en
    Rotacional). Versión 10 del Artifact.
+   **Segunda corrección (2026-11-17):** la cesta de recolección en
+   "Nuestra mirada creativa" repetía el tópico del campo. Sustituida por
+   la foto de la chica con la bolsa de red de frutas y verduras (antes en
+   La Mesa). **La Mesa se queda sin foto de nuevo** (placeholder) — no
+   forcé un encaje flojo con lo que quedaba libre; pendiente de foto
+   propia. Versión 11 del Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por
