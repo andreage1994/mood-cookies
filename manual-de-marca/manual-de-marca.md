@@ -141,7 +141,11 @@ Ver referencia visual en el grupo de assets **Identidad** (`logo-formatos.png`, 
 
 ### Fotografía
 
-Macro de producto (corte, miga, textura, glaseado) **en contexto de mesa** — nunca ingrediente aislado sobre fondo neutro como muestra de laboratorio o perfumería. Luz natural, composición espontánea pero cuidada. El objeto es el placer de comerlo, no la materia prima a analizar.
+Dos registros, no uno.
+
+**Producto** (Home, Catálogo): macro de producto (corte, miga, textura, glaseado) **en contexto de mesa** — nunca ingrediente aislado sobre fondo neutro como muestra de laboratorio o perfumería. Luz natural, composición espontánea pero cuidada. El objeto es el placer de comerlo, no la materia prima a analizar.
+
+**Origen / ingredientes** (revisado 2026-11-17): Andrea reconsideró la crítica de agencia — el problema del moodboard original nunca fue fotografiar un ingrediente por separado, fue el tono frío de perfumería/farmacia. Se recupera esa mirada de catálogo como capa de diferenciación, solo para ingredientes: un ingrediente por foto, fondo Soft Paper liso, luz natural **cálida** (nunca clínica), con su origen al lado en Special Elite (ej. "Avellanas · Reus", "AOVE · Les Garrigues"). Vive en Journal/Kitchen y como apoyo de las fichas de producto — complementa la fotografía de mesa, no la sustituye.
 
 ### Lo que decidimos no hacer (y por qué)
 

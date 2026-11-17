@@ -129,6 +129,34 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    la dirección y quedó pulido como "**Temporada, proximidad y
    creatividad. Para disfrutar solo, o compartir en la mesa.**" Aplicado en
    `web-copy-v5.md` y `web/home.html` (Versión 5 del Artifact).
+   **Fotos reales en el catálogo (2026-11-17):** las 5 fotos de producto
+   que Andrea compartió el día anterior, aplicadas a cada tarjeta de
+   Siempre (Nº001-004) y a Rotacional como foto ilustrativa — guardadas
+   también en `web/images/` (Versión 6 del Artifact).
+   **Simplificación de Rotacional + orígenes de ingrediente (2026-11-17):**
+   Andrea pidió quitar las pestañas de estación ("excesivo") y en su lugar
+   explicar simplemente que adaptamos recetas según lo que hay en la
+   tierra, con un ejemplo concreto que ella misma dio: tarta de queso de
+   cabra catalana con remolachas de invierno y tomillo de Lleida — esto
+   **revierte puntualmente** la regla de no nombrar producto-estación
+   (queda como excepción consciente, no como cambio general de regla).
+   También pidió origen por ingrediente en toda la carta — verificado por
+   búsqueda web donde no era ya conocido: AOVE/aceitunas arbequina de Les
+   Garrigues (Lleida), calabacín del Parc Agrari del Baix Llobregat, queso
+   de oveja del Pirineu català, peras DOP de Lleida, sal marina del Delta
+   de l'Ebre, almendra de Lleida, cítricos de les Terres de l'Ebre
+   (Versión 7 del Artifact).
+   **Novena pasada de identidad visual (2026-11-17) — fotografía de
+   origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
+   el moodboard original — no rechaza fotografiar ingredientes por
+   separado, rechazaba el tono frío de perfumería/farmacia. Confirmado
+   (vía pregunta directa): **"Especimen cálido sobre Soft Paper"** — un
+   ingrediente por foto, fondo Soft Paper, luz cálida, etiqueta de origen
+   en Special Elite (ej. "Avellanas · Reus"). Es una capa nueva que
+   complementa, no sustituye, la fotografía de mesa de producto. Aplicado
+   en `identidad-visual/README.md` (sección "Sistema vigente") y
+   `manual-de-marca/manual-de-marca.md` sección Fotografía — manual
+   republicado.
 3. **Único punto de Fase B sin cerrar: el B2B.**
 4. Antes de construir Journal y La Mesa como páginas propias (como ya
    pasó con Repostería): decidir si de verdad necesitan página propia ya,

@@ -39,11 +39,24 @@
   junto a la etiqueta de categoría (Cake/Cookie). Es la misma lógica que
   ya usaban los números de "Nuestros pilares" y "Cómo funciona" en el
   Home — ahora también en producto.
-- **Fotografía:** macro de producto (corte, miga, textura) en contexto
-  de mesa — nunca ingrediente aislado tipo especimen de laboratorio.
+- **Fotografía — dos registros, no uno (revisado 2026-11-17, novena
+  pasada):**
+  - **Producto** (Home, Catálogo): macro de corte/miga/textura en
+    contexto de mesa — nunca ingrediente aislado tipo especimen de
+    laboratorio frío. Esto no cambia.
+  - **Origen / ingredientes** — Andrea reconsideró la crítica de agencia:
+    el problema del moodboard original nunca fue "un ingrediente por
+    foto", fue el tono frío de perfumería/farmacia. Recupera esa mirada
+    de catálogo como una capa de diferenciación, solo para ingredientes:
+    un ingrediente por foto, fondo Soft Paper liso, luz natural **cálida**
+    (nunca clínica), con su origen al lado en Special Elite — ej.
+    "Avellanas · Reus", "AOVE · Les Garrigues". Vive en Journal/Kitchen y
+    como apoyo de las fichas de producto (que ya llevan el origen en
+    texto, ver `web/catalogo.html`) — no sustituye a la fotografía de
+    mesa de Home/Catálogo, la complementa.
 
 El resto de este documento es el historial de cómo se llegó hasta aquí
-(8 pasadas de corrección), por trazabilidad — no hace falta leerlo para
+(9 pasadas de corrección), por trazabilidad — no hace falta leerlo para
 trabajar con el sistema vigente.
 
 ---
