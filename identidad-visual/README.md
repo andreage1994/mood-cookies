@@ -20,11 +20,23 @@
   (uso primario) · monograma "A" suelto (favicon, redes) · lockup
   vertical con tagline + ubicación · la "A" como sello puntual de
   esquina (ficha/packaging). Ver `formatos-logo-v2.png`.
+- **Regla de packaging — sello físico (confirmada 2026-11-17, séptima
+  pasada):** todo estampado físico sobre packaging (tela, papel kraft,
+  fichas de producto) va **siempre en Fig Jam** `#9A2E3A` (burdeos vivo)
+  — nunca en Warm Ink. Tipografía del sello: **Special Elite** (la
+  textura desgastada de máquina de escribir, no Libre Caslon Display) —
+  confirmado contra la imagen de referencia de Andrea, ver
+  `confirmacion-sello-figjam.png`. Dos registros de logo, cada uno con su
+  color y tipografía fijos, nunca intercambiables:
+  - **Digital** (web, redes, favicon): Libre Caslon Display, Warm Ink,
+    vectorial limpio.
+  - **Físico estampado** (packaging real): Special Elite, Fig Jam,
+    con la textura de tampón.
 - **Fotografía:** macro de producto (corte, miga, textura) en contexto
   de mesa — nunca ingrediente aislado tipo especimen de laboratorio.
 
 El resto de este documento es el historial de cómo se llegó hasta aquí
-(5 pasadas de corrección), por trazabilidad — no hace falta leerlo para
+(7 pasadas de corrección), por trazabilidad — no hace falta leerlo para
 trabajar con el sistema vigente.
 
 ---

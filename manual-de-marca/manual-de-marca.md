@@ -122,12 +122,22 @@ Ver tokens `surface`, `ink`, `accent`. Solo 3 colores en todo el sistema, de for
 
 Decisión explícita: nada de círculos, badges ni contenedores decorativos — todo recto, simple.
 
-1. **Wordmark horizontal** — "ARREL" en Libre Caslon Display, Warm Ink. Uso primario: web, packaging grande.
+1. **Wordmark horizontal** — "ARREL" en Libre Caslon Display, Warm Ink. Uso primario: web, pantallas.
 2. **Monograma "A"** — la letra sola, sin caja ni círculo. Favicon, redes, sellos pequeños.
 3. **Lockup vertical** — wordmark + "Conectar con lo que nos alimenta" + "Barcelona · Obrador", centrado. Portadas, packaging grande.
 4. **El sello puntual** — la "A" colocada como marca de esquina en una ficha o packaging (nunca como elemento central ni enmarcada) — es la única forma en que sobrevive el gesto de "sello" del primer concepto de marca.
 
-Ver referencia visual completa en el grupo de assets **Logo** (`formatos-logo.png`).
+**Regla de packaging — dos registros de logo, nunca intercambiables (confirmado 2026-11-17):**
+
+| | Digital (web, redes, favicon) | Físico estampado (packaging) |
+|---|---|---|
+| Tipografía | Libre Caslon Display | **Special Elite** |
+| Color | Warm Ink | **Fig Jam (burdeos)** |
+| Acabado | Vectorial limpio | Textura de tampón/sello desgastado |
+
+Todo estampado físico sobre tela, papel kraft o fichas de producto va siempre en Fig Jam con Special Elite — nunca en Warm Ink, nunca con Libre Caslon Display. Confirmado contra la imagen de referencia real de Andrea (el estampado sobre tela y la ficha de producto del moodboard original).
+
+Ver referencia visual en el grupo de assets **Identidad** (`logo-formatos.png`, `paleta-tipografia.png`).
 
 ### Fotografía
 

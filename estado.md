@@ -20,9 +20,15 @@ aplicada aquí a un proyecto propio de Andrea, no a un cliente).
   igual. Único punto real sin cerrar: el **B2B** ("Organiza una experiencia
   Mood").
 - **Identidad visual — sistema cerrado (2026-11-17), ver
-  `identidad-visual/README.md` sección "Sistema vigente".** Pasó por 5
-  rondas de corrección el mismo día: moodboard original de Andrea
-  (estética sello/máquina de escribir + paleta fría tipo apotecario) →
+  `identidad-visual/README.md` sección "Sistema vigente".** Séptima
+  pasada: Andrea confirmó, con imagen de referencia real, que **el sello
+  físico de packaging va siempre en Fig Jam (burdeos) con Special Elite**
+  — nunca Warm Ink, nunca Libre Caslon Display. Quedan dos registros de
+  logo fijos y no intercambiables: digital (Libre Caslon Display, Warm
+  Ink, limpio) y físico estampado (Special Elite, Fig Jam, con textura de
+  tampón). Pasó por 7 rondas de corrección en total: moodboard original
+  de Andrea (estética sello/máquina de escribir + paleta fría tipo
+  apotecario) →
   revisión de agencia (dirección de diseño gráfico + estrategia de marca,
   independientes, mismo diagnóstico: esa estética reproducía el villano
   de la marca en vez de resolverlo) → paleta de 5 colores rechazada por
