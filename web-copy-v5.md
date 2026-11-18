@@ -318,16 +318,25 @@ renombrada y fusionada 2026-11-17 — eventos de comunidad, resuelto
 
 > Momentos para vivir con otros, más allá de la mesa.
 
-Cenas en reflexión, yoga y pilates, talleres de belleza, desayunos, catas
-y colaboraciones alrededor de la comida — encuentros de comunidad que no
-dependen de comprar nada en concreto. Es la parte de Arrel que no se
-envuelve ni se hornea: se vive. Ya no se distingue entre "cara
-gastronómica" y "resto" — es una sola sección.
+**Reenfocado (2026-11-18):** Andrea señaló que las actividades originales
+(cenas en reflexión, yoga y pilates, talleres de belleza) estaban muy
+ancladas en el wellness de Mood Cookies, no en lo que es Arrel ahora —
+convocamos a `arrel-estrategia-marca` para el diagnóstico y el
+brainstorm. Yoga/pilates y talleres de belleza se retiran del todo (sin
+ingrediente, origen ni mesa compartida de por medio — no atacan el
+villano de la marca). "Cenas en reflexión" se reformula. Siete formas de
+encuentro, todas ancladas en ingrediente/origen/productor/temporada:
 
-**Sigue ABIERTO:** el B2B ("Organiza una experiencia Mood") no está
-confirmado ni descartado — encaja de forma natural aquí (empresas que
-reservan una sesión de yoga, una cena o un taller para su equipo), pero no
-lo doy por hecho sin que Andrea lo diga.
+Cenas de temporada, mercado y obrador, "reinterpreta conmigo" (taller de
+reinterpretación de receta), desayunos, catas, conversaciones de
+productor y colaboraciones — encuentros de comunidad alrededor del
+origen y la temporada, que no dependen de comprar nada en concreto. Es
+la parte de Arrel que no se envuelve ni se hornea: se vive.
+
+**Resuelto (2026-11-18):** el B2B sí entra — "Organiza un encuentro de
+La Mesa para tu equipo" (una cena de temporada, una cata o un taller de
+reinterpretación, mismo criterio que cualquier otro encuentro: origen,
+temporada, creatividad — no team building ni wellness corporativo).
 
 ---
 

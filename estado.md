@@ -284,6 +284,21 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    abierto). Nav de las 4 páginas existentes + el botón del teaser de
    La Mesa en el Home (que enlazaba mal a `#contacto`) corregidos para
    apuntar aquí. Versión 19 del Artifact.
+   **Reenfoque de La Mesa + B2B (2026-11-18):** Andrea vio las 6
+   actividades iniciales y señaló que estaban "muy enfocadas en wellness
+   y lo que era antes mood cookies" — pidió convocar a
+   `arrel-estrategia-marca` y hacer brainstorming. Diagnóstico del
+   agente: Yoga/pilates y talleres de belleza no tienen ingrediente,
+   origen ni mesa compartida de por medio — herencia directa de Mood
+   Cookies, sin reconversión posible; se retiran del todo. "Cenas en
+   reflexión" se reformula. **Quedan 7 encuentros, todos anclados en
+   ingrediente/origen/productor/temporada:** Cenas de temporada, Mercado
+   y obrador, Reinterpreta conmigo (taller), Desayunos, Catas,
+   Conversaciones de productor, Colaboraciones. **B2B resuelto, entra
+   por fin:** "Organiza un encuentro de La Mesa para tu equipo" — mismo
+   criterio que cualquier otro encuentro, explícitamente no team
+   building ni wellness corporativo. Aplicado en `web/la-mesa.html`,
+   `web/home.html` (teaser) y `web-copy-v5.md`. Versión 20 del Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por
