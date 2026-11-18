@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arrel — La Mesa</title>
+<meta name="description" content="La Mesa de Arrel: encuentros de comunidad alrededor de la comida — cenas, yoga, talleres, catas y colaboraciones.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Special+Elite&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --paper: #FBF8F2;
+    --ink: #3B2E28;
+    --fig: #9A2E3A;
+
+    --ink-10: rgba(59,46,40,.1);
+    --ink-18: rgba(59,46,40,.18);
+    --ink-55: rgba(59,46,40,.55);
+    --paper-70: rgba(251,248,242,.7);
+    --paper-50: rgba(251,248,242,.5);
+
+    --display: "Libre Caslon Display", "Georgia", serif;
+    --body: "Lora", "Georgia", serif;
+    --mono: "Special Elite", "Courier New", monospace;
+
+    --gutter: clamp(20px, 6vw, 72px);
+    --max: 1180px;
+  }
+
+  *{ box-sizing: border-box; }
+  html{ scroll-behavior: smooth; }
+  body{
+    margin:0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--body);
+    font-size: 17px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+  img{ max-width:100%; display:block; }
+  a{ color: inherit; text-decoration: none; }
+
+  .wrap{
+    max-width: var(--max);
+    margin: 0 auto;
+    padding-left: var(--gutter);
+    padding-right: var(--gutter);
+  }
+
+  h1, h2, h3{
+    font-family: var(--display);
+    font-weight: 400;
+    margin: 0;
+    letter-spacing: 0.01em;
+  }
+
+  .eyebrow{
+    font-family: var(--body);
+    font-style: italic;
+    font-size: 0.92rem;
+    letter-spacing: 0.06em;
+    color: var(--fig);
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 1.1em;
+  }
+
+  .num{
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    color: var(--fig);
+    letter-spacing: 0.03em;
+  }
+
+  .btn{
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6em;
+    font-family: var(--body);
+    font-size: 0.98rem;
+    letter-spacing: 0.02em;
+    padding: 0.85em 1.7em;
+    border: 1px solid var(--fig);
+    color: var(--fig);
+    transition: background .2s ease, color .2s ease;
+    white-space: nowrap;
+  }
+  .btn:hover{ background: var(--fig); color: var(--paper); }
+
+  .link-arrow{
+    font-size: 0.95rem;
+    border-bottom: 1px solid var(--fig);
+    color: var(--fig);
+    padding-bottom: 2px;
+  }
+
+  /* ---------- foto ---------- */
+  .photo{
+    position: relative;
+    background:
+      repeating-linear-gradient(135deg, var(--ink-10) 0 1px, transparent 1px 22px),
+      var(--paper-50);
+    border: 1px solid var(--ink-18);
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 18px;
+    min-height: 220px;
+  }
+  .photo.wide{ aspect-ratio: 16/9; }
+  .photo.has-img{ overflow: hidden; padding: 0; }
+  .photo.has-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .photo span{
+    font-family: var(--body);
+    font-style: italic;
+    font-size: 0.82rem;
+    color: var(--ink-55);
+    background: var(--paper-70);
+    padding: 0.3em 0.7em;
+    line-height: 1.4;
+  }
+
+  /* ---------- header ---------- */
+  header{
+    position: sticky; top: 0; z-index: 20;
+    background: var(--paper-70);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--ink-10);
+  }
+  .nav-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 0;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  .logo{
+    font-family: var(--display);
+    font-size: 1.5rem;
+    letter-spacing: 0.08em;
+    color: var(--ink);
+  }
+  nav ul{
+    list-style: none;
+    display: flex;
+    gap: clamp(14px, 2.4vw, 32px);
+    margin: 0; padding: 0;
+    flex-wrap: wrap;
+  }
+  nav a{
+    font-size: 0.88rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 3px;
+    transition: border-color .2s ease, color .2s ease;
+  }
+  nav a:hover{ color: var(--fig); border-color: var(--fig); }
+  nav a.is-active{ color: var(--fig); border-color: var(--fig); }
+
+  /* ---------- intro ---------- */
+  .intro{ padding: clamp(48px, 9vw, 96px) 0 clamp(32px, 5vw, 56px); }
+  .intro h1{ font-size: clamp(2rem, 4.6vw, 3.1rem); max-width: 20ch; line-height: 1.15; }
+  .intro p{ margin-top: 1.1em; max-width: 54ch; font-size: 1.05rem; }
+
+  section{ padding: clamp(48px, 8vw, 96px) 0; }
+  .rule{ border: none; height: 1px; background: var(--ink-10); margin: 0; }
+
+  .section-head{ max-width: 62ch; margin-bottom: clamp(28px, 4.5vw, 48px); }
+  .section-head h2{ font-size: clamp(1.5rem, 3vw, 2.1rem); line-height: 1.25; }
+
+  /* ---------- tipos de encuentro ---------- */
+  .encuentros-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: clamp(28px, 4vw, 44px);
+  }
+  .encuentro{ border-top: 1px solid var(--ink-18); padding-top: 1.2em; }
+  .encuentro h3{ font-size: 1.15rem; margin-bottom: 0.5em; }
+  .encuentro p{ margin: 0; font-size: 0.95rem; color: var(--ink); max-width: 32ch; }
+
+  .proximamente{
+    font-style: italic;
+    color: var(--ink-55);
+    font-size: 0.95rem;
+    border-left: 2px solid var(--fig);
+    padding-left: 1.1em;
+    max-width: 54ch;
+  }
+
+  .cta-block{ text-align: left; }
+  .cta-block .btn{ margin-top: 1.4em; }
+
+  footer.pie{ background: var(--ink); color: var(--paper); margin-top: clamp(40px, 6vw, 72px); }
+  .foot-inner{ padding: clamp(32px, 5vw, 56px) 0; display:flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; align-items: center; }
+  .foot-inner a:hover{ color: var(--fig); }
+
+  @media (max-width: 920px){
+    .encuentros-grid{ grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 600px){
+    .nav-row{ justify-content: center; text-align: center; }
+    nav ul{ justify-content: center; gap: 12px 18px; }
+    .encuentros-grid{ grid-template-columns: 1fr; }
+    .foot-inner{ justify-content: center; text-align: center; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav-row">
+    <a href="home.html" class="logo">ARREL</a>
+    <nav aria-label="Navegación principal">
+      <ul>
+        <li><a href="catalogo.html">Repostería</a></li>
+        <li><a href="mundo.html">Nuestra forma de ver el mundo</a></li>
+        <li><a href="journal.html">Journal</a></li>
+        <li><a href="la-mesa.html" class="is-active">La Mesa</a></li>
+        <li><a href="home.html#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <section class="intro">
+    <div class="wrap">
+      <span class="eyebrow">La Mesa</span>
+      <h1>Momentos para vivir con otros, más allá de la mesa.</h1>
+      <p>Encuentros de comunidad que no dependen de comprar nada en concreto. Es la parte de Arrel que no se envuelve ni se hornea: se vive.</p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <div class="photo wide has-img"><img src="images/la-mesa-mercado.jpg" alt="Puesto de mercado desbordante de verduras y fruta de temporada"></div>
+  </div>
+
+  <hr class="rule" style="margin-top: clamp(48px, 8vw, 96px);">
+
+  <!-- TIPOS DE ENCUENTRO -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Qué pasa en La Mesa</span>
+        <h2>Seis formas de encontrarnos.</h2>
+      </div>
+      <div class="encuentros-grid">
+        <div class="encuentro">
+          <span class="num">01</span>
+          <h3>Cenas en reflexión</h3>
+          <p>Cenas pausadas, pensadas para parar y hablar — no para llenar una agenda.</p>
+        </div>
+        <div class="encuentro">
+          <span class="num">02</span>
+          <h3>Yoga y pilates</h3>
+          <p>Movimiento antes — o después — de sentarse a la mesa.</p>
+        </div>
+        <div class="encuentro">
+          <span class="num">03</span>
+          <h3>Talleres de belleza</h3>
+          <p>Cuidado personal con los mismos principios: presencia, calma, ingredientes de verdad.</p>
+        </div>
+        <div class="encuentro">
+          <span class="num">04</span>
+          <h3>Desayunos</h3>
+          <p>El primer encuentro del día, despacio.</p>
+        </div>
+        <div class="encuentro">
+          <span class="num">05</span>
+          <h3>Catas</h3>
+          <p>Descubrir un ingrediente o una técnica de cerca, con quien lo trabaja.</p>
+        </div>
+        <div class="encuentro">
+          <span class="num">06</span>
+          <h3>Colaboraciones</h3>
+          <p>Con otras marcas y oficios que comparten mirada.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- PRÓXIMOS ENCUENTROS -->
+  <section>
+    <div class="wrap cta-block">
+      <div class="section-head">
+        <span class="eyebrow">Calendario</span>
+        <h2>Todavía no hay fechas publicadas.</h2>
+      </div>
+      <p class="proximamente">Estamos preparando los primeros encuentros — si quieres que te avisemos en cuanto haya fecha, escríbenos.</p>
+      <a href="home.html#contacto" class="btn">Avísame del próximo encuentro</a>
+    </div>
+  </section>
+
+</main>
+
+<footer class="pie">
+  <div class="wrap foot-inner">
+    <span>© 2026 Arrel. Barcelona · Obrador.</span>
+    <a href="home.html#contacto" class="link-arrow" style="color:var(--paper); border-color:var(--paper);">Contacto →</a>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -271,6 +271,19 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    Home enlazaba a `#contacto` en vez de a Journal. **Sigue abierto:**
    cómo subdividir Ritualizar (por estación o de otra forma) — mencionado
    en la propia página. Versión 18 del Artifact.
+   **La Mesa — página propia (2026-11-18, `web/la-mesa.html`).** Contenido
+   de `web-copy-v5.md` sección 4: "momentos para vivir con otros, más allá
+   de la mesa" + las 6 formas de encuentro que ya estaban en el documento
+   oficial (cenas en reflexión, yoga/pilates, talleres de belleza,
+   desayunos, catas, colaboraciones), cada una como bloque corto, sin
+   foto (no tenemos fotografía de eventos todavía). Calendario honesto:
+   "todavía no hay fechas publicadas" + CTA de contacto, en vez de
+   inventar fechas o eventos concretos. **No incluí el B2B** ("Organiza
+   una experiencia Mood/Arrel") — sigue sin confirmar ni descartar por
+   Andrea, no lo publico sin que ella lo diga (ver más abajo, sigue
+   abierto). Nav de las 4 páginas existentes + el botón del teaser de
+   La Mesa en el Home (que enlazaba mal a `#contacto`) corregidos para
+   apuntar aquí. Versión 19 del Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por
