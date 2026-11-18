@@ -227,6 +227,17 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    así que se actualiza sola en `web/catalogo.html` y en el teaser de
    `web/home.html`. Original guardado en
    `referencias-visuales/editorial-03/`. Versión 15 del Artifact.
+   **Retoque de color para igualar acabado (2026-11-18):** Andrea notó que
+   la foto del bizcocho de pera (Nº003) no tenía el mismo acabado cálido
+   que el resto (tras actualizar brownie y tarta de remolacha a fotos ya
+   editadas por ella). Como no es una edición profesional, probé un
+   ajuste programático (Python + Pillow: más calidez, ligera
+   desaturación, grano sutil) y se lo mandé para aprobar antes de
+   aplicarlo — confirmado ("ok la foto de la tarta"). Aplicado el mismo
+   ajuste también al bizcocho de calabacín/queso de oveja (Nº002, "cake
+   salado"), a petición suya. Versiones retocadas guardadas en
+   `referencias-visuales/retocadas/` por si hay que repetir el ajuste en
+   más fotos o revertir. Versión 16 del Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por
