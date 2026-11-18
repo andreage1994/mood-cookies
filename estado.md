@@ -2,7 +2,7 @@
 
 **Flujo:** Concepto y Narrativa de Marca (misma lógica de fases que usa TBNB,
 aplicada aquí a un proyecto propio de Andrea, no a un cliente).
-**Última actualización:** 2026-11-17
+**Última actualización:** 2026-11-18
 
 ## Resumen
 
@@ -189,6 +189,21 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    La Mesa). **La Mesa se queda sin foto de nuevo** (placeholder) — no
    forcé un encaje flojo con lo que quedaba libre; pendiente de foto
    propia. Versión 11 del Artifact.
+   **Segundo lote de fotografía editorial (2026-11-18):** Andrea pasó 6
+   fotos más con la edición ya unificada (`ARREL_foto_01` a `_06` —
+   guardadas en `referencias-visuales/editorial-02/`). Usadas dos, en los
+   dos huecos reales que quedaban abiertos: **La Mesa** (home.html) →
+   puesto de mercado desbordante de verduras (cubre el placeholder desde
+   la corrección anterior); **Kitchen / "Cómo nace una receta"**
+   (mundo.html) → foto nueva (antes esa sección no tenía foto) de manos
+   lavando tomates recién comprados, antes de cocinar. Las otras 4 (masa
+   junto a la ventana, pelando cítricos, cesta de metal en vivero, mesa
+   exterior con cestas de verdura) quedan guardadas como banco de
+   referencia para el resto de huecos que vayan apareciendo (Journal
+   propio, Goods, etc.) — no las forcé en ningún sitio sin un hueco real
+   que encajara. Sigue sin cubrir el hueco de "especimen cálido sobre
+   Soft Paper" de `mundo.html` — ninguna de estas 11 fotos de referencia
+   es ese registro. Versión 12 del Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por

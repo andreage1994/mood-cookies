@@ -97,6 +97,14 @@
     min-height: 220px;
   }
   .photo.square{ aspect-ratio: 4/5; }
+  .photo.wide{ aspect-ratio: 16/10; }
+  .photo.has-img{ overflow: hidden; padding: 0; }
+  .photo.has-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
   .photo span{
     font-family: var(--body);
     font-style: italic;
@@ -448,6 +456,7 @@
         <h2>Cómo nace una receta.</h2>
       </div>
       <p class="kitchen-intro">Antes de que algo salga del horno, pasa por nuestra cocina de investigación: ideas, pruebas de sabor, combinaciones que no cuajan y otras que sí. Toda receta de Arrel pasa por los mismos seis filtros antes de llegar a la mesa:</p>
+      <div class="photo wide has-img" style="margin-bottom: clamp(24px, 4vw, 40px);"><img src="images/kitchen-prep.jpg" alt="Lavando tomates recién comprados antes de empezar a cocinar"></div>
       <ul class="criterios-list">
         <li class="criterio">
           <span class="num">01</span>
