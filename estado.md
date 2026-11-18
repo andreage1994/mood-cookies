@@ -238,6 +238,23 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    salado"), a petición suya. Versiones retocadas guardadas en
    `referencias-visuales/retocadas/` por si hay que repetir el ajuste en
    más fotos o revertir. Versión 16 del Artifact.
+   **Bug de las pestañas de estación, corregido (2026-11-18):** al
+   simplificar Rotacional (pasada anterior) borré el CSS de
+   `.temporadas-tabs`/`.temporada-tab` pero me dejé el HTML puesto —
+   salían como texto suelto sin estilo, sin aspecto de botón. Restaurado
+   el CSS (con `cursor: pointer` y hover en Fig Jam, para que se note que
+   son clicables) en `web/catalogo.html`. **Descripción/foto
+   desincronizadas, corregido:** el texto decía "tarta de queso de cabra
+   catalana con remolachas de invierno y tomillo de Lleida" pero la foto
+   real (la de cortar con cuchillo) es más bien un pastel envuelto en col
+   kale — Andrea pidió inventar una descripción nueva que encajara con la
+   foto, con ingredientes catalanes de verdad, dejando claro que es un
+   render/test, no una receta cerrada. Nueva descripción: "pastel
+   envuelto en col kale de temporada, con calabaza, castañas de los
+   Pirineus y queso de cabra català." Pestaña activa cambiada de Otoño a
+   Invierno para encajar con los ingredientes. Aplicado en
+   `web/catalogo.html` y el alt de la misma foto en `web/home.html`.
+   Versión 17 del Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por

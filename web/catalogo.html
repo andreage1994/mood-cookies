@@ -199,7 +199,26 @@
     letter-spacing: 0.03em; text-transform: uppercase;
   }
 
-  /* Rotacional — concepto de temporada, simplificado */
+  /* Rotacional — pestañas de estación (decorativas, sin filtrado real) */
+  .temporadas-tabs{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 28px;
+  }
+  .temporada-tab{
+    font-size: 0.85rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    padding: 0.5em 1.1em;
+    border: 1px dashed var(--ink-18);
+    color: var(--ink-55);
+    cursor: pointer;
+    transition: border-color .2s ease, color .2s ease;
+  }
+  .temporada-tab:hover{ border-color: var(--fig); color: var(--fig); }
+  .temporada-tab.activa{ border: 1px solid var(--fig); color: var(--fig); border-style: solid; }
+
   .rotacional-body{
     display: grid;
     grid-template-columns: 0.95fr 1.05fr;
@@ -309,16 +328,16 @@
         <span class="linea-note">cambia con la temporada</span>
       </div>
       <div class="temporadas-tabs">
-        <span class="temporada-tab activa">Otoño · ahora</span>
-        <span class="temporada-tab">Invierno</span>
+        <span class="temporada-tab">Otoño</span>
+        <span class="temporada-tab activa">Invierno · ahora</span>
         <span class="temporada-tab">Primavera</span>
         <span class="temporada-tab">Verano</span>
       </div>
       <div class="rotacional-body">
-        <div class="photo square has-img"><img src="images/rotacional-tartaleta.webp" alt="Cortando la tarta de queso de cabra catalana con remolachas de invierno"></div>
+        <div class="photo square has-img"><img src="images/rotacional-tartaleta.webp" alt="Cortando el pastel envuelto en col kale, de temporada"></div>
         <div>
           <p>Adaptamos las recetas según los productos que hay en la tierra, estación a estación.</p>
-          <p><strong>Ahora:</strong> tarta de queso de cabra catalana con remolachas de invierno y tomillo de Lleida.</p>
+          <p><strong>Ahora:</strong> pastel envuelto en col kale de temporada, con calabaza, castañas de los Pirineus y queso de cabra català.</p>
           <p>Las cookies de temporada rotan con la misma lógica:</p>
           <ul class="cookie-rot-list">
             <li><span class="num">Nº 005</span> AOVE de Les Garrigues, almendra de Lleida y cítricos de les Terres de l'Ebre</li>
