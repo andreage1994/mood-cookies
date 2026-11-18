@@ -255,6 +255,22 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    Invierno para encajar con los ingredientes. Aplicado en
    `web/catalogo.html` y el alt de la misma foto en `web/home.html`.
    Versión 17 del Artifact.
+   **Journal — página propia (2026-11-18, `web/journal.html`).** Andrea
+   pidió empezar a desarrollarla con los 4 bloques que ya teníamos en
+   `web-copy-v5.md` sección 5: **Alimentación** (ingredientes/recetas/
+   temporada/mercados) y **Ritualizar** (presencia en la mesa) como
+   bloques grandes con foto; **Perspectiva** (reflexiones breves) y
+   **Conversaciones** (entrevistas a chefs/productores) como bloques más
+   simples sin foto. No hay artículos reales todavía, así que cada bloque
+   lleva su descripción y una nota honesta de "primeros artículos en
+   camino" — no me invento títulos de posts como si ya existieran. Fotos
+   usadas: mesa exterior con cestas (Alimentación) y pelando cítricos
+   (Ritualizar), del segundo lote editorial. Nav de las 3 páginas
+   existentes actualizado para enlazar aquí en vez de a `home.html#journal`.
+   De paso corregido un bug: el botón "Entra al Journal →" del teaser del
+   Home enlazaba a `#contacto` en vez de a Journal. **Sigue abierto:**
+   cómo subdividir Ritualizar (por estación o de otra forma) — mencionado
+   en la propia página. Versión 18 del Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por

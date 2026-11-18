@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arrel — Journal</title>
+<meta name="description" content="Journal de Arrel: ingredientes, temporada, presencia en la mesa y las voces de quienes están detrás de lo que comemos.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Special+Elite&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --paper: #FBF8F2;
+    --ink: #3B2E28;
+    --fig: #9A2E3A;
+
+    --ink-10: rgba(59,46,40,.1);
+    --ink-18: rgba(59,46,40,.18);
+    --ink-55: rgba(59,46,40,.55);
+    --paper-70: rgba(251,248,242,.7);
+    --paper-50: rgba(251,248,242,.5);
+
+    --display: "Libre Caslon Display", "Georgia", serif;
+    --body: "Lora", "Georgia", serif;
+    --mono: "Special Elite", "Courier New", monospace;
+
+    --gutter: clamp(20px, 6vw, 72px);
+    --max: 1180px;
+  }
+
+  *{ box-sizing: border-box; }
+  html{ scroll-behavior: smooth; }
+  body{
+    margin:0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--body);
+    font-size: 17px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+  img{ max-width:100%; display:block; }
+  a{ color: inherit; text-decoration: none; }
+
+  .wrap{
+    max-width: var(--max);
+    margin: 0 auto;
+    padding-left: var(--gutter);
+    padding-right: var(--gutter);
+  }
+
+  h1, h2, h3{
+    font-family: var(--display);
+    font-weight: 400;
+    margin: 0;
+    letter-spacing: 0.01em;
+  }
+
+  .eyebrow{
+    font-family: var(--body);
+    font-style: italic;
+    font-size: 0.92rem;
+    letter-spacing: 0.06em;
+    color: var(--fig);
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 1.1em;
+  }
+
+  .num{
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    color: var(--fig);
+    letter-spacing: 0.03em;
+  }
+
+  .link-arrow{
+    font-size: 0.95rem;
+    border-bottom: 1px solid var(--fig);
+    color: var(--fig);
+    padding-bottom: 2px;
+  }
+
+  /* ---------- foto ---------- */
+  .photo{
+    position: relative;
+    background:
+      repeating-linear-gradient(135deg, var(--ink-10) 0 1px, transparent 1px 22px),
+      var(--paper-50);
+    border: 1px solid var(--ink-18);
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 18px;
+    min-height: 220px;
+  }
+  .photo.square{ aspect-ratio: 4/5; }
+  .photo.wide{ aspect-ratio: 16/10; }
+  .photo.has-img{ overflow: hidden; padding: 0; }
+  .photo.has-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .photo span{
+    font-family: var(--body);
+    font-style: italic;
+    font-size: 0.82rem;
+    color: var(--ink-55);
+    background: var(--paper-70);
+    padding: 0.3em 0.7em;
+    line-height: 1.4;
+  }
+
+  /* ---------- header ---------- */
+  header{
+    position: sticky; top: 0; z-index: 20;
+    background: var(--paper-70);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--ink-10);
+  }
+  .nav-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 0;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  .logo{
+    font-family: var(--display);
+    font-size: 1.5rem;
+    letter-spacing: 0.08em;
+    color: var(--ink);
+  }
+  nav ul{
+    list-style: none;
+    display: flex;
+    gap: clamp(14px, 2.4vw, 32px);
+    margin: 0; padding: 0;
+    flex-wrap: wrap;
+  }
+  nav a{
+    font-size: 0.88rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 3px;
+    transition: border-color .2s ease, color .2s ease;
+  }
+  nav a:hover{ color: var(--fig); border-color: var(--fig); }
+  nav a.is-active{ color: var(--fig); border-color: var(--fig); }
+
+  /* ---------- intro ---------- */
+  .intro{ padding: clamp(48px, 9vw, 96px) 0 clamp(32px, 5vw, 56px); }
+  .intro h1{ font-size: clamp(2rem, 4.6vw, 3.1rem); max-width: 18ch; line-height: 1.15; }
+  .intro p{ margin-top: 1.1em; max-width: 54ch; font-size: 1.05rem; }
+
+  section{ padding: clamp(48px, 8vw, 96px) 0; }
+  .rule{ border: none; height: 1px; background: var(--ink-10); margin: 0; }
+
+  .section-head{ max-width: 62ch; margin-bottom: clamp(28px, 4.5vw, 48px); }
+  .section-head h2{ font-size: clamp(1.5rem, 3vw, 2.1rem); line-height: 1.25; }
+
+  /* ---------- bloque con foto (Alimentación / Ritualizar) ---------- */
+  .teaser{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(28px, 6vw, 64px);
+    align-items: center;
+  }
+  .teaser.reverse .photo{ order: 2; }
+  .teaser-text .eyebrow{ margin-bottom: 0.7em; }
+  .teaser-text h2{ font-size: clamp(1.6rem, 3vw, 2.1rem); margin-bottom: 0.6em; }
+  .teaser-text p{ max-width: 44ch; margin-bottom: 1.2em; }
+  .proximamente{
+    font-style: italic;
+    color: var(--ink-55);
+    font-size: 0.92rem;
+    border-left: 2px solid var(--fig);
+    padding-left: 1em;
+  }
+
+  /* ---------- bloques sin foto (Perspectiva / Conversaciones) ---------- */
+  .sin-foto-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: clamp(24px, 4vw, 48px);
+  }
+  .bloque{ border-top: 1px solid var(--ink-18); padding-top: 1.3em; }
+  .bloque h3{ font-size: 1.3rem; margin-bottom: 0.5em; }
+  .bloque p{ margin: 0 0 1em; max-width: 46ch; }
+
+  footer.pie{ background: var(--ink); color: var(--paper); margin-top: clamp(40px, 6vw, 72px); }
+  .foot-inner{ padding: clamp(32px, 5vw, 56px) 0; display:flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; align-items: center; }
+  .foot-inner a:hover{ color: var(--fig); }
+
+  @media (max-width: 920px){
+    .teaser{ grid-template-columns: 1fr; }
+    .teaser .photo{ order: -1 !important; }
+    .sin-foto-grid{ grid-template-columns: 1fr; }
+  }
+  @media (max-width: 600px){
+    .nav-row{ justify-content: center; text-align: center; }
+    nav ul{ justify-content: center; gap: 12px 18px; }
+    .foot-inner{ justify-content: center; text-align: center; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav-row">
+    <a href="home.html" class="logo">ARREL</a>
+    <nav aria-label="Navegación principal">
+      <ul>
+        <li><a href="catalogo.html">Repostería</a></li>
+        <li><a href="mundo.html">Nuestra forma de ver el mundo</a></li>
+        <li><a href="journal.html" class="is-active">Journal</a></li>
+        <li><a href="home.html#moments">La Mesa</a></li>
+        <li><a href="home.html#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <section class="intro">
+    <div class="wrap">
+      <span class="eyebrow">Journal</span>
+      <h1>Para quien quiere profundizar un poco más.</h1>
+      <p>Ingredientes, temporada, presencia en la mesa y las voces de quienes están detrás de lo que comemos. Cuatro maneras de mirar más de cerca.</p>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- ALIMENTACIÓN -->
+  <section>
+    <div class="wrap teaser">
+      <div class="photo wide has-img"><img src="images/journal-alimentacion.jpg" alt="Mesa exterior con cestas de verduras de temporada, recién llegadas"></div>
+      <div class="teaser-text">
+        <span class="eyebrow">01 · Alimentación</span>
+        <h2>Ingredientes, recetas, temporada, mercados.</h2>
+        <p>De dónde viene lo que comemos, cómo cambia con el calendario y quién lo cultiva cerca de casa. La base de todo lo demás.</p>
+        <p class="proximamente">Primeros artículos en camino.</p>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- RITUALIZAR -->
+  <section>
+    <div class="wrap teaser reverse">
+      <div class="teaser-text">
+        <span class="eyebrow">02 · Ritualizar</span>
+        <h2>Presencia y conexión en la mesa.</h2>
+        <p>Cómo convertir un gesto cotidiano — pelar una fruta, poner la mesa, parar a comer — en un momento que se nota. Todavía estamos decidiendo si se organiza por estación (Otoño, Invierno, Primavera, Verano) o de otra forma.</p>
+        <p class="proximamente">Primeros artículos en camino.</p>
+      </div>
+      <div class="photo wide has-img"><img src="images/journal-ritualizar.jpg" alt="Pelando cítricos de temporada con calma, sobre una tabla de madera"></div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <!-- PERSPECTIVA + CONVERSACIONES -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Y además</span>
+        <h2>Dos formas más de mirar.</h2>
+      </div>
+      <div class="sin-foto-grid">
+        <div class="bloque">
+          <span class="num">03</span>
+          <h3>Perspectiva</h3>
+          <p>Reflexiones breves sobre comida y vida cotidiana — no dependen de ningún producto concreto.</p>
+          <p class="proximamente">Primeros artículos en camino.</p>
+        </div>
+        <div class="bloque">
+          <span class="num">04</span>
+          <h3>Conversaciones</h3>
+          <p>Entrevistas con chefs y productores locales — las voces de quienes están detrás de lo que comemos.</p>
+          <p class="proximamente">Primeras entrevistas en camino.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="pie">
+  <div class="wrap foot-inner">
+    <span>© 2026 Arrel. Barcelona · Obrador.</span>
+    <a href="home.html#contacto" class="link-arrow" style="color:var(--paper); border-color:var(--paper);">Contacto →</a>
+  </div>
+</footer>
+
+</body>
+</html>
