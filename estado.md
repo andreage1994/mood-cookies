@@ -222,6 +222,11 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    **Pendiente:** la foto del brownie — Andrea dice que ya la compartió
    antes, pero no la encuentro entre las imágenes recibidas en esta
    sesión; se lo he dicho para que la reenvíe. Versión 14 del Artifact.
+   **Resuelto:** llegó bien como archivo (macro de los cuadrados con sal
+   en escamas sobre papel) — sobrescribe `web/images/001-brownie.webp`,
+   así que se actualiza sola en `web/catalogo.html` y en el teaser de
+   `web/home.html`. Original guardado en
+   `referencias-visuales/editorial-03/`. Versión 15 del Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por
