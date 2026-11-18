@@ -204,6 +204,14 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    que encajara. Sigue sin cubrir el hueco de "especimen cálido sobre
    Soft Paper" de `mundo.html` — ninguna de estas 11 fotos de referencia
    es ese registro. Versión 12 del Artifact.
+   **Cuadrado en blanco cubierto (2026-11-18):** lo que Andrea veía como
+   "no puedo ver el contenido" era el placeholder de "Nuestra mirada
+   creativa" en `mundo.html` (reservado para el especimen cálido sobre
+   Soft Paper, que seguía sin foto real). Pidió llenarlo ya con una de las
+   fotos disponibles: puse la de montar una receta junto a la ventana del
+   obrador (`03-obrador-ventana-masa`, del segundo lote). Ya no queda
+   ningún hueco en blanco en `home.html` ni `mundo.html`. Versión 13 del
+   Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por
