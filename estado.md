@@ -212,6 +212,16 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    obrador (`03-obrador-ventana-masa`, del segundo lote). Ya no queda
    ningún hueco en blanco en `home.html` ni `mundo.html`. Versión 13 del
    Artifact.
+   **Foto de la tarta de remolacha actualizada (2026-11-18):** Andrea
+   mandó una foto nueva (cortando una tarta envuelta en hoja, con
+   cuchillo) para sustituir la de la tarta de queso de cabra/remolacha.
+   Como esa foto se reutilizaba en dos sitios (`web/catalogo.html` y el
+   teaser de `web/home.html`), bastó con sobrescribir
+   `web/images/rotacional-tartaleta.webp` — los dos sitios se actualizan
+   solos. Guardada también en `referencias-visuales/editorial-03/`.
+   **Pendiente:** la foto del brownie — Andrea dice que ya la compartió
+   antes, pero no la encuentro entre las imágenes recibidas en esta
+   sesión; se lo he dicho para que la reenvíe. Versión 14 del Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por
