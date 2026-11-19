@@ -316,6 +316,17 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    aprobar). **No toqué** la tarta/pastel de col kale que ya estaba en
    Rotacional — son productos distintos, no la misma cosa. Versión 21 del
    Artifact.
+   **Nº006 cambiado a ingredientes catalanes (2026-11-19):** "trigo
+   sarraceno, tahini y semillas" no tenía origen catalán verificable (el
+   tahini es sésamo, casi siempre importado). Brainstorm de sustitución,
+   verificado por búsqueda web: **algarroba del Baix Camp** (cultivo real
+   y documentado en Mont-roig del Camp, Cambrils, Vila-seca), **piñones
+   catalanes** (producción real pero repartida, sin una comarca única
+   dominante — no fuerzo una comarca concreta) y **miel de romero de El
+   Perelló** (Baix Ebre, Tarragona — zona apicultora de romero
+   documentada). Encaja además con el registro de panellet/rural catalán.
+   Aplicado en `web/catalogo.html` y `web-copy-v5.md`. Versión 22 del
+   Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por

@@ -202,8 +202,10 @@ entendiera el concepto, no contenido para la web (ver Fase B sección 10).
 especificar en la web qué pieza concreta toca en cada una, salvo
 excepciones ya confirmadas por Andrea)*
 - Tartaletas de fruta y verdura de temporada.
-- Cookies de temporada: AOVE con almendra y cítricos · trigo sarraceno con
-  tahini y semillas.
+- Cookies de temporada: AOVE con almendra y cítricos · algarroba del Baix
+  Camp, piñones catalanes y miel de romero de El Perelló *(cambiado
+  2026-11-19, antes trigo sarraceno/tahini/semillas — ingredientes sin
+  origen catalán verificable)*.
 - Coca de temporada *(nuevo, 2026-11-19)*: calabaza y avellanas en
   otoño (confirmado por Andrea) · calabacín o berenjena en verano
   (ejemplo, sin confirmar — "por decir algo").
