@@ -199,42 +199,37 @@
     letter-spacing: 0.03em; text-transform: uppercase;
   }
 
-  /* Rotacional — pestañas de estación (decorativas, sin filtrado real) */
-  .temporadas-tabs{
-    display: flex;
-    gap: 10px;
-    flex-wrap: wrap;
-    margin-bottom: 28px;
-  }
-  .temporada-tab{
-    font-size: 0.85rem;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    padding: 0.5em 1.1em;
-    border: 1px dashed var(--ink-18);
-    color: var(--ink-55);
-    cursor: pointer;
-    transition: border-color .2s ease, color .2s ease;
-  }
-  .temporada-tab:hover{ border-color: var(--fig); color: var(--fig); }
-  .temporada-tab.activa{ border: 1px solid var(--fig); color: var(--fig); border-style: solid; }
+  /* Rotacional — categorizado por estación */
+  .rotacional-intro{ max-width: 48ch; margin-bottom: clamp(24px, 4vw, 40px); }
 
-  .rotacional-body{
+  .temporadas-grid{
     display: grid;
-    grid-template-columns: 0.95fr 1.05fr;
-    gap: clamp(24px, 4vw, 40px);
+    grid-template-columns: repeat(4, 1fr);
+    gap: clamp(24px, 3vw, 36px);
     align-items: start;
   }
-  .rotacional-body p{ margin: 0 0 1em; max-width: 48ch; }
-  .rotacional-body p:last-child{ margin-bottom: 0; }
+  .temporada-grupo{ border-top: 1px solid var(--ink-18); padding-top: 1em; }
+  .temporada-nombre{
+    font-family: var(--display); font-weight: 400;
+    font-size: 1.05rem; margin: 0 0 0.8em;
+  }
 
-  .cookie-rot-list{ list-style:none; margin: 1.2em 0 0; padding:0; }
-  .cookie-rot-list li{
+  .rotacional-list{ list-style:none; margin: 0; padding: 0; }
+  .rotacional-list li{
     padding: 0.7em 0;
     border-top: 1px dashed var(--ink-18);
-    font-size: 0.98rem;
+    font-size: 0.93rem;
   }
-  .cookie-rot-list .num{ margin-right: 10px; }
+  .rotacional-list li:first-child{ border-top: none; padding-top: 0; }
+  .rotacional-list .num{ margin-right: 8px; }
+  .rotacional-tipo{
+    display: block;
+    font-family: var(--mono); font-size: 0.68rem; color: var(--ink-55);
+    letter-spacing: 0.03em; text-transform: uppercase; margin-top: 0.3em;
+  }
+
+  .temporada-grupo-foto{ display: flex; flex-direction: column; gap: 14px; }
+  .temporada-grupo-foto .photo{ aspect-ratio: 4/5; }
 
   footer.pie{ background: var(--ink); color: var(--paper); margin-top: clamp(40px, 6vw, 72px); }
   .foot-inner{ padding: clamp(32px, 5vw, 56px) 0; display:flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; align-items: center; }
@@ -242,12 +237,13 @@
 
   @media (max-width: 920px){
     .siempre-grid{ grid-template-columns: repeat(2, 1fr); }
-    .rotacional-body{ grid-template-columns: 1fr; }
+    .temporadas-grid{ grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 600px){
     .nav-row{ justify-content: center; text-align: center; }
     nav ul{ justify-content: center; gap: 12px 18px; }
     .siempre-grid{ grid-template-columns: 1fr; }
+    .temporadas-grid{ grid-template-columns: 1fr; }
     .linea-label{ flex-direction: column; align-items: flex-start; gap: 6px; }
     .foot-inner{ justify-content: center; text-align: center; }
   }
@@ -333,26 +329,33 @@
         <h3>Rotacional</h3>
         <span class="linea-note">cambia con la temporada</span>
       </div>
-      <div class="temporadas-tabs">
-        <span class="temporada-tab">Otoño</span>
-        <span class="temporada-tab activa">Invierno · ahora</span>
-        <span class="temporada-tab">Primavera</span>
-        <span class="temporada-tab">Verano</span>
-      </div>
-      <div class="rotacional-body">
-        <div class="photo square has-img"><img src="images/rotacional-tartaleta.webp" alt="Cortando el pastel envuelto en col kale, de temporada"></div>
-        <div>
-          <p>Adaptamos las recetas según los productos que hay en la tierra, estación a estación.</p>
-          <p><strong>Ahora:</strong> pastel envuelto en col kale de temporada, con calabaza, castañas de los Pirineus y queso de cabra català.</p>
-          <p>Las cookies de temporada rotan con la misma lógica:</p>
-          <ul class="cookie-rot-list">
-            <li><span class="num">Nº 005</span> AOVE de Les Garrigues, almendra de Lleida y cítricos de les Terres de l'Ebre</li>
-            <li><span class="num">Nº 006</span> Algarroba del Baix Camp, piñones catalanes y miel de romero de El Perelló</li>
+      <p class="rotacional-intro">Adaptamos las recetas según los productos que hay en la tierra, estación a estación.</p>
+      <div class="temporadas-grid">
+        <div class="temporada-grupo">
+          <h4 class="temporada-nombre">Otoño</h4>
+          <ul class="rotacional-list">
+            <li><span class="num">Nº 006</span> Algarroba del Baix Camp, piñones catalanes y miel de romero de El Perelló <span class="rotacional-tipo">cookie</span></li>
+            <li><span class="num">Nº 008</span> Calabaza y avellanas <span class="rotacional-tipo">coca</span></li>
           </ul>
-          <p>Y la coca de payés también cambia de base siempre a base de temporada:</p>
-          <ul class="cookie-rot-list">
-            <li><span class="num">Nº 008</span> Calabaza y avellanas — otoño</li>
-            <li>Calabacín o berenjena — verano (por confirmar)</li>
+        </div>
+        <div class="temporada-grupo">
+          <h4 class="temporada-nombre">Invierno</h4>
+          <div class="temporada-grupo-foto">
+            <div class="photo square has-img"><img src="images/rotacional-tartaleta.webp" alt="Cortando el pastel envuelto en col kale, de temporada"></div>
+            <ul class="rotacional-list">
+              <li><span class="num">Nº 005</span> AOVE de Les Garrigues, almendra de Lleida y cítricos de les Terres de l'Ebre <span class="rotacional-tipo">cookie</span></li>
+              <li>Pastel envuelto en col kale, con calabaza, castañas de los Pirineus y queso de cabra català <span class="rotacional-tipo">pastel</span></li>
+            </ul>
+          </div>
+        </div>
+        <div class="temporada-grupo">
+          <h4 class="temporada-nombre">Primavera</h4>
+          <p class="proximamente">Por confirmar.</p>
+        </div>
+        <div class="temporada-grupo">
+          <h4 class="temporada-nombre">Verano</h4>
+          <ul class="rotacional-list">
+            <li>Calabacín o berenjena <span class="rotacional-tipo">coca · por confirmar</span></li>
           </ul>
         </div>
       </div>

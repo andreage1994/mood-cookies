@@ -316,6 +316,20 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    aprobar). **No toqué** la tarta/pastel de col kale que ya estaba en
    Rotacional — son productos distintos, no la misma cosa. Versión 21 del
    Artifact.
+   **Rotacional categorizado por estación (2026-11-19):** Andrea pidió
+   sacar el texto explicativo repetido ("las cookies rotan igual...", "y
+   la coca también cambia...") y categorizar todo dentro de cada
+   estación en vez de listas separadas por tipo de producto. Quitadas
+   también las pestañas Otoño/Invierno/Primavera/Verano (ya no tenían
+   sentido como filtro decorativo si ahora se ven las 4 a la vez).
+   Estructura nueva: 4 bloques (Otoño/Invierno/Primavera/Verano), cada
+   uno con lo que le toca — **Otoño:** Nº006 cookie + Nº008 coca.
+   **Invierno:** Nº005 cookie + el pastel de col kale (con su foto).
+   **Primavera:** sin confirmar todavía. **Verano:** coca de
+   calabacín/berenjena, ejemplo sin confirmar. La asignación
+   cookie→estación (Nº005 cítricos→invierno, Nº006 algarroba/piñones/
+   miel→otoño) es una decisión editorial mía razonable, no algo que
+   Andrea haya fijado — avisar si quiere otra. Versión 23 del Artifact.
    **Nº006 cambiado a ingredientes catalanes (2026-11-19):** "trigo
    sarraceno, tahini y semillas" no tenía origen catalán verificable (el
    tahini es sésamo, casi siempre importado). Brainstorm de sustitución,

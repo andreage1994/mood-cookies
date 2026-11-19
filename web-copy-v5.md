@@ -198,17 +198,22 @@ entendiera el concepto, no contenido para la web (ver Fase B sección 10).
   guindilla. La base siempre lleva aceitunas; el resto rota con la
   temporada, como la cookie.
 
-**Rotacional** *(cambia con la temporada — cuatro estaciones, sin
-especificar en la web qué pieza concreta toca en cada una, salvo
-excepciones ya confirmadas por Andrea)*
-- Tartaletas de fruta y verdura de temporada.
-- Cookies de temporada: AOVE con almendra y cítricos · algarroba del Baix
-  Camp, piñones catalanes y miel de romero de El Perelló *(cambiado
-  2026-11-19, antes trigo sarraceno/tahini/semillas — ingredientes sin
-  origen catalán verificable)*.
-- Coca de temporada *(nuevo, 2026-11-19)*: calabaza y avellanas en
-  otoño (confirmado por Andrea) · calabacín o berenjena en verano
-  (ejemplo, sin confirmar — "por decir algo").
+**Rotacional** *(reestructurado 2026-11-19: categorizado por estación en
+vez de por tipo de producto, a petición de Andrea — "sacar todo este
+texto explicativo que es innecesario")*
+
+- **Otoño:** cookie de algarroba del Baix Camp, piñones catalanes y miel
+  de romero de El Perelló (Nº006) · coca de calabaza y avellanas (Nº008,
+  confirmado por Andrea).
+- **Invierno:** cookie de AOVE de Les Garrigues, almendra de Lleida y
+  cítricos de les Terres de l'Ebre (Nº005) · pastel envuelto en col kale,
+  con calabaza, castañas de los Pirineus y queso de cabra català.
+- **Primavera:** sin confirmar todavía.
+- **Verano:** coca de calabacín o berenjena — ejemplo sin confirmar
+  ("por decir algo").
+
+*(La asignación cookie↔estación es una decisión editorial, razonable
+pero no fijada por Andrea — a confirmar o corregir.)*
 
 **Goods** *(próximamente)* — colecciones estacionales, colaboraciones
 y ediciones limitadas.
