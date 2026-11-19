@@ -193,12 +193,20 @@ entendiera el concepto, no contenido para la web (ver Fase B sección 10).
   no es un error de receta: es la firma.
 - **Cookie de chocolate, avellana y sal marina** — la única que no cambia
   nunca.
+- **Coca de payés con aceitunas** *(nuevo, 2026-11-19)* — base de coca
+  con aceitunas arbequina de Les Garrigues, queso fresco batido y
+  guindilla. La base siempre lleva aceitunas; el resto rota con la
+  temporada, como la cookie.
 
 **Rotacional** *(cambia con la temporada — cuatro estaciones, sin
-especificar en la web qué pieza concreta toca en cada una)*
+especificar en la web qué pieza concreta toca en cada una, salvo
+excepciones ya confirmadas por Andrea)*
 - Tartaletas de fruta y verdura de temporada.
 - Cookies de temporada: AOVE con almendra y cítricos · trigo sarraceno con
   tahini y semillas.
+- Coca de temporada *(nuevo, 2026-11-19)*: calabaza y avellanas en
+  otoño (confirmado por Andrea) · calabacín o berenjena en verano
+  (ejemplo, sin confirmar — "por decir algo").
 
 **Goods** *(próximamente)* — colecciones estacionales, colaboraciones
 y ediciones limitadas.

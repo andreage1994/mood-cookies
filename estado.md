@@ -2,7 +2,7 @@
 
 **Flujo:** Concepto y Narrativa de Marca (misma lógica de fases que usa TBNB,
 aplicada aquí a un proyecto propio de Andrea, no a un cliente).
-**Última actualización:** 2026-11-18
+**Última actualización:** 2026-11-19
 
 ## Resumen
 
@@ -299,6 +299,23 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    criterio que cualquier otro encuentro, explícitamente no team
    building ni wellness corporativo. Aplicado en `web/la-mesa.html`,
    `web/home.html` (teaser) y `web-copy-v5.md`. Versión 20 del Artifact.
+   **Nuevo producto: Coca de payés (2026-11-19).** Andrea mandó una foto
+   (coca con cráter de aceitunas, queso batido y guindilla, sobre masa
+   tipo pan de payés) y explicó la estructura: es una base de coca que
+   **siempre** lleva aceitunas (Siempre, como la cookie fija), pero la
+   base también **rota con la temporada** (lo que ella ya había nombrado
+   internamente como "tartaleta de calabaza y avellanas" para otoño —
+   aclaración, no es una tarta nueva, es la coca con otro topping). Verano
+   lo dio solo como ejemplo sin confirmar ("calabacín o berenjena, por
+   decir algo"). Añadido **Nº007 Coca de payés con aceitunas** a Siempre
+   (grid pasa de 4 a 3 columnas para que 5 productos no queden
+   descuadrados) y **Nº008 coca de calabaza y avellanas (otoño)** a
+   Rotacional, con el verano mencionado como ejemplo sin Nº (no
+   confirmado). Foto retocada con el mismo ajuste de color cálido que el
+   resto (a petición explícita de Andrea esta vez, no como prueba a
+   aprobar). **No toqué** la tarta/pastel de col kale que ya estaba en
+   Rotacional — son productos distintos, no la misma cosa. Versión 21 del
+   Artifact.
    **Novena pasada de identidad visual (2026-11-17) — fotografía de
    origen/ingredientes:** Andrea reconsideró la crítica de agencia sobre
    el moodboard original — no rechaza fotografiar ingredientes por
