@@ -208,7 +208,8 @@ texto explicativo que es innecesario")*
 - **Invierno:** cookie de AOVE de Les Garrigues, almendra de Lleida y
   cítricos de les Terres de l'Ebre (Nº005) · pastel envuelto en col kale,
   con calabaza, castañas de los Pirineus y queso de cabra català.
-- **Primavera:** sin confirmar todavía.
+- **Primavera:** coca de fresas del Maresme y tomillo (Nº009) · bizcocho
+  de AOVE de Les Garrigues, ciruelas de Lleida, tomillo y limón.
 - **Verano:** coca de calabacín o berenjena — ejemplo sin confirmar
   ("por decir algo").
 

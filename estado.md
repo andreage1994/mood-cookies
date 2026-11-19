@@ -330,6 +330,17 @@ repo como principal. Mientras tanto, se han ejecutado briefeando a
    cookie→estación (Nº005 cítricos→invierno, Nº006 algarroba/piñones/
    miel→otoño) es una decisión editorial mía razonable, no algo que
    Andrea haya fijado — avisar si quiere otra. Versión 23 del Artifact.
+   **Primavera confirmada (2026-11-19):** Andrea dio los dos sabores —
+   **coca de fresas del Maresme y tomillo (Nº009)** + **bizcocho de AOVE
+   de Les Garrigues, ciruelas de Lleida, tomillo y limón** (este último
+   es el pastel/bizcocho de temporada, equivalente de primavera al
+   pastel de col kale de invierno). Orígenes verificados por búsqueda
+   web: Maresme es zona fresera documentada (sin DO formal, pero
+   producto reconocido de la Xarxa de Productes de la Terra); Lleida/
+   Segrià es la comarca fruticultora catalana por excelencia, con
+   ciruela entre su fruta dulce. Solo queda Verano sin cerrar del todo
+   (la coca de calabacín/berenjena sigue como ejemplo sin confirmar).
+   Versión 24 del Artifact.
    **Nº006 cambiado a ingredientes catalanes (2026-11-19):** "trigo
    sarraceno, tahini y semillas" no tenía origen catalán verificable (el
    tahini es sésamo, casi siempre importado). Brainstorm de sustitución,
